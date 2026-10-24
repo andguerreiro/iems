@@ -1,3 +1,5 @@
+Preço: 
+
 Tuning:
 
 Prós: 
@@ -15,8 +17,9 @@ Cabo:
 Ponteiras: 
 Embalagem: 
 
-MÉDIA
+MÉDIA: 
 
+Custo / Benefício: 
 
 Notas:
 (1) = Ruim
