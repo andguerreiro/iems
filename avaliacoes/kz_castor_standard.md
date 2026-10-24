@@ -1,0 +1,31 @@
+Preço: (3) R$ 100
+
+Afinação: Harman (com chaves em UUDD)
+
+![Respostas](/respostas/kz_castor_uudd.png)
+
+Prós: barato, bem construído (combina resina com metal) e ótima qualidade sonora
+Contras: carcaça e bocal grandes o que pode incomodar
+
+NOTAS
+- Graves: (3) presentes
+- Médios: (3) levemente recuados
+- Agudos: (3) levemente avançados
+- Som em geral: (3) excelente pelo preço
+- Conforto: (2) bocal um pouco grande, pode icomodar após muito tempo de uso
+- Ergonomia: (2) grande por causa dos dois DDs
+- Construção: (3) a combinação de resina e metal ficou ótima
+- Cabo: (1) simples demais
+- Ponteiras: (2) médias
+- Embalagem: (1) simples demais
+
+**MÉDIA: 2.3 de 3**
+
+Custo / Benefício: (3) ótimo pelo que entrega
+
+Notas:
+(1) = Ruim
+(2) = OK
+(3) = Ótimo
+
+Comparação sonora sempre com relação a Harman IE 2019.
