@@ -1,0 +1,10 @@
+Região,Faixa (Hz),Excesso,Falta
+Sub-graves,20-60 Hz,Retumbante,Raso
+Graves,60-250 Hz,Estufado,Magro
+Médios-graves,250-500 Hz,Turvo,Fino
+Médios,500 Hz-2 kHz,Buzinado,Escavado
+Médios-altos,2-4 kHz,Cansativo,Mole
+Presença,4-6 kHz,Estridente,Distante
+Brilho,6-8 kHz,Cortante,Escuro
+Agudos,8-12 kHz,Sibilante,Abafado
+Ar,12-20 kHz,Vítreo,Fechado
