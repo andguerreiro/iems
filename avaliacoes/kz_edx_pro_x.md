@@ -19,7 +19,7 @@ NOTAS
 - Ponteiras: (1) simples demais
 - Embalagem: (1) simples demais
 
-MÉDIA: 1.9 de 3
+**MÉDIA: 1.9 de 3**
 
 Custo / Benefício: (2) ok pelo que entrega
 
