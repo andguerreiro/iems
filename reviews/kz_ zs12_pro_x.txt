@@ -1,4 +1,4 @@
-Tuning: U-shaped
+Tuning: U-shaped (com chaves em UDDD)
 
 Prós: contrução metálica robusta
 Contras: controle de qualidade ruim (devolvi porque um dos lados perdeu volume em relação ao outro)
