@@ -21,11 +21,11 @@ NOTAS
 
 **MÉDIA: 2.5 de 3**
 
-Custo / Benefício: (2) ok pelo que entrega
+Custo / Benefício: (2) OK pelo que entrega
 
 Notas:
-(1) = Ruim
-(2) = OK
-(3) = Ótimo
+- (1) = Ruim
+- (2) = OK
+- (3) = Ótimo
 
 Comparação sonora sempre com relação a Harman IE 2019.
