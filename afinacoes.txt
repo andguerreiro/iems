@@ -1,7 +1,8 @@
-1) KZ EDX Pro X = Em V
-2) KZ ZS12 Pro X = Em U
-3) Sennheiser IE100 Pro = Quente
-4) KZ Castor Standard = Harman
-5) Truthear Zero: Red = Neutro + Grave
-6) Kefine Klean = Quente-Harman
-7) Kiwi Ears Cadenza II = Quente-Balanceado
+IEM,Afinação
+KZ EDX Pro X,Em V
+KZ ZS12 Pro X,Em U
+Sennheiser IE100 Pro,Quente
+KZ Castor Standard,Harman
+Truthear Zero: Red,Neutro + Grave
+Kefine Klean,Quente-Harman
+Kiwi Ears Cadenza II,Quente-Balanceado
