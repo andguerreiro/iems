@@ -1,3 +1,5 @@
+Tuning:
+
 Prós: 
 Contras: 
 
@@ -13,11 +15,12 @@ Cabo:
 Ponteiras: 
 Embalagem: 
 
-MÉDIA: 
+MÉDIA
+
 
 Notas:
 (1) = Ruim
 (2) = OK
 (3) = Ótimo
 
-Comparação sonora sempre com relação a Harman 2019.
+Comparação sonora sempre com relação a Harman IE 2019.
