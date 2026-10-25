@@ -14,7 +14,7 @@ Assinatura: Quente
 
 Graves: avançados (3)
 
-Médios: presentes (4)
+Médios: levemente avançados (4)
 
 Agudos: recuados (3)
 
