@@ -2,7 +2,7 @@
 
 Preço: USD 50
 
-Afinação: Quente-Balanceado
+Afinação: Balanceado-Quente
 
 ![Respostas](/respostas/kiwi_ears_cadenza_2.png)
 
