@@ -8,13 +8,13 @@ Afinação: Quente-Harman (independente do filtro prata ou preto)
 
 **Prós:** A qualidade do som em todas as frequências impressiona, assim como a ergonomia, construção em liga de alumínio, o conforto, a separação de instrumentos e o palco sonoro.
 
-**Contras:** Leve incomodo no canal auditivo depois de uso por várias horas devido ao diâmetro do bocal ser grande por causa do filtro removível.
+**Contras:** Leve incomodo no canal auditivo depois de uso por várias horas devido ao diâmetro do bocal ser grande por causa do filtro rosqueável.
 
 ## Avaliação
 
-Graves: levemente avançado (3)
+Graves: avançado (2)
 
-Médios: perfeito (3)
+Médios: levemente avançado (3)
 
 Agudos: levemente recuado (3)
 
@@ -32,7 +32,7 @@ Ponteiras: silicone macio mas com poucas opções (2)
 
 Embalagem: muito bem feita, com case e dois filtros pra mudar a afinação (3)
 
-**Nota geral:** 2.8 de 3 (93%)
+**Nota geral:** 2.7 de 3 (90%)
 
 **Custo / Benefício:** excelente pelo que entrega (3)
 
