@@ -28,11 +28,11 @@ Construção: leve e muito bem acabado (3)
 
 Cabo: flexível, sem microfonia mas grosso demais (2)
 
-Ponteiras: pares estreitos e largos, qualidade ok (2)
+Ponteiras: pares estreitos e largos, macios e de qualidade ótima (3)
 
 Embalagem: Com tudo o que precisa sem faltar nem sobrar (2)
 
-**Nota geral:** 2.5 de 3
+**Nota geral:** 2.6 de 3
 
 **Custo / Benefício:** ótimo pelo que entrega (3)
 
