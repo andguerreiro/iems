@@ -14,8 +14,8 @@ NOTAS
 - Som em geral: (2) ótimo pra retorno de palco (monitoramento); pra ouvir música é um pouco sem energia
 - Conforto: (3) referência
 - Ergonomia: (3) referência
-- Construção: (2) leve e de plástico
-- Cabo: (2) muito bom mas não dá pra trocar com facilidade
+- Construção: (2) leve mas de plástico
+- Cabo: (2) muito resistente mas não dá pra trocar com facilidade por ser exclusivo da Sennheiser
 - Ponteiras: (3) silicone de excelente qualidade, espuma de memória também
 - Embalagem: (3) com case e limpador de sugeira para bocal/ponteiras 
 
