@@ -1,31 +1,42 @@
-Preço: (3) USD 10
+# KZ EDX Pro X
+
+Preço: USD 10
 
 Afinação: Em V
 
 ![Respostas](/respostas/kz_edx_pro_x.png)
 
-- Prós: leve, ergonomico e barato
-- Contras: cabo e fidelidade sonora
+**Prós:** Leve, ergonomico e barato
 
-NOTAS
-- Graves: (2) avançados
-- Médios: (2) recuados
-- Agudos: (2) avançados
-- Som em geral: (2) energético 
-- Conforto: (3) leve e pequeno
-- Ergonomia: (3) encaixe perfeito
-- Construção: (2) resina
-- Cabo: (1) simples demais
-- Ponteiras: (1) simples demais
-- Embalagem: (1) simples demais
+**Contras:** Cabo e fidelidade sonora
 
-**MÉDIA: 1.9 de 3**
+## Avaliação
 
-Custo / Benefício: (2) ok pelo que entrega
+Graves: avançados (2)
 
-Notas:
-- (1) = Ruim
-- (2) = OK
-- (3) = Ótimo
+Médios: recuados (2)
 
-Comparação sonora sempre com relação a Harman IE 2019.
+Agudos: avançados (2)
+
+Som em geral: energético (2)
+
+Conforto: leve e pequeno (3)
+
+Ergonomia: encaixe perfeito (3)
+
+Construção: resina (2)
+
+Cabo: simples demais (1)
+
+Ponteiras: simples demais (1)
+
+Embalagem: simples demais (1)
+
+**Nota geral:** 1.9 de 3
+
+**Custo / Benefício:** ok pelo que entrega (2)
+
+## Obs:
+(1) = Ruim, (2) = OK e (3) = Ótimo
+
+Comparação sonora sempre com relação a Harman 2019.
