@@ -14,7 +14,7 @@ Afinação: Em V
 
 Graves: avançados (2)
 
-Médios: recuados (2)
+Médios: avançados (2)
 
 Agudos: avançados (2)
 
