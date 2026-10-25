@@ -16,7 +16,7 @@ Graves: levemente recuados (3)
 
 Médios: levemente avançados (3)
 
-Agudos: recuados (1)
+Agudos: recuados (2)
 
 Som em geral: os agudos recuados são mais na região da presença, então nao incomoda tanto e com os graves e médios no lugar fica com um equilibrio ótimo (3)
 
@@ -32,7 +32,7 @@ Ponteiras: boa variedade, mas a qualidade e maciez do silicone podia ser melhor 
 
 Embalagem: acima da média (3)
 
-**Nota geral:** 2.2 de 3 (73%)
+**Nota geral:** 2.3 de 3 (77%)
 
 **Custo / Benefício:** OK pelo que entrega (2)
 
