@@ -18,7 +18,7 @@ Médios: levemente avançado (3)
 
 Agudos: levemente recuado (3)
 
-Som em geral: quase perfeito nos médios e agudos e com graves levemente encorpados, deixou o som excelente pro meu gosto (3)
+Som em geral: quase perfeito nos médios e agudos e com graves encorpados, deixou o som ótimo pro meu gosto (3)
 
 Conforto: nenhum incomodo no canal auditivo ou orelha (2)
 
