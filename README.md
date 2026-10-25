@@ -2,13 +2,13 @@
 
 | Posição | IEM | Nota |
 | :---: | :--- | :---: |
-| **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **3,7** |
-| **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **3,6** |
-| **3º** | [Sennheiser IE100 Pro](/avaliacoes/sennheiser_ie100_pro.md) | **3,4** |
+| **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **4,0** |
+| **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **3,7** |
+| **3º** | [Sennheiser IE100 Pro](/avaliacoes/sennheiser_ie100_pro.md) | **3,6** |
 | **4º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **3,3** |
 | **5º** | [KZ Castor](/avaliacoes/kz_castor.md) | **3,1** |
-| **6º** | [KZ ZS12 Pro X](/avaliacoes/kz_zs12_pro_x.md) | **3,0** |
 | **6º** | [KZ EDX Pro X](/avaliacoes/kz_edx_pro_x.md) | **3,0** |
+| **7º** | [KZ ZS12 Pro X](/avaliacoes/kz_zs12_pro_x.md) | **2,9** |
 
 ## Como avalio
 
