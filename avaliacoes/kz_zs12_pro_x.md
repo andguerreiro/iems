@@ -22,11 +22,11 @@ Afinação: boa pra quem prefere vocais limpos, sem graves e agudos congestionan
 
 Conforto: um pouco pesado, mas com encaixe perfeito (3)
 
-Construção: metal muito bem acabado, mas apresentou problema no volume de um dos lados (3)
+Construção: metal muito bem acabado, mas apresentou problema no volume de um dos lados (2)
 
 Acessórios: cabo de prata, melhor que o de cobre padrão da KZ; ponteiras simples demais; embalagem simples demais (2)
 
-**Nota geral:** 3,0 de 5
+**Nota geral:** 2,9 de 5
 
 **Custo / Benefício:** OK pelo que entrega (3)
 
