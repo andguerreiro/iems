@@ -15,11 +15,11 @@ NOTAS
 - Conforto: (1) diâmetro e comprimento do bocal excessivamente grande
 - Ergonomia: (1) grande demais por causa dos dois DDs
 - Construção: (3) resina muito boa e leve
-- Cabo: (3) acima da média
-- Ponteiras: (3) boa variedade
+- Cabo: (2) trançado mas básico
+- Ponteiras: (2) boa variedade, mas a qualidade e maciez do silicone podia ser melhor 
 - Embalagem: (3) acima da média
 
-**MÉDIA: 2.5 de 3**
+**MÉDIA: 2.3 de 3**
 
 Custo / Benefício: (2) OK pelo que entrega
 
