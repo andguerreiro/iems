@@ -1,31 +1,42 @@
-Preço: (2) USD 55
+# Truthear Zero Red
+
+Preço: USD 55
 
 Afinação: Neutra + Grave
 
 ![Respostas](/respostas/truthear_zero_red.png)
 
-- Prós: embalagem e acessórios acima da média
-- Contras: diâmetro e comprimento do bocal excessivamente grande, tive que devolver de tanto desconforto no canal auditivo
+**Prós:** Embalagem e acessórios acima da média
 
-NOTAS
-- Graves: (3) levemente recuados
-- Médios: (3) levemente avançados
-- Agudos: (2) recuados
-- Som em geral: (3) os agudos recuados são mais na região da presença, então nao incomoda tanto e com os graves e médios no lugar fica com um equilibrio ótimo 
-- Conforto: (1) diâmetro e comprimento do bocal excessivamente grande
-- Ergonomia: (1) grande demais por causa dos dois DDs
-- Construção: (3) resina muito boa e leve
-- Cabo: (2) trançado mas básico
-- Ponteiras: (2) boa variedade, mas a qualidade e maciez do silicone podia ser melhor 
-- Embalagem: (3) acima da média
+**Contras:** Diâmetro e comprimento do bocal excessivamente grande, tive que devolver de tanto desconforto no canal auditivo
 
-**MÉDIA: 2.3 de 3**
+## Avaliação
 
-Custo / Benefício: (2) OK pelo que entrega
+Graves: levemente recuados (3)
 
-Notas:
-- (1) = Ruim
-- (2) = OK
-- (3) = Ótimo
+Médios: levemente avançados (3)
 
-Comparação sonora sempre com relação a Harman IE 2019.
+Agudos: recuados (2)
+
+Som em geral: os agudos recuados são mais na região da presença, então nao incomoda tanto e com os graves e médios no lugar fica com um equilibrio ótimo (3)
+
+Conforto: diâmetro e comprimento do bocal excessivamente grande (1)
+
+Ergonomia: grande demais por causa dos dois DDs (1)
+
+Construção: resina muito boa e leve (3)
+
+Cabo: trançado mas básico (2)
+
+Ponteiras: boa variedade, mas a qualidade e maciez do silicone podia ser melhor (2)
+
+Embalagem: acima da média (3)
+
+**Nota geral:** 2.3 de 3
+
+**Custo / Benefício:** OK pelo que entrega (2)
+
+## Obs:
+(1) = Ruim, (2) = OK e (3) = Ótimo
+
+Comparação sonora sempre com relação a Harman 2019.
