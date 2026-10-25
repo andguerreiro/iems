@@ -2,7 +2,7 @@
 
 Preço: USD 55
 
-Afinação: Neutra + Grave
+Afinação: Neutra
 
 ![Respostas](/respostas/truthear_zero_red.png)
 
