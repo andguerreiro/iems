@@ -1,31 +1,43 @@
-Preço: (2) USD 50
+# Kiwi Ears Cadenza 2
+
+Preço: USD 50
 
 Afinação: Quente-Balanceado
 
 ![Respostas](/respostas/kiwi_ears_cadenza_2.png)
 
-- Prós: leve, confortável e com som muito balanceado
-- Contras: ponteiras apenas OK
+**Prós:** Leve, confortável e com som muito balanceado
 
-NOTAS
-- Graves: (3) quase perfeitos
-- Médios: (3) levemente avançados
-- Agudos: (2) recuados
-- Som em geral: (3) muito balanceado com recuo praticamente só na presença, o que deixa o som balanceado sem ser frio
-- Conforto: (3) Diâmetro e comprimendo do bocal no tamanho ideal pra não incomodar em nada o canal auditivo
-- Ergonomia: (2) Um pouco grande
-- Construção: (3) leve e muito bem acabado
-- Cabo: (2) flexível, sem microfonia mas grosso demais
-- Ponteiras: (2) pares estreitos e largos, qualidade ok
-- Embalagem: (2) Com tudo o que precisa sem faltar nem sobrar
+**Contras:** Ponteiras apenas OK
 
-**MÉDIA: 2.5 de 3**
+## Avaliação
 
-Custo / Benefício: (3) ótimo pelo que entrega
+Graves: quase perfeitos (3)
 
-Notas:
-- (1) = Ruim
-- (2) = OK
-- (3) = Ótimo
+Médios: levemente avançados (3)
 
-Comparação sonora sempre com relação a Harman IE 2019.
+Agudos: recuados (2)
+
+Som em geral: muito balanceado com recuo praticamente só na presença, o que deixa o som balanceado sem ser frio (3)
+
+Conforto: Diâmetro e comprimendo do bocal no tamanho ideal pra não incomodar em nada o canal auditivo (3)
+
+Ergonomia: Um pouco grande (2)
+
+Construção: leve e muito bem acabado (3)
+
+Cabo: flexível, sem microfonia mas grosso demais (2)
+
+Ponteiras: pares estreitos e largos, qualidade ok (2)
+
+Embalagem: Com tudo o que precisa sem faltar nem sobrar (2)
+
+**Nota geral:** 2.5 de 3
+
+**Custo / Benefício:** ótimo pelo que entrega (3)
+
+## Obs:
+
+(1) = Ruim, (2) = OK e (3) = Ótimo
+
+Comparação sonora sempre com relação a Harman 2019.
