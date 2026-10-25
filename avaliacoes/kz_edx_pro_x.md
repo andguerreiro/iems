@@ -2,7 +2,7 @@
 
 Preço: USD 10
 
-Afinação: Em V
+Assinatura: Em V
 
 ![Respostas](/respostas/kz_edx_pro_x.png)
 
@@ -12,31 +12,29 @@ Afinação: Em V
 
 ## Avaliação
 
-Graves: avançados (2)
+Graves: avançados (3)
 
-Médios: recuados (2)
+Médios: recuados (3)
 
-Agudos: avançados (2)
+Agudos: avançados (3)
 
-Som em geral: energético (2)
+Afinação: energética (3)
 
-Conforto: leve e pequeno (3)
+Conforto: leve e pequeno, com encaixe perfeito (4)
 
-Ergonomia: encaixe perfeito (3)
+Construção: resina (3)
 
-Construção: resina (2)
+Acessórios: cabo, ponteiras e embalagem simples demais (2)
 
-Cabo: simples demais (1)
+**Nota geral:** 3,0 de 5
 
-Ponteiras: simples demais (1)
-
-Embalagem: simples demais (1)
-
-**Nota geral:** 1,9 de 3 (63%)
-
-**Custo / Benefício:** OK pelo que entrega (2)
+**Custo / Benefício:** OK pelo que entrega (3)
 
 ## Obs:
-(1) = Ruim, (2) = OK e (3) = Ótimo
+(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
+
+Nota geral = média simples dos 7 itens (Graves, Médios, Agudos, Afinação, Conforto, Construção e Acessórios).
+
+Graves, médios e agudos: no alvo = 5, levemente avançados ou recuados = 4, avançados ou recuados = 3, muito avançados ou recuados = 2, extremos = 1.
 
 Comparação sonora sempre com relação à Harman 2019.
