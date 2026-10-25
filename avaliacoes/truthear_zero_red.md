@@ -4,8 +4,8 @@ Afinação: Neutra + Grave
 
 ![Respostas](/respostas/truthear_zero_red.png)
 
-Prós: embalagem e acessórios acima da média
-Contras: diâmetro e comprimento do bocal excessivamente grande, tive que devolver de tanto desconforto no canal auditivo
+- Prós: embalagem e acessórios acima da média
+- Contras: diâmetro e comprimento do bocal excessivamente grande, tive que devolver de tanto desconforto no canal auditivo
 
 NOTAS
 - Graves: (3) levemente recuados
