@@ -1,4 +1,4 @@
-Preço: (2) R$ 350
+Preço: (2) USD 59
 
 Afinação: Em U (com chaves em UDDD)
 
