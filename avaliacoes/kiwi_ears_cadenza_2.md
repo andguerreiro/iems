@@ -13,13 +13,13 @@ NOTAS
 - Agudos: (2) recuados
 - Som em geral: (3) muito balanceado com recuo praticamente só na presença, o que deixa o som balanceado sem ser frio
 - Conforto: (3) Diâmetro e comprimendo do bocal no tamanho ideal pra não incomodar em nada o canal auditivo
-- Ergonomia: (3) encaixe perfeito
+- Ergonomia: (2) Um pouco grande
 - Construção: (3) leve e muito bem acabado
-- Cabo: (3) flexível, sem microfonia e robusto
-- Ponteiras: (2) pares estreitos e largos, silicone macio
+- Cabo: (2) flexível, sem microfonia mas grosso demais
+- Ponteiras: (2) pares estreitos e largos, qualidade ok
 - Embalagem: (2) Com tudo o que precisa sem faltar nem sobrar
 
-**MÉDIA: 2.7 de 3**
+**MÉDIA: 2.5 de 3**
 
 Custo / Benefício: (3) ótima custo pelo que entrega
 
