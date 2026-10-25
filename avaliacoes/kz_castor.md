@@ -8,7 +8,7 @@ Afinação: Harman-leve (com chaves em 1100)
 
 **Prós:** Barato, bem construído (combina resina com metal) e ótima qualidade sonora
 
-**Contras:** Carcaça e bocal grandes o que pode incomodar
+**Contras:** Carcaça e bocal grandes, o que pode incomodar
 
 ## Avaliação
 
@@ -20,7 +20,7 @@ Agudos: levemente avançados (3)
 
 Som em geral: um pouco recuado nos graves e médios (2)
 
-Conforto: bocal um pouco grande, pode icomodar após muito tempo de uso (2)
+Conforto: bocal um pouco grande, pode incomodar após muito tempo de uso (2)
 
 Ergonomia: grande por causa dos dois DDs (2)
 
@@ -32,11 +32,11 @@ Ponteiras: médias (2)
 
 Embalagem: simples demais (1)
 
-**Nota geral:** 2.0 de 3 (67%)
+**Nota geral:** 2,0 de 3 (67%)
 
 **Custo / Benefício:** ótimo pelo que entrega (3)
 
 ## Obs:
 (1) = Ruim, (2) = OK e (3) = Ótimo
 
-Comparação sonora sempre com relação a Harman 2019.
+Comparação sonora sempre com relação à Harman 2019.
