@@ -1,8 +1,8 @@
 # IEMs Avaliados
 
-| Posição | IEM | Nota |
+| Posição | IEM | Nota (1 a 5) |
 | :---: | :--- | :---: |
-| **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **4,0** |
+| **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **3,9** |
 | **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **3,7** |
 | **3º** | [Sennheiser IE100 Pro](/avaliacoes/sennheiser_ie100_pro.md) | **3,6** |
 | **4º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **3,3** |
