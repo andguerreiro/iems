@@ -1,4 +1,4 @@
-Preço: (3) R$ 100
+Preço: (3) USD 15
 
 Afinação: Harman (com chaves em UUDD)
 
