@@ -1,4 +1,4 @@
-Preço: (3) R$ 65
+Preço: (3) USD 10
 
 Afinação: Em V
 
