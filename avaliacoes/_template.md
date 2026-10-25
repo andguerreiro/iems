@@ -4,8 +4,8 @@ Afinação:
 
 ![Respostas](/respostas/x.png)
 
-Prós: 
-Contras: 
+- Prós: 
+- Contras: 
 
 NOTAS
 - Graves: 
