@@ -21,7 +21,7 @@ NOTAS
 
 **MÉDIA: 2.5 de 3**
 
-Custo / Benefício: (3) ótima pelo que entrega
+Custo / Benefício: (3) ótimo pelo que entrega
 
 Notas:
 - (1) = Ruim
