@@ -1,4 +1,4 @@
-# KZ ZS12 Pro X UDDD
+# KZ ZS12 Pro X
 
 Preço: USD 59
 
