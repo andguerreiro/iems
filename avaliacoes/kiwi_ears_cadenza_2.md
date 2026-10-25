@@ -1,4 +1,4 @@
-Preço: (2) R$ 300
+Preço: (2) USD 50
 
 Afinação: Quente-Balanceado
 
