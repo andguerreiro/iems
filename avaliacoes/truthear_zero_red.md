@@ -16,7 +16,7 @@ Graves: levemente recuados (3)
 
 Médios: levemente avançados (3)
 
-Agudos: recuados e com picos elevados (1)
+Agudos: recuados (1)
 
 Som em geral: os agudos recuados são mais na região da presença, então nao incomoda tanto e com os graves e médios no lugar fica com um equilibrio ótimo (3)
 
