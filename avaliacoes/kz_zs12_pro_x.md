@@ -2,7 +2,7 @@
 
 Preço: USD 59
 
-Afinação: Neutra-brilhante (com chaves em UDDD)
+Assinatura: Neutra-brilhante (com chaves em UDDD)
 
 ![Respostas](/respostas/kz_zs12_pro_x_uddd.png)
 
@@ -12,31 +12,29 @@ Afinação: Neutra-brilhante (com chaves em UDDD)
 
 ## Avaliação
 
-Graves: recuados (2)
+Graves: recuados (3)
 
-Médios: presentes (3)
+Médios: presentes (4)
 
-Agudos: recuados (2)
+Agudos: recuados (3)
 
-Som em geral: bom pra quem prefere vocais limpos, sem graves e agudos congestionando (2)
+Afinação: boa pra quem prefere vocais limpos, sem graves e agudos congestionando (3)
 
-Conforto: um pouco pesado (2)
+Conforto: um pouco pesado, mas com encaixe perfeito (3)
 
-Ergonomia: encaixe perfeito (3)
+Construção: metal muito bem acabado, mas apresentou problema no volume de um dos lados (3)
 
-Construção: metal muito bem acabado, mas apresentou problema no volume de um dos lados (2)
+Acessórios: cabo de prata, melhor que o de cobre padrão da KZ; ponteiras simples demais; embalagem simples demais (2)
 
-Cabo: de prata, melhor que o de cobre padrão da KZ (2)
+**Nota geral:** 3,0 de 5
 
-Ponteiras: simples demais (1)
-
-Embalagem: simples demais (1)
-
-**Nota geral:** 2,0 de 3 (67%)
-
-**Custo / Benefício:** OK pelo que entrega (2)
+**Custo / Benefício:** OK pelo que entrega (3)
 
 ## Obs:
-(1) = Ruim, (2) = OK e (3) = Ótimo
+(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
+
+Nota geral = média simples dos 7 itens (Graves, Médios, Agudos, Afinação, Conforto, Construção e Acessórios).
+
+Graves, médios e agudos: no alvo = 5, levemente avançados ou recuados = 4, avançados ou recuados = 3, muito avançados ou recuados = 2, extremos = 1.
 
 Comparação sonora sempre com relação à Harman 2019.
