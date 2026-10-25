@@ -32,7 +32,7 @@ Ponteiras: silicone de excelente qualidade, espuma de memória também (3)
 
 Embalagem: com case e limpador de sugeira para bocal/ponteiras (3)
 
-**Nota geral:** 2.5 de 3
+**Nota geral:** 2.5 de 3 (83%)
 
 **Custo / Benefício:** caro demais pelo que entrega (1)
 
