@@ -18,7 +18,7 @@ Médios: levemente avançados (4)
 
 Agudos: levemente recuados (4)
 
-Afinação: quase perfeita nos médios e agudos e com graves encorpados, deixou o som ótimo pro meu gosto (5)
+Afinação: ótima nos médios e agudos e com graves encorpados (4)
 
 Conforto: leve incômodo no canal auditivo devido ao diâmetro do bocal, mas muito pequeno e com encaixe perfeito (3)
 
@@ -26,7 +26,7 @@ Construção: em liga de alumínio com usinagem CNC, qualidade excepcional (5)
 
 Acessórios: cabo trançado, fino, forte, leve, flexível e com baixíssima microfonia; ponteiras de silicone macio, mas com poucas opções; embalagem muito bem feita, com case e dois filtros pra mudar a afinação (4)
 
-**Nota geral:** 4,0 de 5
+**Nota geral:** 3.9 de 5
 
 **Custo / Benefício:** excelente pelo que entrega (5)
 
