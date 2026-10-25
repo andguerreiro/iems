@@ -1,4 +1,4 @@
-Preço: (2) R$ 300
+Preço: (2) USD 49
 
 Afinação: Quente-Harman (independente do filtro prata ou preto)
 
