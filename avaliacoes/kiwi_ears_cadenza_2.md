@@ -12,7 +12,7 @@ Assinatura: Balanceado-Quente
 
 ## Avaliação
 
-Graves: quase perfeitos (4)
+Graves: quase perfeitos (5)
 
 Médios: levemente avançados (4)
 
@@ -26,7 +26,7 @@ Construção: leve e muito bem acabada (4)
 
 Acessórios: cabo trançado, flexível e sem microfonia, mas grosso demais; ponteiras em pares estreitos e largos, macias e de ótima qualidade; embalagem com tudo o que precisa, sem faltar nem sobrar (3)
 
-**Nota geral:** 3,6 de 5
+**Nota geral:** 3,7 de 5
 
 **Custo / Benefício:** ótimo pelo que entrega (4)
 
