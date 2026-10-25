@@ -20,7 +20,7 @@ Agudos: levemente recuado (3)
 
 Som em geral: quase perfeito nos médios e agudos e com graves encorpados, deixou o som ótimo pro meu gosto (3)
 
-Conforto: nenhum incomodo no canal auditivo ou orelha (2)
+Conforto: leve incomodo no canal auditivo devido ao diâmetro do bocal (2)
 
 Ergonomia: muito pequeno, encaixa perfeitamente (3)
 
