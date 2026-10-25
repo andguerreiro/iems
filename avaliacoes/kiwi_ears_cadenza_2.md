@@ -4,8 +4,8 @@ Afinação: Quente-Balanceado
 
 ![Respostas](/respostas/kiwi_ears_cadenza_2.png)
 
-Prós: leve, confortável e com som muito balanceado
-Contras: ponteiras apenas OK
+- Prós: leve, confortável e com som muito balanceado
+- Contras: ponteiras apenas OK
 
 NOTAS
 - Graves: (3) quase perfeitos
