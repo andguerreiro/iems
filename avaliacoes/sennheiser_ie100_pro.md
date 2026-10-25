@@ -26,7 +26,7 @@ Ergonomia: referência (3)
 
 Construção: leve mas de plástico (2)
 
-Cabo: muito resistente mas não dá pra trocar com facilidade por ser exclusivo da Sennheiser (2)
+Cabo: muito resistente mas não dá pra trocar com facilidade por ser exclusivo da Sennheiser e não é trançado (2)
 
 Ponteiras: silicone de excelente qualidade, espuma de memória também (3)
 
