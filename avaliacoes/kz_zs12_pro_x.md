@@ -14,7 +14,7 @@ Assinatura: Neutra-brilhante (com chaves em UDDD)
 
 Graves: recuados (3)
 
-Médios: presentes (4)
+Médios: levemente avançados (4)
 
 Agudos: recuados (3)
 
