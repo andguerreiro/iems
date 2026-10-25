@@ -20,13 +20,13 @@ Agudos: recuados (3)
 
 Afinação: os agudos recuados são mais na região da presença, então não incomoda tanto e, com os graves e médios no lugar, fica com um equilíbrio ótimo (4)
 
-Conforto: diâmetro e comprimento do bocal excessivamente grandes, e grande demais por causa dos dois drivers dinâmicos (2)
+Conforto: diâmetro e comprimento do bocal excessivamente grandes, e grande demais por causa dos dois drivers dinâmicos (1)
 
 Construção: resina muito boa e leve (4)
 
 Acessórios: cabo trançado, mas básico; ponteiras com boa variedade, mas a qualidade e a maciez do silicone podiam ser melhores; embalagem acima da média (3)
 
-**Nota geral:** 3,4 de 5
+**Nota geral:** 3,3 de 5
 
 **Custo / Benefício:** OK pelo que entrega (3)
 
