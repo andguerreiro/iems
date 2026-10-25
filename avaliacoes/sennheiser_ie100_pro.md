@@ -4,8 +4,8 @@ Afinação: Quente
 
 ![Respostas](/respostas/sennheiser_ie100_pro.png)
 
-Prós: qualidade excelente, garantia 2 anos, ergonomia e conforto referência
-Contras: caro
+- Prós: qualidade excelente, garantia 2 anos, ergonomia e conforto referência
+- Contras: caro
 
 NOTAS
 - Graves: (2) avançados
