@@ -6,7 +6,7 @@ Afinação: Em V
 
 ![Respostas](/respostas/kz_edx_pro_x.png)
 
-**Prós:** Leve, ergonomico e barato
+**Prós:** Leve, ergonômico e barato
 
 **Contras:** Cabo e fidelidade sonora
 
@@ -32,11 +32,11 @@ Ponteiras: simples demais (1)
 
 Embalagem: simples demais (1)
 
-**Nota geral:** 1.9 de 3 (63%)
+**Nota geral:** 1,9 de 3 (63%)
 
-**Custo / Benefício:** ok pelo que entrega (2)
+**Custo / Benefício:** OK pelo que entrega (2)
 
 ## Obs:
 (1) = Ruim, (2) = OK e (3) = Ótimo
 
-Comparação sonora sempre com relação a Harman 2019.
+Comparação sonora sempre com relação à Harman 2019.
