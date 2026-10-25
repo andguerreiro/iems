@@ -2,7 +2,7 @@
 
 Preço: USD 59
 
-Afinação: Em U (com chaves em UDDD)
+Afinação: Neutra-brilhante (com chaves em UDDD)
 
 ![Respostas](/respostas/kz_zs12_pro_x_uddd.png)
 
