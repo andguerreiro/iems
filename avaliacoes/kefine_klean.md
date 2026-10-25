@@ -2,7 +2,7 @@
 
 Preço: USD 49
 
-Afinação: Harman-Quente (independente do filtro prata ou preto)
+Assinatura: Quente-Harman (independente do filtro prata ou preto)
 
 ![Respostas](/respostas/kefine_klean.png)
 
@@ -12,31 +12,29 @@ Afinação: Harman-Quente (independente do filtro prata ou preto)
 
 ## Avaliação
 
-Graves: avançados (2)
+Graves: avançados (3)
 
-Médios: levemente avançados (3)
+Médios: levemente avançados (4)
 
-Agudos: levemente recuados (3)
+Agudos: levemente recuados (4)
 
-Som em geral: quase perfeito nos médios e agudos e com graves encorpados, deixou o som ótimo pro meu gosto (3)
+Afinação: quase perfeita nos médios e agudos e com graves encorpados, deixou o som ótimo pro meu gosto (4)
 
-Conforto: leve incômodo no canal auditivo devido ao diâmetro do bocal (2)
+Conforto: leve incômodo no canal auditivo devido ao diâmetro do bocal, mas muito pequeno e com encaixe perfeito (3)
 
-Ergonomia: muito pequeno, encaixa perfeitamente (3)
+Construção: em liga de alumínio com usinagem CNC, qualidade excepcional (4)
 
-Construção: em liga de alumínio com usinagem CNC, qualidade excepcional (3)
+Acessórios: cabo trançado, fino, forte, leve, flexível e com baixíssima microfonia; ponteiras de silicone macio, mas com poucas opções; embalagem muito bem feita, com case e dois filtros pra mudar a afinação (4)
 
-Cabo: trançado, fino, forte, leve, flexível e com baixíssima microfonia (3)
+**Nota geral:** 3,7 de 5
 
-Ponteiras: silicone macio, mas com poucas opções (2)
-
-Embalagem: muito bem feita, com case e dois filtros pra mudar a afinação (3)
-
-**Nota geral:** 2,7 de 3 (90%)
-
-**Custo / Benefício:** excelente pelo que entrega (3)
+**Custo / Benefício:** excelente pelo que entrega (4)
 
 ## Obs:
-(1) = Ruim, (2) = OK e (3) = Ótimo
+(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
+
+Nota geral = média simples dos 7 itens (Graves, Médios, Agudos, Afinação, Conforto, Construção e Acessórios).
+
+Graves, médios e agudos: no alvo = 5, levemente avançados ou recuados = 4, avançados ou recuados = 3, muito avançados ou recuados = 2, extremos = 1.
 
 Comparação sonora sempre com relação à Harman 2019.
