@@ -1,31 +1,42 @@
-Preço: (1) USD 109
+# Sennheiser IE100 Pro
+
+Preço: USD 109
 
 Afinação: Quente
 
 ![Respostas](/respostas/sennheiser_ie100_pro.png)
 
-- Prós: qualidade excelente, garantia 2 anos, ergonomia e conforto referência
-- Contras: caro
+**Prós:** Qualidade excelente, garantia 2 anos, ergonomia e conforto referência
 
-NOTAS
-- Graves: (2) avançados
-- Médios: (3) presentes
-- Agudos: (2) recuados
-- Som em geral: (2) ótimo pra retorno de palco (monitoramento); pra ouvir música é um pouco sem energia
-- Conforto: (3) referência
-- Ergonomia: (3) referência
-- Construção: (2) leve mas de plástico
-- Cabo: (2) muito resistente mas não dá pra trocar com facilidade por ser exclusivo da Sennheiser
-- Ponteiras: (3) silicone de excelente qualidade, espuma de memória também
-- Embalagem: (3) com case e limpador de sugeira para bocal/ponteiras 
+**Contras:** Caro
 
-**MÉDIA: 2.5 de 3**
+## Avaliação
 
-Custo / Benefício: (1) caro demais pelo que entrega
+Graves: avançados (2)
 
-Notas:
-- (1) = Ruim
-- (2) = OK
-- (3) = Ótimo
+Médios: presentes (3)
 
-Comparação sonora sempre com relação a Harman IE 2019.
+Agudos: recuados (2)
+
+Som em geral: ótimo pra retorno de palco (monitoramento); pra ouvir música é um pouco sem energia (2)
+
+Conforto: referência (3)
+
+Ergonomia: referência (3)
+
+Construção: leve mas de plástico (2)
+
+Cabo: muito resistente mas não dá pra trocar com facilidade por ser exclusivo da Sennheiser (2)
+
+Ponteiras: silicone de excelente qualidade, espuma de memória também (3)
+
+Embalagem: com case e limpador de sugeira para bocal/ponteiras (3)
+
+**Nota geral:** 2.5 de 3
+
+**Custo / Benefício:** caro demais pelo que entrega (1)
+
+## Obs:
+(1) = Ruim, (2) = OK e (3) = Ótimo
+
+Comparação sonora sempre com relação a Harman 2019.
