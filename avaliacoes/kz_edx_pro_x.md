@@ -4,8 +4,8 @@ Afinação: Em V
 
 ![Respostas](/respostas/kz_edx_pro_x.png)
 
-Prós: leve, ergonomico e barato
-Contras: cabo e fidelidade sonora
+- Prós: leve, ergonomico e barato
+- Contras: cabo e fidelidade sonora
 
 NOTAS
 - Graves: (2) avançados
