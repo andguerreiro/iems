@@ -8,7 +8,7 @@ Prós: leve, confortável e com som muito balanceado
 Contras: ponteiras apenas OK
 
 NOTAS
-- Graves: (3) levemente avançados
+- Graves: (3) quase perfeitos
 - Médios: (3) levemente avançados
 - Agudos: (2) recuados
 - Som em geral: (3) muito balanceado com recuo praticamente só na presença, o que deixa o som balanceado sem ser frio
