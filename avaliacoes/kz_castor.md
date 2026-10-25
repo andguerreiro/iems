@@ -28,7 +28,7 @@ Acessórios: cabo simples demais; ponteiras médias; embalagem simples demais (2
 
 **Nota geral:** 3,1 de 5
 
-**Custo / Benefício:** ótimo pelo que entrega (4)
+**Custo / Benefício:** ótimo pelo que entrega, com som de qualidade por USD 15 (5)
 
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
