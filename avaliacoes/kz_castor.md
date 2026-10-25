@@ -32,7 +32,7 @@ Ponteiras: médias (2)
 
 Embalagem: simples demais (1)
 
-**Nota geral:** 2.3 de 3
+**Nota geral:** 2.3 de 3 (77%)
 
 **Custo / Benefício:** ótimo pelo que entrega (3)
 
