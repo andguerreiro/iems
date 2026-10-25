@@ -2,7 +2,7 @@
 
 Preço: USD 15
 
-Afinação: Harman com graves recuados (com chaves em 1100)
+Afinação: Harman-leve (com chaves em 1100)
 
 ![Respostas](/respostas/kz_castor_1100.png)
 
