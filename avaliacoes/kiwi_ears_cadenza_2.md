@@ -26,7 +26,7 @@ Ergonomia: Um pouco grande (2)
 
 Construção: leve e muito bem acabado (3)
 
-Cabo: flexível, sem microfonia mas grosso demais (2)
+Cabo: trançado, flexível, sem microfonia mas grosso demais (2)
 
 Ponteiras: pares estreitos e largos, macios e de qualidade ótima (3)
 
