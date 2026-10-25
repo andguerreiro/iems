@@ -4,8 +4,8 @@ Afinação: Em U (com chaves em UDDD)
 
 ![Respostas](/respostas/kz_zs12_pro_x_uddd.png)
 
-Prós: contrução metálica robusta
-Contras: controle de qualidade ruim (devolvi porque um dos lados perdeu volume em relação ao outro)
+- Prós: contrução metálica robusta
+- Contras: controle de qualidade ruim (devolvi porque um dos lados perdeu volume em relação ao outro)
 
 NOTAS
 - Graves: (2) recuados
