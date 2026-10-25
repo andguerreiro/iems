@@ -8,7 +8,7 @@ Afinação: Quente-Balanceado
 
 **Prós:** Leve, confortável e com som muito balanceado
 
-**Contras:** Ponteiras apenas OK
+**Contras:** Ergonomia um pouco grande
 
 ## Avaliação
 
