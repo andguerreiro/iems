@@ -1,4 +1,4 @@
-Preço: (2) R$ 400
+Preço: (2) USD 55
 
 Afinação: Neutra + Grave
 
