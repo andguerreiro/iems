@@ -22,7 +22,7 @@ Som em geral: os agudos recuados são mais na região da presença, então nao i
 
 Conforto: diâmetro e comprimento do bocal excessivamente grande (1)
 
-Ergonomia: grande demais por causa dos dois DDs (1)
+Ergonomia: grande demais por causa dos dois drivers dinâmicos (1)
 
 Construção: resina muito boa e leve (3)
 
