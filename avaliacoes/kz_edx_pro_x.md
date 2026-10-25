@@ -18,9 +18,9 @@ Médios: recuados (3)
 
 Agudos: avançados (3)
 
-Afinação: energética (3)
+Afinação: energética, mas com pouca fidelidade sonora (2)
 
-Conforto: leve e pequeno, com encaixe perfeito (4)
+Conforto: leve e pequeno, com encaixe perfeito (5)
 
 Construção: resina (3)
 
