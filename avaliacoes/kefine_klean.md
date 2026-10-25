@@ -2,7 +2,7 @@
 
 Preço: USD 49
 
-Assinatura: Quente-Harman (independente do filtro prata ou preto)
+Assinatura: Harman-Quente (independente do filtro prata ou preto)
 
 ![Respostas](/respostas/kefine_klean.png)
 
