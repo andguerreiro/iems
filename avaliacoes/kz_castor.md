@@ -12,13 +12,13 @@ Afinação: Harman (com chaves em 1100)
 
 ## Avaliação
 
-Graves: presentes (3)
+Graves: recuados (2)
 
-Médios: levemente recuados (3)
+Médios: recuados (2)
 
 Agudos: levemente avançados (3)
 
-Som em geral: excelente pelo preço (3)
+Som em geral: um pouco recuado nos graves e médios (2)
 
 Conforto: bocal um pouco grande, pode icomodar após muito tempo de uso (2)
 
@@ -32,7 +32,7 @@ Ponteiras: médias (2)
 
 Embalagem: simples demais (1)
 
-**Nota geral:** 2.3 de 3 (77%)
+**Nota geral:** 2.0 de 3 (67%)
 
 **Custo / Benefício:** ótimo pelo que entrega (3)
 
