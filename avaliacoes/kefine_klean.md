@@ -4,7 +4,7 @@ Afinação: Quente-Harman (independente do filtro prata ou preto)
 
 ![Respostas](/respostas/kefine_klean.png)
 
-Prós: a qualidade do som em todas as frequências impressiona, assim como a ergonomia e o conforto.
+Prós: a qualidade do som em todas as frequências impressiona, assim como a ergonomia, o conforto, a separação de instrumentos e o palco sonoro.
 Contras: nenhum
 
 NOTAS
