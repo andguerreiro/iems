@@ -32,7 +32,7 @@ Ponteiras: silicone macio mas com poucas opções (2)
 
 Embalagem: muito bem feita, com case e dois filtros pra mudar a afinação (3)
 
-**Nota geral:** 2.8 de 3
+**Nota geral:** 2.8 de 3 (93%)
 
 **Custo / Benefício:** excelente pelo que entrega (3)
 
