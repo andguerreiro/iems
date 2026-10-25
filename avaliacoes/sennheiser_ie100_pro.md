@@ -1,4 +1,4 @@
-Preço: (1) R$ 1000
+Preço: (1) USD 109
 
 Afinação: Quente
 
