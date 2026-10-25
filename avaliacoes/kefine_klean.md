@@ -1,31 +1,42 @@
-Preço: (2) USD 49
+# Kefine Klean
+
+Preço: USD 49
 
 Afinação: Quente-Harman (independente do filtro prata ou preto)
 
 ![Respostas](/respostas/kefine_klean.png)
 
-- Prós: a qualidade do som em todas as frequências impressiona, assim como a ergonomia, o conforto, a separação de instrumentos e o palco sonoro.
-- Contras: nenhum
+**Prós:** A qualidade do som em todas as frequências impressiona, assim como a ergonomia, o conforto, a separação de instrumentos e o palco sonoro.
 
-NOTAS
-- Graves: (3) levemente avançado
-- Médios: (3) perfeito
-- Agudos: (3) levemente recuado
-- Som em geral: (3) quase perfeito nos médios e agudos e com graves levemente encorpados, deixou o som cristalino 
-- Conforto: (3) nenhum incomodo no canal auditivo ou orelha
-- Ergonomia: (3) muito pequeno, encaixa perfeitamente
-- Construção: (3) em liga aluminio com usinagem CNC, qualidade excepcional
-- Cabo: (3) trançado, fino, forte, leve, flexível e com baixíssima microfonia
-- Ponteiras: (3) silicone extremamente macio e na quantidade certa
-- Embalagem: (3) muito bem feita, com case e dois filtros pra mudar a afinação
+**Contras:** Nenhum
 
-**MÉDIA: 3 de 3**
+## Avaliação
 
-Custo / Benefício: (3) excelente pelo que entrega
+Graves: levemente avançado (3)
 
-Notas:
-- (1) = Ruim
-- (2) = OK
-- (3) = Ótimo
+Médios: perfeito (3)
 
-Comparação sonora sempre com relação a Harman IE 2019.
+Agudos: levemente recuado (3)
+
+Som em geral: quase perfeito nos médios e agudos e com graves levemente encorpados, deixou o som cristalino (3)
+
+Conforto: nenhum incomodo no canal auditivo ou orelha (3)
+
+Ergonomia: muito pequeno, encaixa perfeitamente (3)
+
+Construção: em liga aluminio com usinagem CNC, qualidade excepcional (3)
+
+Cabo: trançado, fino, forte, leve, flexível e com baixíssima microfonia (3)
+
+Ponteiras: silicone extremamente macio e na quantidade certa (3)
+
+Embalagem: muito bem feita, com case e dois filtros pra mudar a afinação (3)
+
+**Nota geral:** 3 de 3
+
+**Custo / Benefício:** excelente pelo que entrega (3)
+
+## Obs:
+(1) = Ruim, (2) = OK e (3) = Ótimo
+
+Comparação sonora sempre com relação a Harman 2019.
