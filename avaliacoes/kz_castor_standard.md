@@ -4,8 +4,8 @@ Afinação: Harman (com chaves em UUDD)
 
 ![Respostas](/respostas/kz_castor_uudd.png)
 
-Prós: barato, bem construído (combina resina com metal) e ótima qualidade sonora
-Contras: carcaça e bocal grandes o que pode incomodar
+- Prós: barato, bem construído (combina resina com metal) e ótima qualidade sonora
+- Contras: carcaça e bocal grandes o que pode incomodar
 
 NOTAS
 - Graves: (3) presentes
