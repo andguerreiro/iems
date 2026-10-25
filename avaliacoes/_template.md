@@ -1,31 +1,42 @@
+# Nome
+
 Preço: 
 
 Afinação: 
 
 ![Respostas](/respostas/x.png)
 
-- Prós: 
-- Contras: 
+**Prós:** 
 
-NOTAS
-- Graves: 
-- Médios: 
-- Agudos: 
-- Som em geral: 
-- Conforto: 
-- Ergonomia: 
-- Construção: 
-- Cabo: 
-- Ponteiras: 
-- Embalagem: 
+**Contras:** 
 
-**MÉDIA: X**
+## Avaliação
 
-Custo / Benefício: 
+Graves: 
 
-Notas:
-- (1) = Ruim
-- (2) = OK
-- (3) = Ótimo
+Médios: 
 
-Comparação sonora sempre com relação a Harman IE 2019.
+Agudos: 
+
+Som em geral: 
+
+Conforto: 
+
+Ergonomia: 
+
+Construção: 
+
+Cabo: 
+
+Ponteiras: 
+
+Embalagem: 
+
+**Nota geral:** 
+
+**Custo / Benefício:** 
+
+## Obs:
+(1) = Ruim, (2) = OK e (3) = Ótimo
+
+Comparação sonora sempre com relação a Harman 2019.
