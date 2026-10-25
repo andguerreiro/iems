@@ -2,7 +2,7 @@
 
 Preço: USD 15
 
-Afinação: Harman-leve (com chaves em 1100)
+Assinatura: Harman-leve (com chaves em 1100)
 
 ![Respostas](/respostas/kz_castor_1100.png)
 
@@ -12,31 +12,29 @@ Afinação: Harman-leve (com chaves em 1100)
 
 ## Avaliação
 
-Graves: recuados (2)
+Graves: recuados (3)
 
-Médios: recuados (2)
+Médios: recuados (3)
 
-Agudos: levemente avançados (3)
+Agudos: levemente avançados (4)
 
-Som em geral: um pouco recuado nos graves e médios (2)
+Afinação: um pouco recuada nos graves e médios (3)
 
-Conforto: bocal um pouco grande, pode incomodar após muito tempo de uso (2)
+Conforto: bocal um pouco grande, pode incomodar após muito tempo de uso, e grande por causa dos dois DDs (3)
 
-Ergonomia: grande por causa dos dois DDs (2)
+Construção: a combinação de resina e metal ficou ótima (4)
 
-Construção: a combinação de resina e metal ficou ótima (3)
+Acessórios: cabo simples demais; ponteiras médias; embalagem simples demais (2)
 
-Cabo: simples demais (1)
+**Nota geral:** 3,1 de 5
 
-Ponteiras: médias (2)
-
-Embalagem: simples demais (1)
-
-**Nota geral:** 2,0 de 3 (67%)
-
-**Custo / Benefício:** ótimo pelo que entrega (3)
+**Custo / Benefício:** ótimo pelo que entrega (4)
 
 ## Obs:
-(1) = Ruim, (2) = OK e (3) = Ótimo
+(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
+
+Nota geral = média simples dos 7 itens (Graves, Médios, Agudos, Afinação, Conforto, Construção e Acessórios).
+
+Graves, médios e agudos: no alvo = 5, levemente avançados ou recuados = 4, avançados ou recuados = 3, muito avançados ou recuados = 2, extremos = 1.
 
 Comparação sonora sempre com relação à Harman 2019.
