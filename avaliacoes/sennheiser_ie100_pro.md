@@ -2,7 +2,7 @@
 
 Preço: USD 109
 
-Afinação: Quente
+Assinatura: Quente
 
 ![Respostas](/respostas/sennheiser_ie100_pro.png)
 
@@ -12,31 +12,29 @@ Afinação: Quente
 
 ## Avaliação
 
-Graves: avançados (2)
+Graves: avançados (3)
 
-Médios: presentes (3)
+Médios: presentes (4)
 
-Agudos: recuados (2)
+Agudos: recuados (3)
 
-Som em geral: ótimo pra retorno de palco (monitoramento); pra ouvir música é um pouco sem energia (2)
+Afinação: ótima pra retorno de palco (monitoramento); pra ouvir música é um pouco sem energia (3)
 
-Conforto: de referência (3)
+Conforto: de referência em conforto e ergonomia (4)
 
-Ergonomia: de referência (3)
+Construção: leve, mas de plástico (3)
 
-Construção: leve, mas de plástico (2)
+Acessórios: cabo muito resistente, mas não trançado e difícil de trocar por ser exclusivo da Sennheiser; ponteiras de silicone de excelente qualidade, e também de espuma de memória; embalagem com case e limpador de sujeira para bocal/ponteiras (4)
 
-Cabo: muito resistente, mas não dá pra trocar com facilidade por ser exclusivo da Sennheiser, e não é trançado (2)
+**Nota geral:** 3,4 de 5
 
-Ponteiras: silicone de excelente qualidade, espuma de memória também (3)
-
-Embalagem: com case e limpador de sujeira para bocal/ponteiras (3)
-
-**Nota geral:** 2,5 de 3 (83%)
-
-**Custo / Benefício:** caro demais pelo que entrega (1)
+**Custo / Benefício:** caro demais pelo que entrega (2)
 
 ## Obs:
-(1) = Ruim, (2) = OK e (3) = Ótimo
+(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
+
+Nota geral = média simples dos 7 itens (Graves, Médios, Agudos, Afinação, Conforto, Construção e Acessórios).
+
+Graves, médios e agudos: no alvo = 5, levemente avançados ou recuados = 4, avançados ou recuados = 3, muito avançados ou recuados = 2, extremos = 1.
 
 Comparação sonora sempre com relação à Harman 2019.
