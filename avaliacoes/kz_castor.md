@@ -2,9 +2,9 @@
 
 Preço: USD 15
 
-Afinação: Harman (com chaves em UUDD)
+Afinação: Harman (com chaves em 1100)
 
-![Respostas](/respostas/kz_castor_uudd.png)
+![Respostas](/respostas/kz_castor_1100.png)
 
 **Prós:** Barato, bem construído (combina resina com metal) e ótima qualidade sonora
 
