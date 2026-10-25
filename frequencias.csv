@@ -1,10 +1,10 @@
-Classificação,Região,Faixa (Hz),Excesso,Falta
-Grave,Sub-graves,20-60 Hz,Retumbante,Raso
-Grave,Graves,60-250 Hz,Estufado,Magro
-Médio,Médios-graves,250-500 Hz,Turvo,Fino
-Médio,Médios,500 Hz-2 kHz,Buzinado,Escavado
-Médio,Médios-altos,2-4 kHz,Cansativo,Mole
-Agudo,Presença,4-6 kHz,Estridente,Distante
-Agudo,Brilho,6-8 kHz,Cortante,Escuro
-Agudo,Agudos,8-12 kHz,Sibilante,Abafado
-Agudo,Ar,12-20 kHz,Vítreo,Fechado
+Banda,Regiao,Faixa (Hz),Excesso,Falta
+Graves,Sub-graves,20-60 Hz,Ressonante,Anêmico
+Graves,Graves,60-250 Hz,Inchado,Magro
+Medios,Medios-graves,250-500 Hz,Turvo,Oco
+Medios,Medios,500 Hz-2 kHz,Anasalado,Afastado
+Medios,Medios-altos,2-4 kHz,Áspero,Apagado
+Agudos,Presenca,4-6 kHz,Estridente,Distante
+Agudos,Brilho,6-8 kHz,Sibilante,Escuro
+Agudos,Agudos,8-12 kHz,Farpado,Abafado
+Agudos,Ar,12-20 kHz,Estrondoso,Fechado
