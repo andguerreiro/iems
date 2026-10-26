@@ -6,9 +6,9 @@ Assinatura: Quente
 
 ![Respostas](/respostas/sennheiser_ie100_pro.png)
 
-**Prós:** Qualidade excelente, garantia de 2 anos, ergonomia e conforto de referência
+**Prós:** Qualidade excelente, garantia de 2 anos, ergonomia e conforto de referência.
 
-**Contras:** Caro
+**Contras:** Caro.
 
 ## Avaliação
 
