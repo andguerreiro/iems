@@ -20,7 +20,7 @@ Agudos: recuados (3)
 
 Afinação: os agudos recuados são mais na região da presença, então não incomoda tanto e, com os graves e médios no lugar, fica com um equilíbrio ótimo (4)
 
-Conforto: diâmetro e comprimento do bocal excessivamente grandes, e grande demais por causa dos dois drivers dinâmicos (1)
+Conforto: diâmetro e comprimento do bocal excessivamente grandes, e carcaça grande demais por causa dos dois drivers dinâmicos (1)
 
 Construção: resina muito boa e leve (4)
 
