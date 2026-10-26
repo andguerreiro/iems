@@ -12,11 +12,11 @@ Assinatura: Neutra
 
 ## Avaliação
 
-Graves: no alvo (5)
+Graves: sintonia extremamente precisa em relação ao alvo, desvio médio < 1 dB (5)
 
-Médios: no alvo (5)
+Médios: excelente acompanhamento da curva Harman, desvio médio < 1 dB (5)
 
-Agudos: recuados em 4–8 kHz, com leve avanço em 8–10 kHz (3)
+Agudos: recuo suave em 4–7 kHz e leve elevação pontual em 8–10 kHz, desvio médio de ~2,4 dB (3)
 
 Físico: diâmetro e comprimento do bocal excessivamente grandes; carcaça grande demais por causa dos dois drivers dinâmicos (1)
 
@@ -33,4 +33,11 @@ Físico = conforto, ergonomia e construção.
 
 Acessórios = cabo, ponteiras e embalagem.
 
-Graves, médios e agudos = distância média entre a curva e a Harman 2019 na banda: até 1,5 dB = 5, até 3 dB = 4, até 5 dB = 3, até 8 dB = 2, acima = 1. Bandas: graves 20–250 Hz, médios 250 Hz–4 kHz, agudos 4–10 kHz. Valores lidos nos gráficos (±1 dB).
+Graves, médios e agudos = distância média absoluta entre a curva e a Harman IE 2019 na banda, considerando desvios tanto para cima quanto para baixo:
+- Até 1 dB = Excelente (5)
+- Acima de 1 até 2 dB = Ótimo (4)
+- Acima de 2 até 3 dB = OK (3)
+- Acima de 3 até 4 dB = Ruim (2)
+- Acima de 4 dB = Péssimo (1)
+
+Bandas: graves 20–250 Hz, médios 250 Hz–4 kHz, agudos 4–10 kHz. Valores lidos nos gráficos (±1 dB).
