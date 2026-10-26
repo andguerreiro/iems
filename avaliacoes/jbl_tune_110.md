@@ -20,7 +20,7 @@ Agudos: desvio médio de ~2,1 dB devido a vale em 7–8 kHz e pico em 9 kHz (3)
 
 Físico: confortável, pequeno, todo de plástico e leve mas o cabo fica pra baixo e não em volta da orelha (2)
 
-Acessórios: cabo horrível com uma microfonia absurda; ponteiras de silicone mas de baixa qualidade; embalagem extremamente simples (1)
+Acessórios: cabo horrível com uma microfonia absurda e não removível; ponteiras de silicone mas de baixa qualidade; embalagem extremamente simples (1)
 
 **Nota geral:** 2,2 de 5
 
