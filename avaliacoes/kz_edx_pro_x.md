@@ -2,23 +2,23 @@
 
 Preço: USD 10
 
-Assinatura: Em V
+Assinatura: Quente-brilhante
 
 ![Respostas](/respostas/kz_edx_pro_x.png)
 
 **Prós:** Leve, ergonômico e barato
 
-**Contras:** Cabo e fidelidade sonora
+**Contras:** Cabo e agudos irregulares
 
 ## Avaliação
 
-Graves: avançados (3)
+Graves: levemente avançados, só em 150–300 Hz; sub-graves no alvo (4)
 
-Médios: recuados (3)
+Médios: levemente recuados na região de presença (4)
 
-Agudos: avançados (3)
+Agudos: irregulares, com presença levemente recuada e pico em 8 kHz (4)
 
-Afinação: energética, mas com pouca fidelidade sonora (2)
+Afinação: energética, com pico em 8 kHz e agudos irregulares, mas próxima do alvo até 7 kHz (3)
 
 Conforto: leve e pequeno, com encaixe perfeito (5)
 
@@ -26,7 +26,7 @@ Construção: resina (3)
 
 Acessórios: cabo, ponteiras e embalagem simples demais (2)
 
-**Nota geral:** 3,0 de 5
+**Nota geral:** 3,6 de 5
 
 **Custo / Benefício:** OK pelo que entrega (3)
 
