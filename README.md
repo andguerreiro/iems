@@ -3,7 +3,7 @@
 | Posição | IEM | Nota (1 a 5) | Preço (USD) | Assinatura |
 | :---: | :--- | :---: | :---: | :--- |
 | **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **3,9** | 49 | Harman-Quente |
-| **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **3,7** | 50 | Balanceado-Quente |
+| **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **3,9** | 50 | Balanceado-Quente |
 | **3º** | [Sennheiser IE100 Pro](/avaliacoes/sennheiser_ie100_pro.md) | **3,7** | 109 | Quente |
 | **3º** | [KZ EDX Pro X](/avaliacoes/kz_edx_pro_x.md) | **3,6** | 10 | Quente-brilhante |
 | **5º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **3,4** | 55 | Neutra |
