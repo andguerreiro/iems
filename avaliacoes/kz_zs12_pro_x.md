@@ -16,9 +16,9 @@ Graves: recuados (3)
 
 Médios: levemente avançados (4)
 
-Agudos: recuados (3)
+Agudos: presença recuada (4–6 kHz), mas brilho muito avançado em 8–11 kHz (3)
 
-Afinação: boa pra quem prefere vocais limpos, sem graves e agudos congestionando (3)
+Afinação: boa pra quem prefere vocais limpos e graves discretos, mas com brilho elevado nos agudos altos (3)
 
 Conforto: um pouco pesado, mas com encaixe perfeito (3)
 
