@@ -16,13 +16,13 @@ Graves: levemente avançados em 60–250 Hz (4)
 
 Médios: no alvo (5)
 
-Agudos: presença distante (4–6 kHz) e pico em 11–12 kHz (3)
+Agudos: presença distante (4–6 kHz) (4)
 
-Físico: leve incômodo no canal auditivo devido ao diâmetro do bocal, mas carcaça muito pequena e com encaixe perfeito; construção em liga de alumínio com usinagem CNC, qualidade excepcional (5)
+Físico: leve incômodo no canal auditivo devido ao diâmetro do bocal, mas muito pequeno e com encaixe perfeito; construção em liga de alumínio com usinagem CNC, qualidade excepcional (5)
 
 Acessórios: cabo trançado, fino, forte, leve, flexível e com baixíssima microfonia; ponteiras de silicone macio, mas com poucas opções; embalagem muito bem feita, com case e dois filtros pra mudar a afinação (5)
 
-**Nota geral:** 4,4 de 5
+**Nota geral:** 4,6 de 5
 
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
@@ -33,4 +33,4 @@ Físico = conforto, ergonomia e construção.
 
 Acessórios = cabo, ponteiras e embalagem.
 
-Graves, médios e agudos = distância média entre a curva e a Harman 2019 na banda: até 1,5 dB = 5, até 3 dB = 4, até 5 dB = 3, até 8 dB = 2, acima = 1. Bandas: graves 20–250 Hz, médios 250 Hz–4 kHz, agudos 4–12 kHz. Valores lidos nos gráficos (±1 dB).
+Graves, médios e agudos = distância média entre a curva e a Harman 2019 na banda: até 1,5 dB = 5, até 3 dB = 4, até 5 dB = 3, até 8 dB = 2, acima = 1. Bandas: graves 20–250 Hz, médios 250 Hz–4 kHz, agudos 4–10 kHz. Valores lidos nos gráficos (±1 dB).
