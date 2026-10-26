@@ -28,8 +28,6 @@ Acessórios: cabo de prata, melhor que o de cobre padrão da KZ; ponteiras simpl
 
 **Nota geral:** 2,9 de 5
 
-**Custo / Benefício:** OK pelo que entrega (3)
-
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
 
