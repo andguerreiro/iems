@@ -18,7 +18,7 @@ Médios: no alvo (5)
 
 Agudos: recuados em 4–8 kHz (3)
 
-Físico: diâmetro e comprimento do bocal no tamanho ideal pra não incomodar em nada o canal auditivo, mas um pouco grande; construção leve e muito bem acabada (4)
+Físico: diâmetro e comprimento do bocal no tamanho ideal pra não incomodar em nada o canal auditivo, mas tem a carcaça um pouco grande; construção leve e muito bem acabada (4)
 
 Acessórios: cabo trançado, flexível e sem microfonia, mas grosso demais; ponteiras em pares estreitos e largos, macias e de ótima qualidade; embalagem com tudo o que precisa, sem faltar nem sobrar (4)
 
