@@ -12,7 +12,7 @@ Assinatura: Neutra
 
 ## Avaliação
 
-Graves: levemente recuados (4)
+Graves: no alvo (5)
 
 Médios: levemente avançados (4)
 
@@ -26,7 +26,7 @@ Construção: resina muito boa e leve (4)
 
 Acessórios: cabo trançado, mas básico; ponteiras com boa variedade, mas a qualidade e a maciez do silicone podiam ser melhores; embalagem acima da média (3)
 
-**Nota geral:** 3,3 de 5
+**Nota geral:** 3,4 de 5
 
 **Custo / Benefício:** OK pelo que entrega (3)
 
