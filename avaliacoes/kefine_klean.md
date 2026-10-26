@@ -18,7 +18,7 @@ Médios: no alvo (5)
 
 Agudos: presença distante (4–6 kHz) (4)
 
-Físico: leve incômodo no canal auditivo devido ao diâmetro do bocal, mas muito pequeno e com encaixe perfeito; construção em liga de alumínio com usinagem CNC, qualidade excepcional (4)
+Físico: leve incômodo no canal auditivo devido ao diâmetro do bocal; carcaça muito pequena e com encaixe perfeito; construção em liga de alumínio com usinagem CNC, qualidade excepcional (4)
 
 Acessórios: cabo trançado, fino, forte, leve, flexível e com baixíssima microfonia; ponteiras de silicone macio, mas com poucas opções; embalagem muito bem feita, com case e dois filtros pra mudar a afinação (5)
 
