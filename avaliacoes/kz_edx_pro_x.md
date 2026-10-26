@@ -12,17 +12,17 @@ Assinatura: Quente-brilhante
 
 ## Avaliação
 
-Graves: no alvo, com leve elevação em 150–300 Hz (5)
+Graves: no alvo nos sub-graves, com ligeira elevação em 150–300 Hz, desvio médio de ~1,1 dB (4)
 
-Médios: no alvo (5)
+Médios: acompanham muito bem a curva alvo, desvio médio < 1 dB (5)
 
-Agudos: irregulares, com presença distante (4–6 kHz) e pico em 8 kHz (4)
+Agudos: pico pronunciado em 8 kHz e oscilações em 4–6 kHz, desvio médio de ~2,2 dB (3)
 
 Físico: leve e pequeno, com encaixe perfeito mas bem simples (3)
 
 Acessórios: cabo, ponteiras e embalagem simples demais (2)
 
-**Nota geral:** 3,8 de 5
+**Nota geral:** 3,4 de 5
 
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
@@ -33,4 +33,11 @@ Físico = conforto, ergonomia e construção.
 
 Acessórios = cabo, ponteiras e embalagem.
 
-Graves, médios e agudos = distância média entre a curva e a Harman 2019 na banda: até 1,5 dB = 5, até 3 dB = 4, até 5 dB = 3, até 8 dB = 2, acima = 1. Bandas: graves 20–250 Hz, médios 250 Hz–4 kHz, agudos 4–10 kHz. Valores lidos nos gráficos (±1 dB).
+Graves, médios e agudos = distância média absoluta entre a curva e a Harman IE 2019 na banda, considerando desvios tanto para cima quanto para baixo:
+- Até 1 dB = Excelente (5)
+- Acima de 1 até 2 dB = Ótimo (4)
+- Acima de 2 até 3 dB = OK (3)
+- Acima de 3 até 4 dB = Ruim (2)
+- Acima de 4 dB = Péssimo (1)
+
+Bandas: graves 20–250 Hz, médios 250 Hz–4 kHz, agudos 4–10 kHz. Valores lidos nos gráficos (±1 dB).
