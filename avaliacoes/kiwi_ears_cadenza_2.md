@@ -24,9 +24,9 @@ Conforto: diâmetro e comprimento do bocal no tamanho ideal pra não incomodar e
 
 Construção: leve e muito bem acabada (4)
 
-Acessórios: cabo trançado, flexível e sem microfonia, mas grosso demais; ponteiras em pares estreitos e largos, macias e de ótima qualidade; embalagem com tudo o que precisa, sem faltar nem sobrar (3)
+Acessórios: cabo trançado, flexível e sem microfonia, mas grosso demais; ponteiras em pares estreitos e largos, macias e de ótima qualidade; embalagem com tudo o que precisa, sem faltar nem sobrar (4)
 
-**Nota geral:** 3,7 de 5
+**Nota geral:** 3,9 de 5
 
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
