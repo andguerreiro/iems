@@ -20,7 +20,7 @@ Agudos: presença distante (4–6 kHz), mas brilho muito avançado em 8–10 kHz
 
 Físico: um pouco pesado, mas com encaixe perfeito; metal muito bem acabado, mas apresentou problema no volume de um dos lados com poucos dias de uso (2)
 
-Acessórios: cabo de prata, melhor que o de cobre padrão da KZ; ponteiras simples demais; embalagem simples demais (2)
+Acessórios: cabo revestido de prata, melhor que o de cobre puro padrão da KZ; ponteiras simples demais; embalagem simples demais (2)
 
 **Nota geral:** 3,2 de 5
 
