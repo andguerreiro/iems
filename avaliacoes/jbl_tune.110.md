@@ -1,14 +1,14 @@
 # JBL Tune 110
 
-Preço: 
+Preço: USD 15
 
-Assinatura: em V, com graves reforçados e médios recuados
+Assinatura: em V
 
 ![Respostas](/respostas/jbl_tune_110.png)
 
-Prós: região de 400–600 Hz próxima do alvo; agudos relativamente próximos da referência na média de 4–10 kHz.
+Prós: leve
 
-Contras: excesso de médio-graves, principalmente entre 100 e 250 Hz; presença recuada entre 1 e 3 kHz; agudos irregulares.
+Contras: excesso de microfonia no cabo
 
 ## Avaliação
 
@@ -18,11 +18,11 @@ Médios: recuados em 1–3 kHz e acima do alvo na transição dos graves, em 250
 
 Agudos: próximos do alvo na média, mas com vale em 7–8 kHz e pico próximo de 9 kHz (4)
 
-Físico: 
+Físico: confortável, pequeno, todo de plástico e leve mas o cabo fica pra baixo e não em volta da orelha (2)
 
-Acessórios: 
+Acessórios: cabo horrível com uma microfonia absurda; ponteiras de silicone mas de baixa qualidade; embalagem extremamente simples (1)
 
-**Nota geral:** 
+**Nota geral:** 2,8 de 5
 
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
