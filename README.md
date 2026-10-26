@@ -9,6 +9,7 @@
 | **5º** | [KZ Castor](/avaliacoes/kz_castor.md) | **3,6** | 15 | Harman-leve |
 | **6º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **3,4** | 55 | Neutra |
 | **7º** | [KZ ZS12 Pro X](/avaliacoes/kz_zs12_pro_x.md) | **3,2** | 59 | Neutra-brilhante |
+| **8º** | [JBL Tune 110](/avaliacoes/jbl_tune_110.md) | **2,8** | 15 | Em V |
 
 ## Como avalio
 
