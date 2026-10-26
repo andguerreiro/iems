@@ -8,7 +8,7 @@
 | **4º** | [KZ EDX Pro X](/avaliacoes/kz_edx_pro_x.md) | **3,8** | 10 | Quente-brilhante |
 | **5º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **3,8** | 55 | Neutra |
 | **6º** | [KZ Castor](/avaliacoes/kz_castor.md) | **3,6** | 15 | Harman-leve |
-| **7º** | [KZ ZS12 Pro X](/avaliacoes/kz_zs12_pro_x.md) | **3,4** | 59 | Neutra-brilhante |
+| **7º** | [KZ ZS12 Pro X](/avaliacoes/kz_zs12_pro_x.md) | **3,2** | 59 | Neutra-brilhante |
 
 ## Como avalio
 
