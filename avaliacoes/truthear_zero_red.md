@@ -18,11 +18,11 @@ Médios: levemente avançados (4)
 
 Agudos: recuados (3)
 
-Físico: diâmetro e comprimento do bocal excessivamente grandes, e carcaça grande demais por causa dos dois drivers dinâmicos (conforto 1); resina muito boa e leve (construção 4) (3)
+Físico: diâmetro e comprimento do bocal excessivamente grandes, e carcaça grande demais por causa dos dois drivers dinâmicos; resina muito boa e leve (2)
 
 Acessórios: cabo trançado, mas básico; ponteiras com boa variedade, mas a qualidade e a maciez do silicone podiam ser melhores; embalagem acima da média (3)
 
-**Nota geral:** 3,6 de 5
+**Nota geral:** 3,4 de 5
 
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
