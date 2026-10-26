@@ -8,7 +8,7 @@ Assinatura: Balanceado-Quente
 
 **Prós:** Leve, confortável e com som muito balanceado
 
-**Contras:** Um pouco grande
+**Contras:** Carcaça um pouco grande
 
 ## Avaliação
 
