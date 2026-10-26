@@ -27,14 +27,10 @@ Acessórios: cabo muito resistente, mas não trançado e difícil de trocar por 
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
 
-Nota geral = média simples dos 5 itens (Graves, Médios, Agudos, Físico e Acessórios).
+Nota geral = média simples dos 5 itens.
 
-Físico = conforto e construção, média arredondada pra cima (meio ponto sobe).
+Físico = conforto, ergonomia e construção.
 
-Graves, médios e agudos: nota pela distância média, em dB, entre a curva e a Harman IE 2019 na banda (pra cima ou pra baixo): até 1,5 dB = no alvo (5), até 3 dB = levemente avançados ou recuados (4), até 5 dB = avançados ou recuados (3), até 8 dB = muito avançados ou recuados (2), acima de 8 dB = extremos (1).
+Acessórios = cabo, ponteiras e embalagem.
 
-Bandas: Graves = 20–250 Hz; Médios = 250 Hz–4 kHz; Agudos = 4–12 kHz (acima de 12 kHz não entra na nota).
-
-Valores lidos nos gráficos de medição, com margem de cerca de ±1 dB.
-
-Comparação sonora sempre com relação à Harman 2019.
+Graves, médios e agudos = distância média entre a curva e a Harman 2019 na banda: até 1,5 dB = 5, até 3 dB = 4, até 5 dB = 3, até 8 dB = 2, acima = 1. Bandas: graves 20–250 Hz, médios 250 Hz–4 kHz, agudos 4–12 kHz. Valores lidos nos gráficos (±1 dB).
