@@ -2,12 +2,12 @@
 
 | Posição | IEM | Nota (1 a 5) | Preço (USD) | Assinatura |
 | :---: | :--- | :---: | :---: | :--- |
-| **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **4,4** | 49 | Harman-Quente |
+| **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **4,6** | 49 | Harman-Quente |
 | **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **4,2** | 50 | Balanceado-Quente |
 | **3º** | [Sennheiser IE100 Pro](/avaliacoes/sennheiser_ie100_pro.md) | **4,0** | 109 | Quente |
 | **4º** | [KZ EDX Pro X](/avaliacoes/kz_edx_pro_x.md) | **3,8** | 10 | Quente-brilhante |
 | **5º** | [KZ Castor](/avaliacoes/kz_castor.md) | **3,6** | 15 | Harman-leve |
-| **6º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **3,6** | 55 | Neutra |
+| **6º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **3,4** | 55 | Neutra |
 | **7º** | [KZ ZS12 Pro X](/avaliacoes/kz_zs12_pro_x.md) | **3,2** | 59 | Neutra-brilhante |
 
 ## Como avalio
@@ -34,18 +34,19 @@ Se a curva vai pros dois lados na mesma banda, o texto descreve como irregular.
 
 ### Bandas e regiões
 
-| Banda | Região | Faixa | Excesso | Falta |
-| :--- | :--- | :--- | :--- | :--- |
-| Graves | Sub-graves | 20–60 Hz | Ressonante | Anêmico |
-| Graves | Graves | 60–250 Hz | Inchado | Magro |
-| Médios | Médios-graves | 250–500 Hz | Turvo | Oco |
-| Médios | Médios | 500 Hz–2 kHz | Anasalado | Afastado |
-| Médios | Médios-altos | 2–4 kHz | Áspero | Apagado |
-| Agudos | Presença | 4–6 kHz | Estridente | Distante |
-| Agudos | Brilho | 6–8 kHz | Sibilante | Escuro |
-| Agudos | Agudos | 8–12 kHz | Farpado | Abafado |
+| Banda | Região | Faixa | Excesso | Falta | Avaliada |
+| :--- | :--- | :--- | :--- | :--- | :---: |
+| Graves | Sub-graves | 20–60 Hz | Ressonante | Anêmico | Sim |
+| Graves | Graves | 60–250 Hz | Inchado | Magro | Sim |
+| Médios | Médios-graves | 250–500 Hz | Turvo | Oco | Sim |
+| Médios | Médios | 500 Hz–2 kHz | Anasalado | Afastado | Sim |
+| Médios | Médios-altos | 2–4 kHz | Áspero | Apagado | Sim |
+| Agudos | Presença | 4–6 kHz | Estridente | Distante | Sim |
+| Agudos | Brilho | 6–8 kHz | Sibilante | Escuro | Sim |
+| Agudos | Agudos | 8–10 kHz | Farpado | Abafado | Sim |
+| Agudos | Ar | 10–20 kHz | Estrondoso | Fechado | Não |
 
-A região de Ar (12–20 kHz) não entra na nota, porque as medições variam muito entre sistemas nessa faixa.
+A região do Ar (10–20 kHz) não entra na nota, porque as medições variam muito entre sistemas nessa faixa. Se houver algo relevante ali, aparece só no texto da avaliação.
 
 ### Sobre as medições
 
