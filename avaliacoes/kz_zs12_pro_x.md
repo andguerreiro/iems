@@ -18,7 +18,7 @@ Médios: no alvo (5)
 
 Agudos: presença distante (4–6 kHz), mas brilho muito avançado em 8–11 kHz (3)
 
-Físico: um pouco pesado, mas com encaixe perfeito; metal muito bem acabado, mas apresentou problema no volume de um dos lados (3)
+Físico: um pouco pesado, mas com encaixe perfeito; metal muito bem acabado, mas apresentou problema no volume de um dos lados com poucos dias de uso (3)
 
 Acessórios: cabo de prata, melhor que o de cobre padrão da KZ; ponteiras simples demais; embalagem simples demais (2)
 
