@@ -6,9 +6,9 @@ Assinatura: Neutra
 
 ![Respostas](/respostas/truthear_zero_red.png)
 
-**Prós:** Embalagem e acessórios acima da média
+**Prós:** Graves e médios excelentes e acessórios acima da média.
 
-**Contras:** Diâmetro e comprimento do bocal excessivamente grandes, tive que devolver por causa do desconforto no canal auditivo
+**Contras:** Diâmetro e comprimento do bocal excessivamente grandes, tive que devolver por causa do desconforto imediato ao inserir no canal auditivo, depois de alguns minutos já ficava insuportável.
 
 ## Avaliação
 
