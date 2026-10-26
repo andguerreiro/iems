@@ -28,8 +28,6 @@ Acessórios:
 
 **Nota geral:** 
 
-**Custo / Benefício:** 
-
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
 
