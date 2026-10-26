@@ -6,9 +6,9 @@ Assinatura: Quente-brilhante
 
 ![Respostas](/respostas/kz_edx_pro_x.png)
 
-**Prós:** Leve, ergonômico e barato
+**Prós:** Som excelente pelo preço, além de ser leve, ergonômico e barato.
 
-**Contras:** Cabo e agudos irregulares
+**Contras:** Cabo e ponteiras simples demais, vale trocar por melhores.
 
 ## Avaliação
 
