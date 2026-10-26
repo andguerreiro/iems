@@ -12,11 +12,11 @@ Assinatura: Quente
 
 ## Avaliação
 
-Graves: levemente avançados em 60–250 Hz (4)
+Graves: elevação suave em 60–250 Hz, desvio médio de ~1,4 dB (4)
 
-Médios: levemente recuados nos médios-altos (2–4 kHz), o que tira energia do som (4)
+Médios: recuados na faixa de médios-altos (2–4 kHz), desvio médio de ~1,8 dB (4)
 
-Agudos: irregulares, com pico em 8 kHz (3)
+Agudos: picos pronunciados em 6 kHz e 8 kHz, desvio médio de ~2,2 dB (3)
 
 Físico: de referência em conforto e ergonomia; construção leve e muito bem acabada (5)
 
@@ -33,4 +33,11 @@ Físico = conforto, ergonomia e construção.
 
 Acessórios = cabo, ponteiras e embalagem.
 
-Graves, médios e agudos = distância média entre a curva e a Harman 2019 na banda: até 1,5 dB = 5, até 3 dB = 4, até 5 dB = 3, até 8 dB = 2, acima = 1. Bandas: graves 20–250 Hz, médios 250 Hz–4 kHz, agudos 4–10 kHz. Valores lidos nos gráficos (±1 dB).
+Graves, médios e agudos = distância média absoluta entre a curva e a Harman IE 2019 na banda, considerando desvios tanto para cima quanto para baixo:
+- Até 1 dB = Excelente (5)
+- Acima de 1 até 2 dB = Ótimo (4)
+- Acima de 2 até 3 dB = OK (3)
+- Acima de 3 até 4 dB = Ruim (2)
+- Acima de 4 dB = Péssimo (1)
+
+Bandas: graves 20–250 Hz, médios 250 Hz–4 kHz, agudos 4–10 kHz. Valores lidos nos gráficos (±1 dB).
