@@ -6,9 +6,9 @@ Assinatura: Neutra-brilhante (com chaves em UDDD)
 
 ![Respostas](/respostas/kz_zs12_pro_x_uddd.png)
 
-**Prós:** Construção metálica robusta
+**Prós:** Agudos com muito brilho e construção metálica robusta.
 
-**Contras:** Controle de qualidade ruim (devolvi porque um dos lados perdeu volume em relação ao outro)
+**Contras:** Controle de qualidade ruim (devolvi porque um dos lados perdeu volume em relação ao outro).
 
 ## Avaliação
 
