@@ -18,20 +18,18 @@ Médios: levemente avançados (4)
 
 Agudos: recuados (3)
 
-Afinação: muito balanceada, com recuo praticamente só na presença, o que deixa o som balanceado sem ser frio (4)
-
-Conforto: diâmetro e comprimento do bocal no tamanho ideal pra não incomodar em nada o canal auditivo, mas um pouco grande (3)
-
-Construção: leve e muito bem acabada (4)
+Físico: diâmetro e comprimento do bocal no tamanho ideal pra não incomodar em nada o canal auditivo, mas um pouco grande; construção leve e muito bem acabada (4)
 
 Acessórios: cabo trançado, flexível e sem microfonia, mas grosso demais; ponteiras em pares estreitos e largos, macias e de ótima qualidade; embalagem com tudo o que precisa, sem faltar nem sobrar (4)
 
-**Nota geral:** 3,9 de 5
+**Nota geral:** 4,0 de 5
 
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
 
-Nota geral = média simples dos 7 itens (Graves, Médios, Agudos, Afinação, Conforto, Construção e Acessórios).
+Nota geral = média simples dos 5 itens (Graves, Médios, Agudos, Físico e Acessórios).
+
+Físico = conforto e construção, média arredondada pra cima (meio ponto sobe).
 
 Graves, médios e agudos: no alvo = 5, levemente avançados ou recuados = 4, avançados ou recuados = 3, muito avançados ou recuados = 2, extremos = 1.
 
