@@ -28,8 +28,6 @@ Acessórios: cabo, ponteiras e embalagem simples demais (2)
 
 **Nota geral:** 3,6 de 5
 
-**Custo / Benefício:** OK pelo que entrega (3)
-
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
 
