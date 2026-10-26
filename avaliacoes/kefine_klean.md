@@ -28,8 +28,6 @@ Acessórios: cabo trançado, fino, forte, leve, flexível e com baixíssima micr
 
 **Nota geral:** 3.9 de 5
 
-**Custo / Benefício:** excelente pelo que entrega (5)
-
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
 
