@@ -28,8 +28,6 @@ Acessórios: cabo trançado, mas básico; ponteiras com boa variedade, mas a qua
 
 **Nota geral:** 3,4 de 5
 
-**Custo / Benefício:** OK pelo que entrega (3)
-
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
 
