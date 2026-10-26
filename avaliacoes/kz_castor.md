@@ -18,7 +18,7 @@ Médios: levemente recuados nos médios-graves (4)
 
 Agudos: levemente avançados (4)
 
-Físico: bocal um pouco grande, pode incomodar após muito tempo de uso; carcaça grande por causa dos dois DDs; a combinação de resina e metal ficou ótima (4)
+Físico: bocal um pouco grande, pode incomodar após muito tempo de uso; carcaça grande por causa dos dois drivers dinâmicos; a combinação de resina e metal ficou ótima (4)
 
 Acessórios: cabo simples demais; ponteiras médias; embalagem simples demais (2)
 
