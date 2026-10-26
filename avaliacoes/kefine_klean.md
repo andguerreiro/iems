@@ -12,11 +12,11 @@ Assinatura: Harman-Quente (independente do filtro prata ou preto)
 
 ## Avaliação
 
-Graves: levemente avançados em 60–250 Hz (4)
+Graves: levemente avançados em 60–250 Hz, desvio médio de ~1,2 dB (4)
 
-Médios: no alvo (5)
+Médios: praticamente no alvo, desvio médio < 1 dB (5)
 
-Agudos: presença distante (4–6 kHz) (4)
+Agudos: suave recessão em 4–6 kHz e ligeiro ganho residual, desvio médio de ~1,3 dB (4)
 
 Físico: leve incômodo no canal auditivo devido ao diâmetro do bocal; carcaça muito pequena e com encaixe perfeito; construção em liga de alumínio com usinagem CNC, qualidade excepcional (4)
 
@@ -33,4 +33,11 @@ Físico = conforto, ergonomia e construção.
 
 Acessórios = cabo, ponteiras e embalagem.
 
-Graves, médios e agudos = distância média entre a curva e a Harman 2019 na banda: até 1,5 dB = 5, até 3 dB = 4, até 5 dB = 3, até 8 dB = 2, acima = 1. Bandas: graves 20–250 Hz, médios 250 Hz–4 kHz, agudos 4–10 kHz. Valores lidos nos gráficos (±1 dB).
+Graves, médios e agudos = distância média absoluta entre a curva e a Harman IE 2019 na banda, considerando desvios tanto para cima quanto para baixo:
+- Até 1 dB = Excelente (5)
+- Acima de 1 até 2 dB = Ótimo (4)
+- Acima de 2 até 3 dB = OK (3)
+- Acima de 3 até 4 dB = Ruim (2)
+- Acima de 4 dB = Péssimo (1)
+
+Bandas: graves 20–250 Hz, médios 250 Hz–4 kHz, agudos 4–10 kHz. Valores lidos nos gráficos (±1 dB).
