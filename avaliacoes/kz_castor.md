@@ -6,9 +6,9 @@ Assinatura: Harman-leve (com chaves em 1100)
 
 ![Respostas](/respostas/kz_castor_1100.png)
 
-**Prós:** Barato, bem construído (combina resina com metal) e ótima qualidade sonora
+**Prós:** Barato, bem construído (combina resina com metal) e ótima qualidade sonora em todas frequências.
 
-**Contras:** Carcaça e bocal grandes, o que pode incomodar
+**Contras:** Carcaça e bocal grandes, o que pode incomodar depois de algumas horas de uso.
 
 ## Avaliação
 
