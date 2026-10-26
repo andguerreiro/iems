@@ -12,11 +12,15 @@
 
 ## Como avalio
 
-Cada IEM recebe nota inteira de 1 a 5 em cinco itens: Graves, Médios, Agudos, Físico e Acessórios (cabo, ponteiras e embalagem).
+Cada IEM recebe nota inteira de 1 a 5 em cinco itens: Graves, Médios, Agudos, Físico e Acessórios.
 
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
 
-A nota geral é a média simples dos cinco itens. Físico reúne conforto e construção: é a média dos dois, arredondada pra cima quando der meio ponto. Empates na nota geral são desempatados pelo menor preço.
+A nota geral é a média simples dos cinco itens. Empates na nota geral são desempatados pelo menor preço.
+
+Físico = conforto, ergonomia e construção.
+
+Acessórios = cabo, ponteiras e embalagem.
 
 Em graves, médios e agudos, a nota mede a distância média, em dB, entre a curva e a Harman IE 2019 na banda, pra cima ou pra baixo:
 
