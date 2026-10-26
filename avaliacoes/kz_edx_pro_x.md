@@ -18,11 +18,11 @@ Médios: no alvo (5)
 
 Agudos: irregulares, com presença distante (4–6 kHz) e pico em 8 kHz (4)
 
-Físico: leve e pequeno, com encaixe perfeito; construção em resina (4)
+Físico: leve e pequeno, com encaixe perfeito mas bem simples (3)
 
 Acessórios: cabo, ponteiras e embalagem simples demais (2)
 
-**Nota geral:** 4,0 de 5
+**Nota geral:** 3,8 de 5
 
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
