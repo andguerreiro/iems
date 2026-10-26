@@ -18,20 +18,18 @@ Médios: levemente avançados (4)
 
 Agudos: presença recuada (4–6 kHz), mas brilho muito avançado em 8–11 kHz (3)
 
-Afinação: boa pra quem prefere vocais limpos e graves discretos, mas com brilho elevado nos agudos altos (3)
-
-Conforto: um pouco pesado, mas com encaixe perfeito (3)
-
-Construção: metal muito bem acabado, mas apresentou problema no volume de um dos lados (2)
+Físico: um pouco pesado, mas com encaixe perfeito; metal muito bem acabado, mas apresentou problema no volume de um dos lados (3)
 
 Acessórios: cabo de prata, melhor que o de cobre padrão da KZ; ponteiras simples demais; embalagem simples demais (2)
 
-**Nota geral:** 2,9 de 5
+**Nota geral:** 3,0 de 5
 
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
 
-Nota geral = média simples dos 7 itens (Graves, Médios, Agudos, Afinação, Conforto, Construção e Acessórios).
+Nota geral = média simples dos 5 itens (Graves, Médios, Agudos, Físico e Acessórios).
+
+Físico = conforto e construção, média arredondada pra cima (meio ponto sobe).
 
 Graves, médios e agudos: no alvo = 5, levemente avançados ou recuados = 4, avançados ou recuados = 3, muito avançados ou recuados = 2, extremos = 1.
 
