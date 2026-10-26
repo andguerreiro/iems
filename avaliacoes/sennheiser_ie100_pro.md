@@ -28,8 +28,6 @@ Acessórios: cabo muito resistente, mas não trançado e difícil de trocar por 
 
 **Nota geral:** 3,6 de 5
 
-**Custo / Benefício:** caro demais pelo que entrega (1)
-
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
 
