@@ -20,7 +20,7 @@ Agudos: irregulares, com pico em 8 kHz (3)
 
 Físico: de referência em conforto e ergonomia; construção leve e muito bem acabada (5)
 
-Acessórios: cabo muito resistente, mas não trançado e difícil de trocar por ser exclusivo da Sennheiser; ponteiras de silicone de excelente qualidade, e também de espuma de memória; embalagem com case e limpador de sujeira para bocal/ponteiras (4)
+Acessórios: cabo muito resistente, mas não trançado e difícil de trocar por ser exclusivo da Sennheiser; ponteiras de silicone de excelente qualidade, e uma de espuma de memória; embalagem com case e limpador de sujeira para bocal/ponteiras (4)
 
 **Nota geral:** 4,0 de 5
 
