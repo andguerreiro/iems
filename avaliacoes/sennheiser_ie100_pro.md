@@ -22,11 +22,11 @@ Afinação: ótima pra retorno de palco (monitoramento); pra ouvir música é um
 
 Conforto: de referência em conforto e ergonomia (5)
 
-Construção: leve, mas de plástico (3)
+Construção: leve e muito bem acabado mas de plástico (4)
 
 Acessórios: cabo muito resistente, mas não trançado e difícil de trocar por ser exclusivo da Sennheiser; ponteiras de silicone de excelente qualidade, e também de espuma de memória; embalagem com case e limpador de sujeira para bocal/ponteiras (4)
 
-**Nota geral:** 3,6 de 5
+**Nota geral:** 3,7 de 5
 
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
