@@ -51,4 +51,4 @@ A região do Ar (10–20 kHz) não entra na nota, porque as medições variam mu
 
 ### Sobre as medições
 
-Os valores são lidos nos gráficos, com margem de cerca de ±1 dB. Os gráficos vêm de sistemas diferentes (B&K 5128 e clone IEC60318-4, por exemplo), então diferenças pequenas entre fones medidos em sistemas distintos não são conclusivas.
+Os gráficos vêm de sistemas diferentes (B&K 5128 e clone IEC60318-4, por exemplo), então diferenças pequenas entre fones medidos em sistemas distintos não são conclusivas.
