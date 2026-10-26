@@ -18,7 +18,7 @@ Médios: no alvo (5)
 
 Agudos: recuados em 4–8 kHz, com leve avanço em 8–10 kHz (3)
 
-Físico: diâmetro e comprimento do bocal excessivamente grandes, e carcaça grande demais por causa dos dois drivers dinâmicos (1)
+Físico: diâmetro e comprimento do bocal excessivamente grandes; carcaça grande demais por causa dos dois drivers dinâmicos (1)
 
 Acessórios: cabo trançado, mas básico; ponteiras com boa variedade, mas a qualidade e a maciez do silicone podiam ser melhores; embalagem acima da média (3)
 
