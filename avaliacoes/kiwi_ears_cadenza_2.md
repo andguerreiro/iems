@@ -28,8 +28,6 @@ Acessórios: cabo trançado, flexível e sem microfonia, mas grosso demais; pont
 
 **Nota geral:** 3,7 de 5
 
-**Custo / Benefício:** ótimo pelo que entrega (4)
-
 ## Obs:
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
 
