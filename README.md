@@ -6,8 +6,8 @@
 | **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **4,2** | 50 | Balanceado-Quente |
 | **3º** | [Sennheiser IE100 Pro](/avaliacoes/sennheiser_ie100_pro.md) | **4,0** | 109 | Quente |
 | **4º** | [KZ EDX Pro X](/avaliacoes/kz_edx_pro_x.md) | **3,8** | 10 | Quente-brilhante |
-| **5º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **3,8** | 55 | Neutra |
-| **6º** | [KZ Castor](/avaliacoes/kz_castor.md) | **3,6** | 15 | Harman-leve |
+| **5º** | [KZ Castor](/avaliacoes/kz_castor.md) | **3,6** | 15 | Harman-leve |
+| **6º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **3,6** | 55 | Neutra |
 | **7º** | [KZ ZS12 Pro X](/avaliacoes/kz_zs12_pro_x.md) | **3,2** | 59 | Neutra-brilhante |
 
 ## Como avalio
