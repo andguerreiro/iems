@@ -2,6 +2,13 @@
 
 Preço: USD 15
 
+* **Tamanho do Driver:** 9 mm
+* **Quantidade de Drivers:** 1 driver por lado
+* **Tecnologia:** Driver Dinâmico com som JBL Pure Bass
+* **Faixa de Frequência:** 20 Hz – 20.000 Hz
+* **Impedância:** 16 Ω
+* **Sensibilidade:** 96 dB SPL
+
 Assinatura: em V
 
 ![Respostas](/respostas/jbl_tune_110.png)
