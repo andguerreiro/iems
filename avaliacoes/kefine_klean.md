@@ -12,7 +12,7 @@ Assinatura: Harman-Quente (independente do filtro prata ou preto)
 
 ## Avaliação
 
-Graves: levemente avançados em 60–250 Hz, desvio médio de ~1,2 dB (4)
+Graves: levemente avançados em 60–250 Hz, desvio médio de ~1,5 dB (4)
 
 Médios: praticamente no alvo, desvio médio < 1 dB (5)
 
