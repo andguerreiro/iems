@@ -2,9 +2,9 @@
 
 Preço: USD 109
 
-* **Tamanho do Driver:** não disponível pelo fabricante
+* **Tamanho do Driver:** 7 mm
 * **Quantidade de Drivers:** 1 driver por lado
-* **Tecnologia:** Driver dinâmico de banda larga (Transdutor de 10mm proprietário)
+* **Tecnologia:** Driver dinâmico de banda larga (*TrueResponse*)
 * **Faixa de Frequência:** 20 Hz – 18.000 Hz
 * **Impedância:** 20 Ω
 * **Sensibilidade:** 115 dB (1 kHz / 1 Vrms)
