@@ -1,6 +1,13 @@
-# Sennheiser IE100 Pro
+# Sennheiser IE 100 Pro
 
 Preço: USD 109
+
+* **Tamanho do Driver:** não disponível pelo fabricante
+* **Quantidade de Drivers:** 1 driver por lado
+* **Tecnologia:** Driver dinâmico de banda larga (Transdutor de 10mm proprietário)
+* **Faixa de Frequência:** 20 Hz – 18.000 Hz
+* **Impedância:** 20 Ω
+* **Sensibilidade:** 115 dB (1 kHz / 1 Vrms)
 
 Assinatura: Quente
 
