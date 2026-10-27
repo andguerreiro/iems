@@ -2,6 +2,13 @@
 
 Preço: USD 59
 
+* **Tamanho do Driver:** 10 mm (Dinâmico) + Armaduras Balanceadas
+* **Quantidade de Drivers:** 6 drivers por lado (1 Driver Dinâmico + 5 Armaduras Balanceadas)
+* **Tecnologia:** Híbrida (Driver Dinâmico superlinear + Arrays duplos 31736 e armadura personalizada 30019)
+* **Faixa de Frequência:** 20 Hz – 40.000 Hz
+* **Impedância:** 25 Ω
+* **Sensibilidade:** 106 dB
+
 Assinatura: Neutra-brilhante (com chaves em UDDD)
 
 ![Respostas](/respostas/kz_zs12_pro_x_uddd.png)
