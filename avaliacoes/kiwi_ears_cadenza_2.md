@@ -2,6 +2,13 @@
 
 Preço: USD 50
 
+* **Tamanho do Driver:** 10 mm
+* **Quantidade de Drivers:** 1 driver por lado
+* **Tecnologia:** Driver Dinâmico com diafragma de PET revestido a titânio e tecnologia KARS 2.0 (Kiwi Acoustic Resonance System)
+* **Faixa de Frequência:** 10 Hz – 29.000 Hz
+* **Impedância:** 18 Ω
+* **Sensibilidade:** 106 dB
+
 Assinatura: Balanceado-Quente
 
 ![Respostas](/respostas/kiwi_ears_cadenza_2.png)
