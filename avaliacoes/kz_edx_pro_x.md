@@ -2,6 +2,13 @@
 
 Preço: USD 10
 
+* **Tamanho do Driver:** 10 mm (não disponível pelo fabricante em exatidão milimétrica detalhada, padrão da linha)
+* **Quantidade de Drivers:** 1 driver por lado
+* **Tecnologia:** Driver Dinâmico único de alta performance
+* **Faixa de Frequência:** 20 Hz – 40.000 Hz
+* **Impedância:** 23 Ω
+* **Sensibilidade:** 108 dB
+
 Assinatura: Quente-brilhante
 
 ![Respostas](/respostas/kz_edx_pro_x.png)
