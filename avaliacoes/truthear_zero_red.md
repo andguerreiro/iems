@@ -2,6 +2,13 @@
 
 Preço: USD 55
 
+* **Tamanho do Driver:** 10 mm + 7,8 mm
+* **Quantidade de Drivers:** 2 drivers por lado (Dual Dynamic Driver)
+* **Tecnologia:** Drivers dinâmicos com diafragma em composto PU + LCP
+* **Faixa de Frequência:** 20 Hz – 40.500 Hz
+* **Impedância:** 17,5 Ω
+* **Sensibilidade:** 117,5 dB/Vrms
+
 Assinatura: Neutra
 
 ![Respostas](/respostas/truthear_zero_red.png)
