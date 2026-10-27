@@ -2,6 +2,13 @@
 
 Preço: USD 49
 
+* **Tamanho do Driver:** 10 mm
+* **Quantidade de Drivers:** 1 driver por lado
+* **Tecnologia:** Driver Dinâmico com diafragma DLC (Diamond-Like Carbon) e ímã de neodímio N52
+* **Faixa de Frequência:** 20 Hz – 20.000 Hz
+* **Impedância:** 32 Ω
+* **Sensibilidade:** 107 dB
+
 Assinatura: Harman-Quente (independente do filtro prata ou preto)
 
 ![Respostas](/respostas/kefine_klean.png)
