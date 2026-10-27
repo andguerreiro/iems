@@ -2,6 +2,13 @@
 
 Preço: USD 15
 
+* **Tamanho do Driver:** 8 mm + 10 mm
+* **Quantidade de Drivers:** 2 drivers por lado (Dual Dynamic Driver)
+* **Tecnologia:** Dual Dinâmico com diafragma composto e crossover eletrônico integrado
+* **Faixa de Frequência:** 20 Hz – 40.000 Hz
+* **Impedância:** 31–35 Ω (Variável conforme ajuste das chaves)
+* **Sensibilidade:** 105 dB
+
 Assinatura: Harman-leve (com chaves em 1100)
 
 ![Respostas](/respostas/kz_castor_1100.png)
