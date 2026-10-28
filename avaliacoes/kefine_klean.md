@@ -25,9 +25,9 @@ Médios: praticamente no alvo, desvio médio < 1 dB (5)
 
 Agudos: suave recessão em 4–6 kHz e ligeiro ganho residual, desvio médio de ~1,3 dB (4)
 
-Físico: leve incômodo no canal auditivo devido ao diâmetro do bocal; carcaça muito pequena e com encaixe perfeito; construção em liga de alumínio com usinagem CNC, qualidade excepcional (4)
+Físico: leve incômodo no canal auditivo devido ao diâmetro do bocal; carcaça muito pequena e com encaixe perfeito; construção em liga de alumínio com usinagem CNC, qualidade excelente (4)
 
-Acessórios: cabo trançado, fino, forte, leve, flexível e com baixíssima microfonia; ponteiras de silicone macio, mas com poucas opções; embalagem muito bem feita, com case e dois filtros pra mudar a afinação (5)
+Acessórios: cabo trançado, fino, forte, leve, flexível e com baixíssima microfonia; ponteiras de silicone macio e ótima qualidade; embalagem muito bem feita, com case e dois filtros pra mudar a afinação (5)
 
 **Nota geral:** 4,4 de 5
 
