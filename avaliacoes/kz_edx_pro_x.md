@@ -3,9 +3,12 @@
 **Preço:** USD 10
 
 ## Especificações
-* **Tamanho do Driver:** 10 mm
+* **Tamanho do Driver:** 10 mm (não disponível pelo fabricante em exatidão milimétrica detalhada, padrão da linha)
 * **Quantidade de Drivers:** 1 driver por lado
 * **Tecnologia:** Driver Dinâmico único de alta performance
+* **Material da Carcaça:** Resina translúcida com detalhes decorativos
+* **Tipo de Conector:** 0.75 mm de 2 pinos (tipo C recessed/QDC)
+* **Plug do Cabo:** 3.5 mm P2 (desbalanceado)
 * **Faixa de Frequência:** 20 Hz – 40.000 Hz
 * **Impedância:** 23 Ω
 * **Sensibilidade:** 108 dB
@@ -28,15 +31,10 @@
 
 **Nota geral:** 3,4 de 5
 
-## Observações
-* **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
-* **Nota geral:** Média simples dos 5 itens.
-* **Físico:** Conforto, ergonomia e construção.
-* **Acessórios:** Cabo, ponteiras e embalagem.
-* **Curva Alvo (Harman IE 2019):** Distância média absoluta entre a curva e o alvo na banda, considerando desvios para cima e para baixo:
-  * Até 1 dB = Excelente (5)
-  * Acima de 1 até 2 dB = Ótimo (4)
-  * Acima de 2 até 3 dB = OK (3)
-  * Acima de 3 até 4 dB = Ruim (2)
-  * Acima de 4 dB = Péssimo (1)
-* **Bandas:** Graves (20–250 Hz), Médios (250 Hz–4 kHz), Agudos (4–10 kHz). Valores lidos nos gráficos (±1 dB).
+## Como avalio
+- **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
+- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1 dB = (5), Acima de 1 até 2 dB = (4), Acima de 2 até 3 dB = (3), Acima de 3 até 4 dB = (2), Acima de 4 dB = (1)
+- **Bandas:** Graves (20–250 Hz), Médios (250 Hz–4 kHz), Agudos (4–10 kHz).
+- **Físico:** Conforto, ergonomia e construção.
+- **Acessórios:** Cabo, ponteiras e embalagem.
+- **Nota geral:** Média simples dos 5 itens.
