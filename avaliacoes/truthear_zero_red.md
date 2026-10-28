@@ -17,7 +17,7 @@
 - **Peso por Lado:** 6 g
 - **Maior Diâmetro do Bocal:** 6.8 mm
 
-Medidos com balança e paquímetro digital.
+Medições realizadas com balança e paquímetro digitais.
 
 ## Curva de Resposta em Frequência
 
