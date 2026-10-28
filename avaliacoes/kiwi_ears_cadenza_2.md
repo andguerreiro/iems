@@ -12,8 +12,8 @@
 - **Faixa de Frequência:** 10 Hz – 29.000 Hz
 - **Impedância:** 18 Ω
 - **Sensibilidade:** 106 dB
-- **Peso por Lado:** Não disponível
-- **Maior Diâmetro do Bocal:** Não disponível
+- **Peso por Lado:** 4 g
+- **Maior Diâmetro do Bocal:** 5.9 mm
 
 ## Curva de Resposta em Frequência
 
