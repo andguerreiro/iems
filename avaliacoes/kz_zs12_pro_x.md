@@ -3,34 +3,38 @@
 **Preço:** USD 59
 
 ## Especificações
-* **Tamanho do Driver:** 10 mm (Dinâmico) + Armaduras Balanceadas
-* **Quantidade de Drivers:** 6 drivers por lado (1 Driver Dinâmico + 5 Armaduras Balanceadas)
-* **Tecnologia:** Híbrida (Driver Dinâmico superlinear + Arrays duplos 31736 e armadura personalizada 30019)
-* **Material da Carcaça:** Liga de zinco
-* **Tipo de Conector:** 0.75 mm de 2 pinos (tipo C recessed/QDC)
-* **Plug do Cabo:** 3.5 mm P2
-* **Faixa de Frequência:** 20 Hz – 40.000 Hz
-* **Impedância:** 25 Ω
-* **Sensibilidade:** 106 dB
-* **Peso por Lado:** 9 g
-* **Maior Diâmetro do Bocal:** 6.3 mm
+- **Tamanho do Driver:** 10 mm (Dinâmico) + Armaduras Balanceadas
+- **Quantidade de Drivers:** 6 drivers por lado (1 Driver Dinâmico + 5 Armaduras Balanceadas)
+- **Tecnologia:** Híbrida (Driver Dinâmico superlinear + Arrays duplos 31736 e armadura personalizada 30019)
+- **Material da Carcaça:** Liga de zinco
+- **Tipo de Conector:** 0.75 mm de 2 pinos (tipo C recessed/QDC)
+- **Plug do Cabo:** 3.5 mm P2
+- **Faixa de Frequência:** 20 Hz – 40.000 Hz
+- **Impedância:** 25 Ω
+- **Sensibilidade:** 106 dB
+- **Peso por Lado:** 9 g
+- **Maior Diâmetro do Bocal:** 6.3 mm
+
+## Curva de Resposta em Frequência
+
+![Respostas](/respostas/kz_zs12_pro_x_uddd.png)
 
 **Assinatura:** Neutra-brilhante (com chaves em UDDD)
 
-![Respostas](/respostas/kz_zs12_pro_x_uddd.png)
+## Avaliação
+- **Graves:** Recuo gradual em sub-graves em 20–60 Hz, desvio médio de ~1,7 dB (4)
+- **Médios:** Aderência excelente ao alvo, desvio médio < 1 dB (5)
+- **Agudos:** Pico acentuado em 8–9 kHz e oscilações, desvio médio de ~2,5 dB (3)
+- **Físico:** Um pouco pesado, mas com encaixe perfeito; metal muito bem acabado, mas apresentou problema no volume de um dos lados com poucos dias de uso (2)
+- **Acessórios:** Cabo revestido de prata, melhor que o de cobre puro padrão da KZ; ponteiras simples demais; embalagem simples demais (2)
+
+**Nota geral:** 3,2 de 5
+
+## Resumo
 
 **Prós:** Agudos com muito brilho e construção metálica robusta.
 
 **Contras:** Controle de qualidade ruim (devolvi porque um dos lados perdeu volume em relação ao outro).
-
-## Avaliação
-* **Graves:** Recuo gradual em sub-graves em 20–60 Hz, desvio médio de ~1,7 dB (4)
-* **Médios:** Aderência excelente ao alvo, desvio médio < 1 dB (5)
-* **Agudos:** Pico acentuado em 8–9 kHz e oscilações, desvio médio de ~2,5 dB (3)
-* **Físico:** Um pouco pesado, mas com encaixe perfeito; metal muito bem acabado, mas apresentou problema no volume de um dos lados com poucos dias de uso (2)
-* **Acessórios:** Cabo revestido de prata, melhor que o de cobre puro padrão da KZ; ponteiras simples demais; embalagem simples demais (2)
-
-**Nota geral:** 3,2 de 5
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
