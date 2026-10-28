@@ -8,7 +8,7 @@
 * **Tecnologia:** Driver Dinâmico com diafragma DLC (Diamond-Like Carbon) e ímã de neodímio N52
 * **Material da Carcaça:** Liga de alumínio com usinagem CNC
 * **Tipo de Conector:** 0.78 mm de 2 pinos
-* **Plug do Cabo:** 3.5 mm P2 (desbalanceado)
+* **Plug do Cabo:** 3.5 mm P2
 * **Faixa de Frequência:** 20 Hz – 20.000 Hz
 * **Impedância:** 32 Ω
 * **Sensibilidade:** 107 dB
