@@ -8,7 +8,7 @@
 * **Tecnologia:** Driver Dinâmico com som JBL Pure Bass
 * **Material da Carcaça:** Plástico
 * **Tipo de Conector:** Fixo (cabo não removível)
-* **Plug do Cabo:** 3.5 mm P2 (desbalanceado)
+* **Plug do Cabo:** 3.5 mm P2
 * **Faixa de Frequência:** 20 Hz – 20.000 Hz
 * **Impedância:** 16 Ω
 * **Sensibilidade:** 96 dB SPL
