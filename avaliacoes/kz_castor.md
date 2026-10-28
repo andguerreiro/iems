@@ -13,7 +13,7 @@
 * **Impedância:** 31–35 Ω (Variável conforme ajuste das chaves)
 * **Sensibilidade:** 105 dB
 * **Peso por Lado:** Não disponível
-* **Diâmetro do Bocal:** Não disponível
+* **Maior Diâmetro do Bocal:** Não disponível
 
 **Assinatura:** Harman-leve (com chaves em 1100)
 
