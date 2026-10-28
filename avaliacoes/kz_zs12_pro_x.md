@@ -20,6 +20,7 @@
 ![Respostas](/respostas/kz_zs12_pro_x_uddd.png)
 
 **Prós:** Agudos com muito brilho e construção metálica robusta.
+
 **Contras:** Controle de qualidade ruim (devolvi porque um dos lados perdeu volume em relação ao outro).
 
 ## Avaliação
