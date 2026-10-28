@@ -21,10 +21,6 @@
 
 **Assinatura:** Quente
 
-**Prós:** Qualidade excelente, garantia de 2 anos, ergonomia e conforto de referência.
-
-**Contras:** Caro.
-
 ## Avaliação
 - **Graves:** Elevação suave em 60–250 Hz, desvio médio de ~1,4 dB (4)
 - **Médios:** Recuados na faixa de médios-altos (2–4 kHz), desvio médio de ~1,8 dB (4)
@@ -33,6 +29,12 @@
 - **Acessórios:** Cabo muito resistente, mas não trançado e difícil de trocar por ser exclusivo da Sennheiser; ponteiras de silicone de excelente qualidade, e uma de espuma de memória; embalagem com case e limpador de sujeira para bocal/ponteiras (4)
 
 **Nota geral:** 4,0 de 5
+
+## Resumo
+
+**Prós:** Qualidade excelente, garantia de 2 anos, ergonomia e conforto de referência.
+
+**Contras:** Caro.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
