@@ -8,7 +8,7 @@
 * **Tecnologia:** Driver Dinâmico com diafragma de PET revestido a titânio e tecnologia KARS 2.0 (Kiwi Acoustic Resonance System)
 * **Material da Carcaça:** Resina de alta qualidade com acabamento premium
 * **Tipo de Conector:** 0.78 mm de 2 pinos
-* **Plug do Cabo:** 3.5 mm P2 (desbalanceado)
+* **Plug do Cabo:** 3.5 mm P2
 * **Faixa de Frequência:** 10 Hz – 29.000 Hz
 * **Impedância:** 18 Ω
 * **Sensibilidade:** 106 dB
