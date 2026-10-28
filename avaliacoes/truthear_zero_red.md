@@ -34,7 +34,7 @@
 
 **Prós:** Som excelente, principalmente em graves e médios; embalagem e acessórios acima da média.
 
-**Contras:** Diâmetro e comprimento do bocal excessivamente grandes, tive que devolver devido ao incômodo imediato ao inserir no canal auditivo.
+**Contras:** Diâmetro e comprimento do bocal excessivamente grandes, tive que devolver devido ao incômodo imediato ao inserir no canal auditivo, depois de alguns minutos já ficava muito desconfortável.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
