@@ -32,10 +32,18 @@ Medidos com balança e paquímetro digital.
 - **Físico:** Leve e pequeno, com encaixe perfeito mas bem simples (3)
 - **Acessórios:** Cabo, ponteiras e embalagem simples demais (2)
 
-**Nota geral:** 3,4 de 5
+### 📋 Nota geral: 3,4 / 5
 
 ## Resumo
 
 **Prós:** Som excelente pelo preço, além de ser leve, ergonômico e barato.
 
 **Contras:** Cabo e ponteiras simples demais, vale trocar por melhores.
+
+# Como avalio
+- **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
+- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1 dB = (5), Acima de 1 até 2 dB = (4), Acima de 2 até 3 dB = (3), Acima de 3 até 4 dB = (2), Acima de 4 dB = (1)
+- **Bandas:** Graves (20–250 Hz), Médios (250 Hz–4 kHz), Agudos (4–10 kHz).
+- **Físico:** Conforto, ergonomia e construção.
+- **Acessórios:** Cabo, ponteiras e embalagem.
+- **Nota geral:** Média simples dos 5 itens.
