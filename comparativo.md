@@ -1,4 +1,4 @@
-| IEM | Preço (USD) | Peso por Lado (g) | Diâmetro do Bocal (mm) | Nota Graves | Nota Médios | Nota Agudos | Nota Físico | Nota Acessórios | Nota Geral |
+| IEM | Preço (USD) | Peso (g) | Diâmetro do Bocal (mm) | Nota Graves | Nota Médios | Nota Agudos | Nota Físico | Nota Acessórios | Nota Geral |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [JBL Tune 110](/avaliacoes/jbl_tune_110.md) | 15 | 2 | 5.7 | 2 | 3 | 3 | 2 | 1 | 2,2 |
 | [Kefine Klean](/avaliacoes/kefine_klean.md) | 49 | 10 | 6.3 | 4 | 5 | 4 | 4 | 5 | 4,4 |
