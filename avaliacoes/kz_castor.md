@@ -20,6 +20,7 @@
 ![Respostas](/respostas/kz_castor_1100.png)
 
 **Prós:** Barato, bem construído (combina resina com metal) e ótima qualidade sonora em todas frequências.
+
 **Contras:** Carcaça e bocal grandes, o que pode incomodar depois de algumas horas de uso.
 
 ## Avaliação
