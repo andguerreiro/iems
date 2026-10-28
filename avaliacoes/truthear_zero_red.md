@@ -30,7 +30,7 @@ Medições realizadas com balança e paquímetro digitais.
 * **Médios:** Excelente acompanhamento da curva Harman, desvio médio < 1 dB (5)
 * **Agudos:** Recuo suave em 4–7 kHz e leve elevação pontual em 8–10 kHz, desvio médio de ~2,4 dB (3)
 * **Físico:** Diâmetro e comprimento do bocal excessivamente grandes; carcaça grande demais por causa dos dois drivers dinâmicos (1)
-* **Acessórios:** Cabo trançado, mas básico; ponteiras com boa variedade, mas a qualidade e a maciez do silicone podiam ser melhores; embalagem acima da média (3)
+* **Acessórios:** Cabo trançado, mas básico; ponteiras com boa variedade, mas a qualidade e a maciez do silicone podiam ser melhores; embalagem excelente (3)
 
 ### 📋 Nota geral: 3,4 / 5
 
