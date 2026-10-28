@@ -20,6 +20,7 @@
 ![Respostas](/respostas/kiwi_ears_cadenza_2.png)
 
 **Prós:** Leve, confortável e com som muito balanceado.
+
 **Contras:** Carcaça um pouco grande.
 
 ## Avaliação
