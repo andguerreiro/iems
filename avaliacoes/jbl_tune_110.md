@@ -19,9 +19,9 @@
 
 ![Respostas](/respostas/jbl_tune_110.png)
 
-Prós: leve
+**Prós:** leve
 
-Contras: excesso de microfonia no cabo
+**Contras:** excesso de microfonia no cabo
 
 ## Avaliação
 * **Graves:** Avançados em 20–250 Hz, com desvio médio de ~3,9 dB (2)
