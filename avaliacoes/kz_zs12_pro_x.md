@@ -8,7 +8,7 @@
 * **Tecnologia:** Híbrida (Driver Dinâmico superlinear + Arrays duplos 31736 e armadura personalizada 30019)
 * **Material da Carcaça:** Metal (faceplate) com corpo em resina
 * **Tipo de Conector:** 0.75 mm de 2 pinos (tipo C recessed/QDC)
-* **Plug do Cabo:** 3.5 mm P2 (desbalanceado)
+* **Plug do Cabo:** 3.5 mm P2
 * **Faixa de Frequência:** 20 Hz – 40.000 Hz
 * **Impedância:** 25 Ω
 * **Sensibilidade:** 106 dB
