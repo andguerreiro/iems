@@ -14,7 +14,7 @@
 - **Sensibilidade:** 115 dB (1 kHz / 1 Vrms)
 
 ## Medições
-- **Peso por Lado:** 2 g
+- **Massa por Lado:** 2 g
 - **Maior Diâmetro do Bocal:** 5.3 mm
 
 Medições realizadas com balança e paquímetro digitais.
