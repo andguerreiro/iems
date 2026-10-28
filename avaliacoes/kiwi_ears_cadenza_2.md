@@ -13,7 +13,7 @@
 * **Impedância:** 18 Ω
 * **Sensibilidade:** 106 dB
 * **Peso por Lado:** Não disponível
-* **Diâmetro do Bocal:** Não disponível
+* **Maior Diâmetro do Bocal:** Não disponível
 
 **Assinatura:** Balanceado-Quente
 
