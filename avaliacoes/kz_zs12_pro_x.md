@@ -12,8 +12,8 @@
 * **Faixa de Frequência:** 20 Hz – 40.000 Hz
 * **Impedância:** 25 Ω
 * **Sensibilidade:** 106 dB
-* **Peso por Lado:** Não disponível
-* **Diâmetro do Bocal:** Não disponível
+* **Peso por Lado:** 9 g
+* **Diâmetro do Bocal:** 6.3 mm
 
 **Assinatura:** Neutra-brilhante (com chaves em UDDD)
 
