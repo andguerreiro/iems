@@ -20,6 +20,7 @@
 ![Respostas](/respostas/kz_edx_pro_x.png)
 
 **Prós:** Som excelente pelo preço, além de ser leve, ergonômico e barato.
+
 **Contras:** Cabo e ponteiras simples demais, vale trocar por melhores.
 
 ## Avaliação
