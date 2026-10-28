@@ -12,8 +12,12 @@
 - **Faixa de Frequência:** 20 Hz – 20.000 Hz
 - **Impedância:** 32 Ω
 - **Sensibilidade:** 107 dB
+
+## Medições
 - **Peso por Lado:** 10 g
 - **Maior Diâmetro do Bocal:** 6.3 mm
+
+Medidos com balança e paquímetro digital.
 
 ## Curva de Resposta em Frequência
 
@@ -35,11 +39,3 @@
 **Prós:** A qualidade do som em todas as frequências impressiona, assim como a ergonomia, a construção em liga de alumínio, o conforto, a separação de instrumentos e o palco sonoro.
 
 **Contras:** Leve incômodo no canal auditivo depois de várias horas de uso, devido ao diâmetro do bocal ser grande por causa do filtro rosqueável.
-
-## Como avalio
-- **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
-- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1 dB = (5), Acima de 1 até 2 dB = (4), Acima de 2 até 3 dB = (3), Acima de 3 até 4 dB = (2), Acima de 4 dB = (1)
-- **Bandas:** Graves (20–250 Hz), Médios (250 Hz–4 kHz), Agudos (4–10 kHz).
-- **Físico:** Conforto, ergonomia e construção.
-- **Acessórios:** Cabo, ponteiras e embalagem.
-- **Nota geral:** Média simples dos 5 itens.
