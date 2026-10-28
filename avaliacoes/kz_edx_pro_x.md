@@ -13,7 +13,7 @@
 * **Impedância:** 23 Ω
 * **Sensibilidade:** 108 dB
 * **Peso por Lado:** Não disponível
-* **Diâmetro do Bocal:** Não disponível
+* **Maior Diâmetro do Bocal:** Não disponível
 
 **Assinatura:** Quente-brilhante
 
