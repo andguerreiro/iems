@@ -19,10 +19,6 @@ Cada IEM recebe nota inteira de 1 a 5 em cinco itens: Graves, Médios, Agudos, F
 
 A nota geral é a média simples dos cinco itens. Empates na nota geral são desempatados pelo menor preço.
 
-Físico = conforto, ergonomia e construção.
-
-Acessórios = cabo, ponteiras e embalagem.
-
 Em graves, médios e agudos, a nota mede a distância média absoluta entre a curva e a Harman IE 2019 na banda, considerando desvios tanto para cima quanto para baixo:
 
 - Até 1 dB: Excelente (5)
@@ -32,6 +28,12 @@ Em graves, médios e agudos, a nota mede a distância média absoluta entre a cu
 - Acima de 4 dB: Péssimo (1)
 
 Se a curva vai pros dois lados na mesma banda, o texto descreve como irregular.
+
+Físico = conforto, ergonomia e construção.
+
+Acessórios = cabo, ponteiras e embalagem.
+
+Nas especificações o peso de cada lado foi medido com uma balança digital e o maior diâmetro do bocal com um paquímetro digital.
 
 ### Bandas e regiões
 
