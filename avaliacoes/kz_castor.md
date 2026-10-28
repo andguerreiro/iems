@@ -6,7 +6,7 @@
 * **Tamanho do Driver:** 8 mm + 10 mm
 * **Quantidade de Drivers:** 2 drivers por lado (Dual Dynamic Driver)
 * **Tecnologia:** Dual Dinâmico com diafragma composto e crossover eletrônico integrado
-* **Material da Carcaça:** Combinação de resina e metal (faceplate metálica)
+* **Material da Carcaça:** Combinação de resina e metal
 * **Tipo de Conector:** 0.75 mm de 2 pinos (tipo C recessed/QDC)
 * **Plug do Cabo:** 3.5 mm P2
 * **Faixa de Frequência:** 20 Hz – 40.000 Hz
