@@ -6,7 +6,7 @@
 * **Tamanho do Driver:** 10 mm (Dinâmico) + Armaduras Balanceadas
 * **Quantidade de Drivers:** 6 drivers por lado (1 Driver Dinâmico + 5 Armaduras Balanceadas)
 * **Tecnologia:** Híbrida (Driver Dinâmico superlinear + Arrays duplos 31736 e armadura personalizada 30019)
-* **Material da Carcaça:** Metal
+* **Material da Carcaça:** Liga de zinco
 * **Tipo de Conector:** 0.75 mm de 2 pinos (tipo C recessed/QDC)
 * **Plug do Cabo:** 3.5 mm P2
 * **Faixa de Frequência:** 20 Hz – 40.000 Hz
