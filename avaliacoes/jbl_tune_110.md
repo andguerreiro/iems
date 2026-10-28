@@ -12,7 +12,7 @@
 - **Faixa de Frequência:** 20 Hz – 20.000 Hz
 - **Impedância:** 16 Ω
 - **Sensibilidade:** 96 dB SPL
-- **Peso por Lado:** 2 g (com cabo)
+- **Peso por Lado:** 2 g
 - **Maior Diâmetro do Bocal:** 5.7 mm
 
 ## Curva de Resposta em Frequência
