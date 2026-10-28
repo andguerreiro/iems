@@ -1,9 +1,9 @@
-IEM,Preço (USD),Assinatura,Peso (g),Bocal (mm),Material,Conector,Graves,Médios,Agudos,Físico,Acessórios,Geral
-JBL Tune 110,15,Em V,2,5.7,Plástico,Fixo (não removível),2,3,3,2,1,2.2
-Kefine Klean,49,Harman-Quente,10,6.3,Liga de alumínio (CNC),0.78 mm (2 pinos),4,5,4,4,5,4.4
-Kiwi Ears Cadenza 2,50,Balanceado-Quente,4,5.9,Resina de alta qualidade,0.78 mm (2 pinos),5,5,3,4,4,4.2
-KZ Castor,15,Harman-leve,8,6.0,Resina e metal,0.75 mm (2 pinos / QDC),4,4,4,4,2,3.6
-KZ EDX Pro X,10,Quente-brilhante,3,5.2,Resina translúcida,0.75 mm (2 pinos / QDC),4,5,3,3,2,3.4
-KZ ZS12 Pro X,59,Neutra-brilhante,9,6.3,Liga de zinco,0.75 mm (2 pinos / QDC),4,5,3,2,2,3.2
-Sennheiser IE 100 Pro,109,Quente,2,5.3,Plástico de alta resistência,Proprietário Sennheiser,4,4,3,5,4,4.0
-Truthear Zero Red,55,Neutra,6,6.8,Resina impressa em 3D,0.78 mm (2 pinos),5,5,3,1,3,3.4
+IEM,Preço (USD),Assinatura,Material,Conector,Peso (g),Bocal (mm),Graves,Médios,Agudos,Físico,Acessórios,Geral
+JBL Tune 110,15,Em V,Plástico,Fixo (não removível),2,5.7,2,3,3,2,1,2.2
+Kefine Klean,49,Harman-Quente,Liga de alumínio (CNC),0.78 mm (2 pinos),10,6.3,4,5,4,4,5,4.4
+Kiwi Ears Cadenza 2,50,Balanceado-Quente,Resina de alta qualidade,0.78 mm (2 pinos),4,5.9,5,5,3,4,4,4.2
+KZ Castor,15,Harman-leve,Resina e metal,0.75 mm (2 pinos / QDC),8,6.0,4,4,4,4,2,3.6
+KZ EDX Pro X,10,Quente-brilhante,Resina translúcida,0.75 mm (2 pinos / QDC),3,5.2,4,5,3,3,2,3.4
+KZ ZS12 Pro X,59,Neutra-brilhante,Liga de zinco,0.75 mm (2 pinos / QDC),9,6.3,4,5,3,2,2,3.2
+Sennheiser IE 100 Pro,109,Quente,Plástico de alta resistência,Proprietário Sennheiser,2,5.3,4,4,3,5,4,4.0
+Truthear Zero Red,55,Neutra,Resina impressa em 3D,0.78 mm (2 pinos),6,6.8,5,5,3,1,3,3.4
