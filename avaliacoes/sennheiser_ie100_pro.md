@@ -13,7 +13,7 @@
 * **Impedância:** 20 Ω
 * **Sensibilidade:** 115 dB (1 kHz / 1 Vrms)
 * **Peso por Lado:** Não disponível
-* **Diâmetro do Bocal:** Não disponível
+* **Maior Diâmetro do Bocal:** Não disponível
 
 **Assinatura:** Quente
 
