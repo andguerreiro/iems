@@ -21,7 +21,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Curva de Resposta em Frequência
 
-![Respostas](/respostas/kz_edx_pro_x.png)
+![Grafico](/graficos/kz_edx_pro_x.png)
 
 **Assinatura:** Quente-brilhante
 

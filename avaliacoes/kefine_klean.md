@@ -21,7 +21,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Curva de Resposta em Frequência
 
-![Respostas](/respostas/kefine_klean.png)
+![Grafico](/graficos/kefine_klean.png)
 
 **Assinatura:** Harman-Quente (independente do filtro prata ou preto)
 

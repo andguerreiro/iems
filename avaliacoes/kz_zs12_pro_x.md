@@ -21,7 +21,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Curva de Resposta em Frequência
 
-![Respostas](/respostas/kz_zs12_pro_x_uddd.png)
+![Grafico](/graficos/kz_zs12_pro_x_uddd.png)
 
 **Assinatura:** Neutra-brilhante (com chaves em UDDD)
 

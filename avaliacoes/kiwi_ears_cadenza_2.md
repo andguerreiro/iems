@@ -21,7 +21,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Curva de Resposta em Frequência
 
-![Respostas](/respostas/kiwi_ears_cadenza_2.png)
+![Grafico](/graficos/kiwi_ears_cadenza_2.png)
 
 **Assinatura:** Balanceado-Quente
 

@@ -21,7 +21,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Curva de Resposta em Frequência
 
-![Respostas](/respostas/jbl_tune_110.png)
+![Grafico](/graficos/jbl_tune_110.png)
 
 **Assinatura:** em V
 
