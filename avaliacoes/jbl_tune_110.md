@@ -13,7 +13,7 @@
 * **Impedância:** 16 Ω
 * **Sensibilidade:** 96 dB SPL
 * **Peso por Lado:** Não disponível
-* **Diâmetro do Bocal:** Não disponível
+* **Maior Diâmetro do Bocal:** Não disponível
 
 **Assinatura:** em V
 
