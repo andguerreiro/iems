@@ -8,7 +8,7 @@
 * **Tecnologia:** Driver Dinâmico único de alta performance
 * **Material da Carcaça:** Resina translúcida com detalhes decorativos
 * **Tipo de Conector:** 0.75 mm de 2 pinos (tipo C recessed/QDC)
-* **Plug do Cabo:** 3.5 mm P2 (desbalanceado)
+* **Plug do Cabo:** 3.5 mm P2
 * **Faixa de Frequência:** 20 Hz – 40.000 Hz
 * **Impedância:** 23 Ω
 * **Sensibilidade:** 108 dB
