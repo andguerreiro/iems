@@ -20,6 +20,7 @@
 ![Respostas](/respostas/kefine_klean.png)
 
 **Prós:** A qualidade do som em todas as frequências impressiona, assim como a ergonomia, a construção em liga de alumínio, o conforto, a separação de instrumentos e o palco sonoro.
+
 **Contras:** Leve incômodo no canal auditivo depois de várias horas de uso, devido ao diâmetro do bocal ser grande por causa do filtro rosqueável.
 
 ## Avaliação
