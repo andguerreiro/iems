@@ -33,7 +33,7 @@ Físico = conforto, ergonomia e construção.
 
 Acessórios = cabo, ponteiras e embalagem.
 
-Nas especificações o peso de cada lado foi medido com uma balança digital e o maior diâmetro do bocal com um paquímetro digital.
+O peso de cada lado foi medido com uma balança digital e o maior diâmetro do bocal com um paquímetro digital.
 
 ### Bandas e regiões
 
