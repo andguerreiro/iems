@@ -15,13 +15,11 @@
 * **Peso por Lado:** 6 g
 * **Maior Diâmetro do Bocal:** 6.8 mm
 
-**Assinatura:** Neutra
+## Curva de Resposta em Frequência
 
 ![Respostas](/respostas/truthear_zero_red.png)
 
-**Prós:** Graves e médios excelentes e acessórios acima da média.
-
-**Contras:** Diâmetro e comprimento do bocal excessivamente grandes, tive que devolver por causa do desconforto imediato ao inserir no canal auditivo, depois de alguns minutos já ficava insuportável.
+**Assinatura:** Neutra
 
 ## Avaliação
 * **Graves:** Sintonia extremamente precisa em relação ao alvo, desvio médio < 1 dB (5)
