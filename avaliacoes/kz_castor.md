@@ -13,7 +13,7 @@
 - **Impedância:** 31–35 Ω (Variável conforme ajuste das chaves)
 - **Sensibilidade:** 105 dB
 - **Peso por Lado:** 8 g
-- **Maior Diâmetro do Bocal:** 6 mm
+- **Maior Diâmetro do Bocal:** 6.0 mm
 
 ## Curva de Resposta em Frequência
 
