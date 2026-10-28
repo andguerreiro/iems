@@ -13,7 +13,7 @@
 * **Impedância:** 32 Ω
 * **Sensibilidade:** 107 dB
 * **Peso por Lado:** Não disponível
-* **Diâmetro do Bocal:** Não disponível
+* **Maior Diâmetro do Bocal:** Não disponível
 
 **Assinatura:** Harman-Quente (independente do filtro prata ou preto)
 
