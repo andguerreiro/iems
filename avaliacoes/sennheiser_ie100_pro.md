@@ -8,7 +8,7 @@
 * **Tecnologia:** Driver dinâmico de banda larga (*TrueResponse*)
 * **Material da Carcaça:** Plástico de alta resistência
 * **Tipo de Conector:** Proprietário da Sennheiser
-* **Plug do Cabo:** 3.5 mm P2 (desbalanceado)
+* **Plug do Cabo:** 3.5 mm P2
 * **Faixa de Frequência:** 20 Hz – 18.000 Hz
 * **Impedância:** 20 Ω
 * **Sensibilidade:** 115 dB (1 kHz / 1 Vrms)
