@@ -8,7 +8,7 @@
 * **Tecnologia:** Dual Dinâmico com diafragma composto e crossover eletrônico integrado
 * **Material da Carcaça:** Combinação de resina e metal (faceplate metálica)
 * **Tipo de Conector:** 0.75 mm de 2 pinos (tipo C recessed/QDC)
-* **Plug do Cabo:** 3.5 mm P2 (desbalanceado)
+* **Plug do Cabo:** 3.5 mm P2
 * **Faixa de Frequência:** 20 Hz – 40.000 Hz
 * **Impedância:** 31–35 Ω (Variável conforme ajuste das chaves)
 * **Sensibilidade:** 105 dB
