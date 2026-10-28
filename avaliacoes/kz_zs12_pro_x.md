@@ -13,7 +13,7 @@
 * **Impedância:** 25 Ω
 * **Sensibilidade:** 106 dB
 * **Peso por Lado:** 9 g
-* **Diâmetro do Bocal:** 6.3 mm
+* **Maior Diâmetro do Bocal:** 6.3 mm
 
 **Assinatura:** Neutra-brilhante (com chaves em UDDD)
 
