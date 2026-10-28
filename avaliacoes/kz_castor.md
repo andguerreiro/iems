@@ -32,10 +32,18 @@ Medidos com balança e paquímetro digital.
 - **Físico:** Bocal um pouco grande, pode incomodar após muito tempo de uso; carcaça grande por causa dos dois drivers dinâmicos; a combinação de resina e metal ficou ótima (4)
 - **Acessórios:** Cabo simples demais; ponteiras médias; embalagem simples demais (2)
 
-**Nota geral:** 3,6 de 5
+### 📋 Nota geral: 3,6 / 5
 
 ## Resumo
 
 **Prós:** Barato, bem construído (combina resina com metal) e ótima qualidade sonora em todas frequências.
 
 **Contras:** Carcaça e bocal grandes, o que pode incomodar depois de algumas horas de uso.
+
+# Como avalio
+- **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
+- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1 dB = (5), Acima de 1 até 2 dB = (4), Acima de 2 até 3 dB = (3), Acima de 3 até 4 dB = (2), Acima de 4 dB = (1)
+- **Bandas:** Graves (20–250 Hz), Médios (250 Hz–4 kHz), Agudos (4–10 kHz).
+- **Físico:** Conforto, ergonomia e construção.
+- **Acessórios:** Cabo, ponteiras e embalagem.
+- **Nota geral:** Média simples dos 5 itens.
