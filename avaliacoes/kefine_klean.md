@@ -36,9 +36,9 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Resumo
 
-**Prós:** A qualidade do som em todas as frequências impressiona, assim como a ergonomia, a construção em liga de alumínio, o conforto, a separação de instrumentos e o palco sonoro.
+**Prós:** Afinação ótima em graves e agudos excelente em médios, construção robusta em alumínio e acessórios completos.
 
-**Contras:** Leve incômodo no canal auditivo depois de várias horas de uso, devido ao diâmetro do bocal ser grande por causa do filtro rosqueável.
+**Contras:** Leve incômodo no canal auditivo após várias horas devido ao bocal grosso.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
