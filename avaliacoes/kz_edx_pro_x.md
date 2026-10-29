@@ -36,9 +36,9 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Resumo
 
-**Prós:** Som excelente pelo preço, além de ser leve, ergonômico e barato.
+**Prós:** Muito barato, leve, ergonômico e com afinação eficiente pelo preço.
 
-**Contras:** Cabo e ponteiras simples demais, vale trocar por melhores.
+**Contras:** Acessórios muito simples.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
