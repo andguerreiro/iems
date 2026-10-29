@@ -36,9 +36,9 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Resumo
 
-**Prós:** Leve, confortável e com som muito balanceado.
+**Prós:** Afinação excelente em graves e médios, além de sem leve e bem acabado.
 
-**Contras:** Carcaça um pouco grande.
+**Contras:** Carcaça um pouco grande e cabo grosso.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
