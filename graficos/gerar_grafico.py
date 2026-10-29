@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # ====== ALTERE SÓ AQUI ======
-IEM = "KZ Castor"
+IEM = "Alterar"
 # ============================
 
 # nome do PNG: minúsculo, sem espaços (ex.: "KZ Castor" -> kz_castor.png)
