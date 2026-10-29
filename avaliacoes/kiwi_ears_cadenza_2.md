@@ -27,8 +27,8 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Avaliação
 - **Graves:** Acompanham com precisão o alvo, desvio médio < 1 dB (5)
-- **Médios:** No alvo com excelente linearidade, com leve recuo em 3–4 kHz, desvio médio de ~1,4 dB (5)
-- **Agudos:** Recuados de 5 a 6 dB em 4–7 kHz, com a curva voltando ao alvo em 8–9 kHz, desvio médio de ~4,7 dB (2). O vale em 10–13 kHz fica na região do Ar e não entra na nota
+- **Médios:** No alvo com excelente linearidade, com recuo de ~3 a 5 dB em 3–4 kHz, desvio médio de ~1,4 dB (5)
+- **Agudos:** Recuados de 5 a 6 dB em 4–7 kHz, com a curva voltando ao alvo em 8–8,5 kHz e começando a cair antes de 10 kHz, desvio médio de ~4,7 dB (2).
 - **Físico:** Diâmetro e comprimento do bocal no tamanho ideal pra não incomodar indevidamente o canal auditivo, mas tem a carcaça um pouco grande; construção leve e muito bem acabada (4)
 - **Acessórios:** Cabo trançado, flexível e sem microfonia, mas levemente grosso; ponteiras em pares estreitos e largos, macias e de ótima qualidade; embalagem com tudo o que precisa, sem faltar nem sobrar (5)
 
