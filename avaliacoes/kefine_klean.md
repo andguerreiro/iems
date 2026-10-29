@@ -23,16 +23,16 @@ Medições realizadas com balança e paquímetro digitais.
 
 ![Grafico](/graficos/kefine_klean.png)
 
-**Assinatura:** Harman-Quente (independente do filtro prata ou preto)
+**Assinatura:** Harman-Quente (filtro prata)
 
 ## Avaliação
-- **Graves:** Levemente avançados em 60–250 Hz, desvio médio de ~1,5 dB (5)
-- **Médios:** Praticamente no alvo, com leve recuo de 2–4 dB em 3–4 kHz, desvio médio de ~1,4 dB (5)
-- **Agudos:** Irregulares: recuo de 3–5 dB em 4–7 kHz e pico de ~+3 dB em 8,5 kHz, desvio médio de ~3 dB (3)
+- **Graves:** Avançados em 60–250 Hz (de ~+1,5 a +2,7 dB, mais em 100–250 Hz), desvio médio de ~1,7 dB (4)
+- **Médios:** Praticamente no alvo, com leve excesso em 250–300 Hz (até ~+2 dB) e recuo de 2–4 dB em 3–4 kHz, desvio médio de ~1,2 dB (5)
+- **Agudos:** Irregulares: recuo de 3–5 dB em 4–7 kHz e pico de ~+3,5 dB em 8,7 kHz, desvio médio de ~3,2 dB (3)
 - **Físico:** Leve incômodo no canal auditivo devido ao diâmetro do bocal; carcaça muito pequena e com encaixe perfeito; construção em liga de alumínio com usinagem CNC, qualidade excelente (4)
 - **Acessórios:** Cabo trançado, fino, forte, leve, flexível e com baixíssima microfonia; ponteiras de silicone macio e ótima qualidade; embalagem muito bem feita, com case e dois filtros pra mudar a afinação (5)
 
-### 📋 Nota geral: 4,4 / 5
+### 📋 Nota geral: 4,2 / 5
 
 ## Resumo
 
