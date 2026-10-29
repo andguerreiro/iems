@@ -3,8 +3,8 @@
 | Posição | IEM | Nota (1 a 5) | Preço (USD) | Assinatura |
 | :---: | :--- | :---: | :---: | :--- |
 | **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **4,4** | 49 | Harman-Quente |
-| **2º** | [KZ Castor](/avaliacoes/kz_castor.md) | **4,0** | 15 | Harman-leve |
-| **3º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **4,0** | 50 | Balanceado-Quente |
+| **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **4,2** | 50 | Balanceado-Quente |
+| **3º** | [KZ Castor](/avaliacoes/kz_castor.md) | **4,0** | 15 | Harman-leve |
 | **4º** | [Sennheiser IE100 Pro](/avaliacoes/sennheiser_ie100_pro.md) | **4,0** | 109 | Quente |
 | **5º** | [KZ EDX Pro X](/avaliacoes/kz_edx_pro_x.md) | **3,4** | 10 | Quente-brilhante |
 | **6º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **3,0** | 55 | Neutra |
