@@ -26,23 +26,23 @@ Medições realizadas com balança e paquímetro digitais.
 **Assinatura:** Neutra
 
 ## Avaliação
-* **Graves:** Sintonia extremamente precisa em relação ao alvo, desvio médio < 1 dB (5)
-* **Médios:** Excelente acompanhamento da curva Harman, desvio médio < 1 dB (5)
-* **Agudos:** Recuo suave em 4–7 kHz e leve elevação pontual em 8–10 kHz, desvio médio de ~2,4 dB (3)
+* **Graves:** Recuados de forma gradual: ~3 dB abaixo do alvo em 20–50 Hz e de 1,5 a 2 dB em 100–250 Hz, desvio médio de ~2,1 dB (4)
+* **Médios:** Excelente acompanhamento da curva Harman, com leve recuo em 3–4 kHz, desvio médio de ~1,1 dB (5)
+* **Agudos:** Recuo de 5 a 7 dB em 5–7 kHz e leve elevação em 9 kHz, desvio médio de ~4,1 dB (2)
 * **Físico:** Diâmetro e comprimento do bocal excessivamente grandes; carcaça grande demais por causa dos dois drivers dinâmicos (1)
 * **Acessórios:** Cabo trançado, mas básico; ponteiras com boa variedade, mas a qualidade e a maciez do silicone podiam ser melhores; embalagem excelente (3)
 
-### 📋 Nota geral: 3,4 / 5
+### 📋 Nota geral: 3,0 / 5
 
 ## Resumo
 
-**Prós:** Afinação excelente em graves e médios e qualidade da embalagem acima da média.
+**Prós:** Afinação excelente nos médios, boa nos graves e qualidade da embalagem acima da média.
 
-**Contras:** Bocal excessivamente grosso e longo, causando considerável desconforto no canal auditivo.
+**Contras:** Bocal excessivamente grosso e longo, causando considerável desconforto no canal auditivo, e agudos recuados em 5–7 kHz.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
-- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1 dB = (5), Acima de 1 até 2 dB = (4), Acima de 2 até 3 dB = (3), Acima de 3 até 4 dB = (2), Acima de 4 dB = (1)
+- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1,5 dB = (5), Acima de 1,5 até 2,5 dB = (4), Acima de 2,5 até 3,5 dB = (3), Acima de 3,5 até 5 dB = (2), Acima de 5 dB = (1)
 - **Bandas:** Graves (20–250 Hz), Médios (250 Hz–4 kHz), Agudos (4–10 kHz).
 - **Físico:** Conforto, ergonomia e construção.
 - **Acessórios:** Cabo, ponteiras e embalagem.
