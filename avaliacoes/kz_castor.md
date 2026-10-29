@@ -23,7 +23,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ![Grafico](/graficos/kz_castor.png)
 
-**Assinatura:** Harman-leve (com chaves em 1100)
+**Assinatura:** Harman-brilhante (com chaves em 1100)
 
 ## Avaliação
 - **Graves:** Levemente recuados abaixo de 80 Hz (até ~2 dB) e no alvo de 100 a 250 Hz, desvio médio de 0,92 dB (5)
