@@ -36,9 +36,9 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Resumo
 
-**Prós:** Som excelente, principalmente em graves e médios; embalagem e acessórios acima da média.
+**Prós:** Afinação excelente em graves e médios e qualidade da embalagem acima da média.
 
-**Contras:** Diâmetro e comprimento do bocal excessivamente grandes; tive que devolver devido ao incômodo imediato ao inserir no canal auditivo e depois de alguns minutos já ficava muito desconfortável.
+**Contras:** Bocal excessivamente grosso e longo, causando considerável desconforto no canal auditivo.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
