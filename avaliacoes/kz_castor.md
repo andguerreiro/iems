@@ -36,7 +36,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Resumo
 
-**Prós:** Ótima afinação em todas as frequências, barato e com construção bem feita (resina e metal).
+**Prós:** Afinação acima da média em todas as frequências, barato e com construção bem feita (resina e metal).
 
 **Contras:** Carcaça e bocal grandes, o que pode incomodar depois de algumas horas de uso, e acessórios simples demais.
 
