@@ -26,23 +26,23 @@ Medições realizadas com balança e paquímetro digitais.
 **Assinatura:** em V
 
 ## Avaliação
-- **Graves:** Avançados em 20–250 Hz, com desvio médio de ~3,9 dB (2)
-- **Médios:** Recuados em 1–3 kHz e elevados em 250–400 Hz, com desvio médio de ~2,6 dB (3)
-- **Agudos:** Desvio médio de ~2,1 dB devido a vale em 7–8 kHz e pico em 9 kHz (3)
+- **Graves:** Muito acima do alvo em toda a faixa (cerca de +9 dB em 20–250 Hz), desvio médio de ~9 dB (1)
+- **Médios:** Irregulares: elevados em 250–500 Hz (até +7 dB), recuados em 2–3 kHz e elevados em 4 kHz, desvio médio de ~3,3 dB (3)
+- **Agudos:** Excesso em 4–5 kHz (até +5 dB) e pico de ~+6 dB em 8 kHz, desvio médio de ~3,4 dB (3)
 - **Físico:** Confortável, pequeno, todo de plástico e leve, mas o cabo fica pra baixo e não em volta da orelha (2)
 - **Acessórios:** Cabo horrível com uma microfonia absurda e não removível; ponteiras de silicone mas de baixa qualidade; embalagem extremamente simples (1)
 
-### 📋 Nota geral: 2,2 / 5
+### 📋 Nota geral: 2,0 / 5
 
 ## Resumo
 
 **Prós:** Leve.
 
-**Contras:** Cabo ruim, baixa qualidade de construção/acessórios e microfonia excessiva.
+**Contras:** Graves muito exagerados, cabo ruim, baixa qualidade de construção/acessórios e microfonia excessiva.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
-- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1 dB = (5), Acima de 1 até 2 dB = (4), Acima de 2 até 3 dB = (3), Acima de 3 até 4 dB = (2), Acima de 4 dB = (1)
+- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1,5 dB = (5), Acima de 1,5 até 2,5 dB = (4), Acima de 2,5 até 3,5 dB = (3), Acima de 3,5 até 5 dB = (2), Acima de 5 dB = (1)
 - **Bandas:** Graves (20–250 Hz), Médios (250 Hz–4 kHz), Agudos (4–10 kHz).
 - **Físico:** Conforto, ergonomia e construção.
 - **Acessórios:** Cabo, ponteiras e embalagem.
