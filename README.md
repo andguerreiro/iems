@@ -50,7 +50,3 @@ A massa de cada lado foi medida com uma balança digital, e o maior diâmetro do
 | Agudos | Ar | 10–20 kHz | Estrondoso | Fechado | Não |
 
 A região do Ar (10–20 kHz) não entra na nota, porque as medições variam muito entre sistemas nessa faixa. Se houver algo relevante ali, aparece só no texto da avaliação.
-
-### Sobre as medições
-
-Os gráficos vêm de sistemas diferentes (B&K 5128 e clone IEC60318-4, por exemplo), então diferenças pequenas entre fones medidos em sistemas distintos não são conclusivas.
