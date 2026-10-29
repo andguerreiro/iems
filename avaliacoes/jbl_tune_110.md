@@ -36,9 +36,9 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Resumo
 
-**Prós:** leve
+**Prós:** Leve.
 
-**Contras:** excesso de microfonia no cabo
+**Contras:** Cabo ruim, baixa qualidade de construção/acessórios e microfonia excessiva.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
