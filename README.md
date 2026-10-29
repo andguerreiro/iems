@@ -62,7 +62,7 @@ A região do Ar (10–20 kHz) não entra na nota, porque as medições variam mu
 
 ## Como o desvio médio é calculado
 
-O desvio médio de cada banda é calculado por [script](/graficos/gerar_grafico.py), nestes passos:
+O desvio médio de cada banda é calculado por [script](/script/gerar_grafico.py), nestes passos:
 
 1. **Curva do IEM:** se há mais de uma medição do mesmo modelo, usa-se a média entre elas.
 2. **Mesma base de comparação:** a curva do IEM e a Harman IE 2019 são colocadas na mesma grade de frequências, em escala logarítmica, de 20 Hz a 20 kHz.
