@@ -36,9 +36,9 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Resumo
 
-**Prós:** Qualidade excelente, garantia de 2 anos, ergonomia e conforto de referência.
+**Prós:** Conforto e ergonomia de referência, excelente qualidade, ótima garantia e acessórios úteis.
 
-**Contras:** Caro.
+**Contras:** Preço alto e cabo proprietário de difícil troca.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
