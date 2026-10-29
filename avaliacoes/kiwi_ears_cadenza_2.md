@@ -30,15 +30,15 @@ Medições realizadas com balança e paquímetro digitais.
 - **Médios:** No alvo com excelente linearidade, com leve recuo em 3–4 kHz, desvio médio de ~1,4 dB (5)
 - **Agudos:** Recuados de 5 a 6 dB em 4–7 kHz, com a curva voltando ao alvo em 8–9 kHz, desvio médio de ~4,7 dB (2). O vale em 10–13 kHz fica na região do Ar e não entra na nota
 - **Físico:** Diâmetro e comprimento do bocal no tamanho ideal pra não incomodar indevidamente o canal auditivo, mas tem a carcaça um pouco grande; construção leve e muito bem acabada (4)
-- **Acessórios:** Cabo trançado, flexível e sem microfonia, mas grosso demais; ponteiras em pares estreitos e largos, macias e de ótima qualidade; embalagem com tudo o que precisa, sem faltar nem sobrar (4)
+- **Acessórios:** Cabo trançado, flexível e sem microfonia, mas levemente grosso; ponteiras em pares estreitos e largos, macias e de ótima qualidade; embalagem com tudo o que precisa, sem faltar nem sobrar (5)
 
-### 📋 Nota geral: 4,0 / 5
+### 📋 Nota geral: 4,2 / 5
 
 ## Resumo
 
 **Prós:** Afinação excelente em graves e médios, além de leve e bem acabado.
 
-**Contras:** Agudos recuados em 4–7 kHz, carcaça um pouco grande e cabo grosso.
+**Contras:** Agudos recuados em 4–7 kHz, carcaça um pouco grande e cabo levemente grosso.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
