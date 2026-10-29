@@ -5,7 +5,7 @@
 | **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **4,2** | 49 | Harman-Quente |
 | **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **4,2** | 50 | Balanceado-Quente |
 | **3º** | [KZ Castor](/avaliacoes/kz_castor.md) | **4,0** | 15 | Harman-leve |
-| **4º** | [Sennheiser IE 100 Pro](/avaliacoes/sennheiser_ie_100_pro.md) | **4,0** | 109 | Quente |
+| **4º** | [Sennheiser IE100 Pro](/avaliacoes/sennheiser_ie100_pro.md) | **4,0** | 109 | Quente |
 | **5º** | [KZ EDX Pro X](/avaliacoes/kz_edx_pro_x.md) | **3,4** | 10 | Quente-brilhante |
 | **6º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **2,8** | 55 | Neutra |
 | **7º** | [KZ ZS12 Pro X](/avaliacoes/kz_zs12_pro_x.md) | **2,8** | 59 | Neutra-brilhante |
@@ -34,6 +34,24 @@ Físico = conforto, ergonomia e construção.
 Acessórios = cabo, ponteiras e embalagem.
 
 A massa de cada lado foi medida com uma balança digital, e o maior diâmetro do bocal, com um paquímetro digital.
+
+### Como o desvio médio por banda é calculado
+
+O desvio médio de cada banda é calculado por script, a partir dos dados da medição e da curva-alvo Harman IE 2019, seguindo estes passos:
+
+1. **Média das medições:** quando há mais de uma medição do mesmo IEM, a curva usada é a média ponto a ponto entre elas.
+2. **Grade comum:** a curva do IEM e a Harman IE 2019 são reamostradas por interpolação linear numa mesma grade de 1000 pontos, espaçados de forma logarítmica entre 20 Hz e 20 kHz.
+3. **Normalização em 1 kHz:** a curva do IEM é deslocada na vertical para ficar com o mesmo nível da Harman em 1 kHz. Só o nível geral muda, o formato da curva não.
+4. **Distância ponto a ponto:** em cada ponto da grade, calcula-se o valor absoluto da diferença, em dB, entre a curva do IEM e a Harman. Desvios para cima e para baixo contam igual e não se cancelam.
+5. **Média por banda:** o desvio médio da banda é a média simples dessas distâncias nos pontos que caem dentro dela:
+   - Graves: 20 Hz até 250 Hz
+   - Médios: 250 Hz até 4 kHz
+   - Agudos: 4 kHz até 10 kHz
+
+   O limite inferior de cada banda entra e o superior não. A região do Ar (10–20 kHz) fica fora do cálculo.
+6. **Nota:** o valor bruto da média é comparado com a régua acima, sem arredondar, e cada limite de faixa vale "até" (inclusive). Nos textos, o desvio aparece com duas casas decimais.
+
+Como a grade é logarítmica, cada oitava pesa igual no cálculo, e não cada Hz. Isso acompanha a forma como o gráfico é lido e como se ouve a diferença entre frequências.
 
 ### Bandas e regiões
 
