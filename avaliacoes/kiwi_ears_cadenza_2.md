@@ -23,7 +23,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ![Grafico](/graficos/kiwi_ears_cadenza_2.png)
 
-**Assinatura:** Balanceado-Quente
+**Assinatura:** Harman-suave
 
 ## Avaliação
 - **Graves:** Acompanham com precisão o alvo, desvio médio de 0,68 dB (5)
