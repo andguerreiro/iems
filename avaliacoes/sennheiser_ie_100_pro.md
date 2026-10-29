@@ -23,7 +23,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ![Grafico](/graficos/sennheiser_ie_100_pro.png)
 
-**Assinatura:** Quente
+**Assinatura:** Neutra-leve
 
 ## Avaliação
 - **Graves:** Sub-graves recuados (de 4 a 7 dB abaixo do alvo em 20–60 Hz) e no alvo a partir de 100 Hz, desvio médio de 2,94 dB (3)
