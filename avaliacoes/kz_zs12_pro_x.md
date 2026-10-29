@@ -36,9 +36,9 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Resumo
 
-**Prós:** Agudos com muito brilho e construção metálica robusta.
+**Prós:** Afinação excelente nos médios e construção em liga de zinco robusta.
 
-**Contras:** Controle de qualidade ruim (devolvi porque um dos lados perdeu volume em relação ao outro).
+**Contras:** Controle de qualidade ruim (devolvi por falha de volume) e acessórios simples.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
