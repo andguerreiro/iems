@@ -21,14 +21,14 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Curva de Resposta em Frequência
 
-![Grafico](/graficos/sennheiser_ie100_pro.png)
+![Grafico](/graficos/sennheiser_ie_100_pro.png)
 
 **Assinatura:** Quente
 
 ## Avaliação
-- **Graves:** Sub-graves recuados (de 4 a 7 dB abaixo do alvo em 20–60 Hz) e no alvo a partir de 100 Hz, desvio médio de ~2,7 dB (3)
-- **Médios:** Recuados em 2–4 kHz (de 3 a 6 dB abaixo do alvo, mais forte em 2,5–4 kHz) e levemente em 300–500 Hz, desvio médio de ~1,9 dB (4)
-- **Agudos:** Recuo em 4–5 kHz, pico em ~5,5–6 kHz praticamente sobre o alvo e pico em 8 kHz cerca de +2,5 dB acima do alvo, desvio médio de ~1,8 dB (4)
+- **Graves:** Sub-graves recuados (de 4 a 7 dB abaixo do alvo em 20–60 Hz) e no alvo a partir de 100 Hz, desvio médio de 2,94 dB (3)
+- **Médios:** Recuados em 2–4 kHz (de 3 a 6 dB abaixo do alvo, mais forte em 2,5–4 kHz) e levemente em 300–500 Hz, desvio médio de 2,03 dB (4)
+- **Agudos:** Recuo em 4–5 kHz, pico em ~5,5–6 kHz praticamente sobre o alvo e pico em 8 kHz cerca de +2,5 dB acima do alvo, desvio médio de 1,73 dB (4)
 - **Físico:** De referência em conforto e ergonomia; construção leve e muito bem acabada (5)
 - **Acessórios:** Cabo muito resistente, mas não trançado e difícil de trocar por ser exclusivo da Sennheiser; ponteiras de silicone de excelente qualidade, e uma de espuma de memória; embalagem com case e limpador de sujeira para bocal/ponteras (4)
 
