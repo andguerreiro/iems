@@ -26,9 +26,9 @@ Medições realizadas com balança e paquímetro digitais.
 **Assinatura:** Harman-Quente (independente do filtro prata ou preto)
 
 ## Avaliação
-- **Graves:** Levemente avançados em 60–250 Hz, desvio médio de ~1,5 dB (4)
-- **Médios:** Praticamente no alvo, desvio médio < 1 dB (5)
-- **Agudos:** Suave recessão em 4–6 kHz e ligeiro ganho residual, desvio médio de ~1,3 dB (4)
+- **Graves:** Levemente avançados em 60–250 Hz, desvio médio de ~1,5 dB (5)
+- **Médios:** Praticamente no alvo, com leve recuo de 2–4 dB em 3–4 kHz, desvio médio de ~1,4 dB (5)
+- **Agudos:** Irregulares: recuo de 3–5 dB em 4–7 kHz e pico de ~+3 dB em 8,5 kHz, desvio médio de ~3 dB (3)
 - **Físico:** Leve incômodo no canal auditivo devido ao diâmetro do bocal; carcaça muito pequena e com encaixe perfeito; construção em liga de alumínio com usinagem CNC, qualidade excelente (4)
 - **Acessórios:** Cabo trançado, fino, forte, leve, flexível e com baixíssima microfonia; ponteiras de silicone macio e ótima qualidade; embalagem muito bem feita, com case e dois filtros pra mudar a afinação (5)
 
@@ -36,13 +36,13 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Resumo
 
-**Prós:** Afinação ótima em graves e agudos excelente em médios, construção robusta em alumínio e acessórios completos.
+**Prós:** Afinação ótima em graves e médios, construção robusta em alumínio e acessórios completos.
 
-**Contras:** Leve incômodo no canal auditivo após várias horas devido ao bocal grosso.
+**Contras:** Agudos recuados na região de presença e leve incômodo no canal auditivo após várias horas devido ao bocal grosso.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
-- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1 dB = (5), Acima de 1 até 2 dB = (4), Acima de 2 até 3 dB = (3), Acima de 3 até 4 dB = (2), Acima de 4 dB = (1)
+- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1,5 dB = (5), Acima de 1,5 até 2,5 dB = (4), Acima de 2,5 até 3,5 dB = (3), Acima de 3,5 até 5 dB = (2), Acima de 5 dB = (1)
 - **Bandas:** Graves (20–250 Hz), Médios (250 Hz–4 kHz), Agudos (4–10 kHz).
 - **Físico:** Conforto, ergonomia e construção.
 - **Acessórios:** Cabo, ponteiras e embalagem.
