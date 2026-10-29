@@ -36,7 +36,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Resumo
 
-**Prós:** Barato, bem construído (combina resina com metal) e ótima qualidade sonora em todas frequências.
+**Prós:** Ótima afinação em todas as frequências, barato e com construção bem feita (resina e metal).
 
 **Contras:** Carcaça e bocal grandes, o que pode incomodar depois de algumas horas de uso.
 
