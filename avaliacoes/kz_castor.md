@@ -21,7 +21,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Curva de Resposta em Frequência
 
-![Grafico](/graficos/kz_castor_1100.png)
+![Grafico](/graficos/kz_castor.png)
 
 **Assinatura:** Harman-leve (com chaves em 1100)
 
