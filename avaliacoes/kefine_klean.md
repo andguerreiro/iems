@@ -23,7 +23,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ![Grafico](/graficos/kefine_klean.png)
 
-**Assinatura:** Harman-Quente (filtro prata)
+**Assinatura:** Harman-quente (filtro prata)
 
 ## Avaliação
 - **Graves:** Avançados em 60–250 Hz (de ~+1,5 a +2,7 dB, mais em 100–250 Hz), desvio médio de 1,72 dB (4)
