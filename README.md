@@ -17,9 +17,13 @@ Cada IEM recebe nota inteira de 1 a 5 em cinco itens: Graves, Médios, Agudos, F
 
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
 
-A nota geral é a média simples dos cinco itens. Empates na nota geral são desempatados pelo menor preço.
+A **nota geral** é a média simples dos cinco itens, mostrada com uma casa decimal. Como cada item tem o mesmo peso, o som (Graves, Médios e Agudos) vale 3/5 da nota, e Físico e Acessórios valem 2/5. Esses dois últimos são avaliações subjetivas, sem medição. Empates na nota geral são desempatados pelo menor preço.
 
-Em graves, médios e agudos, a nota mede a distância média absoluta entre a curva e a Harman IE 2019 na banda, considerando desvios tanto para cima quanto para baixo:
+### Graves, Médios e Agudos
+
+A nota mede o quanto a curva de resposta em frequência do IEM se afasta da **Harman IE 2019**, a curva-alvo de referência para fones intra-auriculares, construída a partir de pesquisas de preferência de ouvintes. Ela mede proximidade com esse alvo, não qualidade sonora em si, e o gosto de cada pessoa pode ser diferente.
+
+A distância é a média, em dB, dos desvios para cima e para baixo na banda:
 
 - Até 1,5 dB: Excelente (5)
 - Acima de 1,5 até 2,5 dB: Ótimo (4)
@@ -27,33 +31,20 @@ Em graves, médios e agudos, a nota mede a distância média absoluta entre a cu
 - Acima de 3,5 até 5 dB: Ruim (2)
 - Acima de 5 dB: Péssimo (1)
 
-Se a curva vai pros dois lados na mesma banda, o texto descreve como irregular.
+Nos textos, uma banda é descrita como "irregular" quando a curva fica acima do alvo em parte da faixa e abaixo em outra. A nota trata os dois lados do mesmo jeito.
 
-Físico = conforto, ergonomia e construção.
+### Físico e Acessórios
 
-Acessórios = cabo, ponteiras e embalagem.
+- **Físico:** conforto, ergonomia e construção.
+- **Acessórios:** cabo, ponteiras e embalagem.
 
-A massa de cada lado foi medida com uma balança digital, e o maior diâmetro do bocal, com um paquímetro digital.
+### De onde vêm os dados
 
-### Como o desvio médio por banda é calculado
+- **Curvas de resposta:** vêm de medições publicadas no squig.link, feitas por várias fontes independentes. Elas podem variar um pouco entre fontes, equipamentos e unidades do mesmo modelo, principalmente nos agudos mais altos.
+- **Massa e bocal:** a massa de cada lado foi medida com balança digital, e o maior diâmetro do bocal, com paquímetro digital.
+- **Impressões de uso:** conforto, cabo, ponteiras e embalagem são avaliados por mim, com as unidades que comprei.
 
-O desvio médio de cada banda é calculado por script, a partir dos dados da medição e da curva-alvo Harman IE 2019, seguindo estes passos:
-
-1. **Média das medições:** quando há mais de uma medição do mesmo IEM, a curva usada é a média ponto a ponto entre elas.
-2. **Grade comum:** a curva do IEM e a Harman IE 2019 são reamostradas por interpolação linear numa mesma grade de 1000 pontos, espaçados de forma logarítmica entre 20 Hz e 20 kHz.
-3. **Normalização em 1 kHz:** a curva do IEM é deslocada na vertical para ficar com o mesmo nível da Harman em 1 kHz. Só o nível geral muda, o formato da curva não.
-4. **Distância ponto a ponto:** em cada ponto da grade, calcula-se o valor absoluto da diferença, em dB, entre a curva do IEM e a Harman. Desvios para cima e para baixo contam igual e não se cancelam.
-5. **Média por banda:** o desvio médio da banda é a média simples dessas distâncias nos pontos que caem dentro dela:
-   - Graves: 20 Hz até 250 Hz
-   - Médios: 250 Hz até 4 kHz
-   - Agudos: 4 kHz até 10 kHz
-
-   O limite inferior de cada banda entra e o superior não. A região do Ar (10–20 kHz) fica fora do cálculo.
-6. **Nota:** o valor bruto da média é comparado com a régua acima, sem arredondar, e cada limite de faixa vale "até" (inclusive). Nos textos, o desvio aparece com duas casas decimais.
-
-Como a grade é logarítmica, cada oitava pesa igual no cálculo, e não cada Hz. Isso acompanha a forma como o gráfico é lido e como se ouve a diferença entre frequências.
-
-### Bandas e regiões
+## Bandas e regiões
 
 | Banda | Região | Faixa | Excesso | Falta | Avaliada |
 | :--- | :--- | :--- | :--- | :--- | :---: |
@@ -68,3 +59,20 @@ Como a grade é logarítmica, cada oitava pesa igual no cálculo, e não cada Hz
 | Agudos | Ar | 10–20 kHz | Estrondoso | Fechado | Não |
 
 A região do Ar (10–20 kHz) não entra na nota, porque as medições variam muito entre sistemas nessa faixa. Se houver algo relevante ali, aparece só no texto da avaliação.
+
+## Como o desvio médio é calculado
+
+O desvio médio de cada banda é calculado por script, nestes passos:
+
+1. **Curva do IEM:** se há mais de uma medição do mesmo modelo, usa-se a média entre elas.
+2. **Mesma base de comparação:** a curva do IEM e a Harman IE 2019 são colocadas na mesma grade de frequências, em escala logarítmica, de 20 Hz a 20 kHz.
+3. **Alinhamento em 1 kHz:** a curva do IEM é deslocada para ter o mesmo nível da Harman em 1 kHz. Só o nível muda, o formato da curva não.
+4. **Distância em cada ponto:** calcula-se a diferença absoluta, em dB, entre o IEM e a Harman. Desvios para cima e para baixo contam igual e não se cancelam.
+5. **Média por banda:** é a média dessas distâncias dentro de cada banda (Graves: 20–250 Hz, Médios: 250 Hz–4 kHz, Agudos: 4–10 kHz). O limite inferior entra e o superior não.
+6. **Nota:** o valor é comparado com a escala acima sem arredondar. Nos textos, ele aparece com duas casas decimais.
+
+Como a grade é logarítmica, cada oitava pesa igual, e não cada Hz. Por isso Graves (cerca de 3,6 oitavas) e Agudos (cerca de 1,3 oitava) são médias sobre faixas de larguras bem diferentes.
+
+## Planilha de comparação
+
+O arquivo [comparativo.csv](comparativo.csv) reúne os dados de todos os IEMs. Nele, "Nota Som" é a média simples das notas de Graves, Médios e Agudos.
