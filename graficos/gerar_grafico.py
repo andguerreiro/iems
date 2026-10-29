@@ -52,11 +52,32 @@ harman = interp(*carregar("Harman IE 2019 Target.txt"))
 ref = np.argmin(np.abs(freq - 1000))
 curva = curva - curva[ref] + harman[ref]
 
-# desvio médio absoluto por banda (grade log-uniforme)
-bandas = {"Graves": (20, 250), "Médios": (250, 4000), "Agudos": (4000, 10000)}
+
+def nota(desvio):
+    """Nota de 1 a 5 pela régua do README."""
+    if desvio <= 1.5:
+        return 5
+    if desvio <= 2.5:
+        return 4
+    if desvio <= 3.5:
+        return 3
+    if desvio <= 5:
+        return 2
+    return 1
+
+
+# distância média absoluta (dB) entre a curva e a Harman IE 2019, por banda
+bandas = {
+    "Graves": (20, 250),
+    "Médios": (250, 4000),
+    "Agudos": (4000, 10000),
+}
+print(f"\nDistância média absoluta até a Harman IE 2019 ({IEM}):")
 for nome, (lo, hi) in bandas.items():
     m = (freq >= lo) & (freq < hi)
-    print(f"{nome}: {np.mean(np.abs(curva - harman)[m]):.2f} dB")
+    d = np.mean(np.abs(curva - harman)[m])
+    d_txt = f"{d:.2f}".replace(".", ",")
+    print(f"  {nome} ({lo}–{hi} Hz): {d_txt} dB de distância da Harman IE 2019 -> nota {nota(d)}")
 
 fig, ax = plt.subplots(figsize=(11.7, 6.4), dpi=150)
 ax.plot(freq, curva, color="#4A90D9", lw=2.2, label=IEM)
@@ -72,4 +93,4 @@ ax.grid(True, which="both", alpha=0.3)
 ax.legend(loc="lower left")
 fig.tight_layout()
 fig.savefig(f"{slug}.png")
-print(f"Gráfico salvo em {slug}.png")
+print(f"\nGráfico salvo em {slug}.png")
