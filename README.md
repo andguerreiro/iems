@@ -2,7 +2,7 @@
 
 | Posição | IEM | Nota (1 a 5) | Preço (USD) | Assinatura |
 | :---: | :--- | :---: | :---: | :--- |
-| **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **4,4** | 49 | Harman-Quente |
+| **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **4,2** | 49 | Harman-Quente |
 | **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **4,2** | 50 | Balanceado-Quente |
 | **3º** | [KZ Castor](/avaliacoes/kz_castor.md) | **4,0** | 15 | Harman-leve |
 | **4º** | [Sennheiser IE100 Pro](/avaliacoes/sennheiser_ie100_pro.md) | **4,0** | 109 | Quente |
