@@ -40,7 +40,7 @@ Nos textos, uma banda é descrita como "irregular" quando a curva fica acima do 
 
 ### De onde vêm os dados
 
-- **Curvas de resposta:** vêm de medições publicadas no squig.link, feitas por várias fontes independentes. Elas podem variar um pouco entre fontes, equipamentos e unidades do mesmo modelo, principalmente nos agudos mais altos.
+- **Curvas de resposta:** vêm de [medições](/medicoes) publicadas no squig.link, feitas por várias fontes independentes. Elas podem variar um pouco entre fontes, equipamentos e unidades do mesmo modelo, principalmente nos agudos mais altos.
 - **Massa e bocal:** a massa de cada lado foi medida com balança digital, e o maior diâmetro do bocal, com paquímetro digital.
 - **Impressões de uso:** conforto, cabo, ponteiras e embalagem são avaliados por mim, com as unidades que comprei.
 
@@ -65,7 +65,7 @@ A região do Ar (10–20 kHz) não entra na nota, porque as medições variam mu
 O desvio médio de cada banda é calculado por [script](/script/gerar_grafico.py), nestes passos:
 
 1. **Curva do IEM:** se há mais de uma medição do mesmo modelo, usa-se a média entre elas.
-2. **Mesma base de comparação:** a curva do IEM e a Harman IE 2019 são colocadas na mesma grade de frequências, em escala logarítmica, de 20 Hz a 20 kHz.
+2. **Mesma base de comparação:** a curva do IEM e a [Harman IE 2019](/target/HarmanIE2019.txt) são colocadas na mesma grade de frequências, em escala logarítmica, de 20 Hz a 20 kHz.
 3. **Alinhamento em 1 kHz:** a curva do IEM é deslocada para ter o mesmo nível da Harman em 1 kHz. Só o nível muda, o formato da curva não.
 4. **Distância em cada ponto:** calcula-se a diferença absoluta, em dB, entre o IEM e a Harman. Desvios para cima e para baixo contam igual e não se cancelam.
 5. **Média por banda:** é a média dessas distâncias dentro de cada banda (Graves: 20–250 Hz, Médios: 250 Hz–4 kHz, Agudos: 4–10 kHz). O limite inferior entra e o superior não.
