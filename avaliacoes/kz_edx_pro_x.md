@@ -28,7 +28,7 @@ Medições realizadas com balança e paquímetro digitais.
 ## Avaliação
 - **Graves:** Acima do alvo de 50 a 250 Hz (até ~+4 dB em 100–250 Hz), desvio médio de 2,76 dB (3)
 - **Médios:** Elevados ~3 dB em 250–300 Hz e ~1,5 dB em 2–2,5 kHz, no alvo no restante, desvio médio de 1,18 dB (5)
-- **Agudos:** Pico pronunciado de ~+9 dB em 8 kHz, desvio médio de 1,97 dB (4). O pico de ~+7 dB em 12 kHz fica na região do Ar e não entra na nota
+- **Agudos:** Pico pronunciado de ~+9 dB em 8 kHz, desvio médio de 1,97 dB (4)
 - **Físico:** Leve e pequeno, com encaixe perfeito mas bem simples (3)
 - **Acessórios:** Cabo, ponteiras e embalagem simples demais (2)
 
