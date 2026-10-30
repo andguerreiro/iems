@@ -30,9 +30,9 @@ Medições realizadas com balança e paquímetro digitais.
 - **Médios:** No alvo com excelente linearidade, com recuo de ~1,5 a 2 dB em 3–4 kHz, desvio médio de 0,74 dB (5)
 - **Agudos:** Recuados de ~2 a 2,5 dB em 5,5–7,5 kHz, com queda acentuada a partir de 8,5 kHz e vale de ~8 dB em 10 kHz, desvio médio de 2,64 dB (3)
 - **Físico:** Diâmetro e comprimento do bocal no tamanho ideal pra não incomodar indevidamente o canal auditivo, mas tem a carcaça um pouco grande; construção leve e muito bem acabada (4)
-- **Acessórios:** Cabo trançado, flexível e sem microfonia, mas levemente grosso; ponteiras em pares estreitos e largos, macias e de ótima qualidade; embalagem com tudo o que precisa, sem faltar nem sobrar (5)
+- **Acessórios:** Cabo trançado, flexível e sem microfonia, mas bem grosso; ponteiras em pares estreitos e largos, macias e de ótima qualidade; embalagem ótima (4)
 
-### 📋 Nota geral: 4,4 / 5
+### 📋 Nota geral: 4,2 / 5
 
 ## Resumo
 
