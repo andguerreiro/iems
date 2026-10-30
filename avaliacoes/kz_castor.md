@@ -26,9 +26,9 @@ Medições realizadas com balança e paquímetro digitais.
 **Assinatura:** Harman-brilhante (com chaves em 1100)
 
 ## Avaliação
-- **Graves:** Levemente recuados abaixo de 80 Hz (até ~2 dB) e no alvo de 100 a 250 Hz, desvio médio de 0,65 dB (5)
-- **Médios:** Irregulares: recuo de ~1,5–2 dB em 250–1000 Hz e elevação de ~2,5 dB em 3–4 kHz, desvio médio de 1,12 dB (5)
-- **Agudos:** Elevação moderada de 2–3,5 dB em 4–10 kHz, desvio médio de 1,73 dB (4)
+- **Graves:** Levemente recuados abaixo de 80 Hz (até ~1,5 dB em 30–50 Hz) e no alvo de 100 a 250 Hz, desvio médio de 0,65 dB (5)
+- **Médios:** Levemente recuados: de 1 a 2 dB abaixo do alvo em 250–900 Hz (mais em 500–600 Hz) e de 1 a 1,5 dB em 2–4 kHz, praticamente no alvo no restante, desvio médio de 1,12 dB (5)
+- **Agudos:** Recuo de 2 a 2,5 dB em 4–7 kHz, no alvo em 8–8,5 kHz e vale de ~2 dB em 9–10 kHz, desvio médio de 1,73 dB (4)
 - **Físico:** Bocal um pouco grande, pode incomodar após muito tempo de uso; carcaça grande por causa dos dois drivers dinâmicos; a combinação de resina e metal ficou ótima (4)
 - **Acessórios:** Cabo simples demais; ponteiras médias; embalagem simples demais (2)
 
