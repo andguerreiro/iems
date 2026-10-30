@@ -39,7 +39,24 @@ print("Arquivos usados:", ", ".join(arquivos))
 
 
 def carregar(caminho):
-    d = np.loadtxt(os.path.join(PASTA, caminho))
+    """Lê frequência/amplitude com separador vírgula, tab, espaço ou ponto e vírgula.
+    Ignora cabeçalhos, linhas inválidas e pontos com amplitude exatamente 0."""
+    dados = []
+    with open(os.path.join(PASTA, caminho), encoding="utf-8-sig") as fh:
+        for linha in fh:
+            linha = linha.strip()
+            if not linha:
+                continue
+            partes = [p for p in re.split(r"[,\t;\s]+", linha) if p]
+            try:
+                dados.append((float(partes[0]), float(partes[1])))
+            except (ValueError, IndexError):
+                continue  # cabeçalho ou linha inválida
+    if not dados:
+        sys.exit(f"Não consegui ler nenhum dado numérico em '{caminho}'.")
+    d = np.array(dados)
+    d = d[d[:, 1] != 0]          # descarta o ponto final com amplitude 0
+    d = d[np.argsort(d[:, 0])]   # garante frequência crescente (exigido pelo np.interp)
     return d[:, 0], d[:, 1]
 
 
