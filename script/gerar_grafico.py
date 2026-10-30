@@ -8,19 +8,23 @@ import matplotlib.pyplot as plt
 IEM = "Alterar"
 # ============================
 
+# pasta onde ESTE script está (independe de onde você o executou)
+PASTA = os.path.dirname(os.path.abspath(__file__))
+os.chdir(PASTA)
+
 # nome do PNG: minúsculo, sem espaços (ex.: "KZ Castor" -> kz_castor.png)
 slug = re.sub(r"[^a-z0-9]+", "_", IEM.lower()).strip("_")
 
-# acha os arquivos do IEM na pasta atual (ignora o alvo Harman)
+# acha os arquivos do IEM na pasta do script (ignora o alvo Harman)
 arquivos = sorted(
-    f for f in os.listdir(".")
+    f for f in os.listdir(PASTA)
     if f.lower().endswith(".txt")
     and f.lower().startswith(IEM.lower())
     and not f.lower().startswith("harman")
 )
 
 if not arquivos:
-    sys.exit(f"Nenhum arquivo encontrado começando com '{IEM}'.")
+    sys.exit(f"Nenhum arquivo encontrado em '{PASTA}' começando com '{IEM}'.")
 
 # se acharem arquivos de variações diferentes (ex.: Black e Silver), pede para ser mais específico
 bases = {re.sub(r"\s*\[\d+\]$", "", f[:-4]) for f in arquivos}
@@ -30,11 +34,12 @@ if len(bases) > 1:
         "Escreva o nome completo no IEM (ex.: 'Kefine Klean Silver')."
     )
 
+print("Pasta:", PASTA)
 print("Arquivos usados:", ", ".join(arquivos))
 
 
 def carregar(caminho):
-    d = np.loadtxt(caminho)
+    d = np.loadtxt(os.path.join(PASTA, caminho))
     return d[:, 0], d[:, 1]
 
 
@@ -92,5 +97,6 @@ ax.set_title(f"{IEM} vs Harman IE 2019")
 ax.grid(True, which="both", alpha=0.3)
 ax.legend(loc="lower left")
 fig.tight_layout()
-fig.savefig(f"{slug}.png")
-print(f"\nGráfico salvo em {slug}.png")
+saida = os.path.join(PASTA, f"{slug}.png")
+fig.savefig(saida)
+print(f"\nGráfico salvo em {saida}")
