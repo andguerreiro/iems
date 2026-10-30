@@ -26,19 +26,19 @@ Medições realizadas com balança e paquímetro digitais.
 **Assinatura:** Harman-suave
 
 ## Avaliação
-- **Graves:** Acompanham com precisão o alvo, desvio médio de 0,68 dB (5)
-- **Médios:** No alvo com excelente linearidade, com recuo de ~3 a 5 dB em 3–4 kHz, desvio médio de 1,19 dB (5)
-- **Agudos:** Recuados de 5 a 6 dB em 4–7 kHz, com a curva voltando ao alvo em 8–8,5 kHz e começando a cair antes de 10 kHz, desvio médio de 4,90 dB (2)
+- **Graves:** Acompanham com precisão o alvo, desvio médio de 0,57 dB (5)
+- **Médios:** No alvo com excelente linearidade, com recuo de ~1,5 a 2 dB em 3–4 kHz, desvio médio de 0,74 dB (5)
+- **Agudos:** Recuados de ~2 a 2,5 dB em 5,5–7,5 kHz, com queda acentuada a partir de 8,5 kHz e vale de ~8 dB em 10 kHz, desvio médio de 2,64 dB (3)
 - **Físico:** Diâmetro e comprimento do bocal no tamanho ideal pra não incomodar indevidamente o canal auditivo, mas tem a carcaça um pouco grande; construção leve e muito bem acabada (4)
 - **Acessórios:** Cabo trançado, flexível e sem microfonia, mas levemente grosso; ponteiras em pares estreitos e largos, macias e de ótima qualidade; embalagem com tudo o que precisa, sem faltar nem sobrar (5)
 
-### 📋 Nota geral: 4,2 / 5
+### 📋 Nota geral: 4,4 / 5
 
 ## Resumo
 
 **Prós:** Afinação excelente em graves e médios, além de leve e bem acabado.
 
-**Contras:** Agudos recuados em 4–7 kHz, carcaça um pouco grande e cabo levemente grosso.
+**Contras:** Agudos recuados em 5,5–7,5 kHz e em queda acentuada acima de 8,5 kHz, carcaça um pouco grande e cabo levemente grosso.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
