@@ -2,12 +2,12 @@
 
 | Posição | IEM | Nota (1 a 5) | Preço (USD) | Assinatura |
 | :---: | :--- | :---: | :---: | :--- |
-| **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **4,2** | 49 | Harman-quente |
-| **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **4,2** | 50 | Harman-suave |
+| **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **4,4** | 49 | Harman-quente |
+| **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **4,4** | 50 | Harman-suave |
 | **3º** | [KZ Castor](/avaliacoes/kz_castor.md) | **4,0** | 15 | Harman |
 | **4º** | [Sennheiser IE100 Pro](/avaliacoes/sennheiser_ie_100_pro.md) | **4,0** | 109 | Neutra-leve |
 | **5º** | [KZ EDX Pro X](/avaliacoes/kz_edx_pro_x.md) | **3,4** | 10 | Quente-brilhante |
-| **6º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **2,8** | 55 | Neutra |
+| **6º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **3,4** | 55 | Neutra |
 | **7º** | [KZ ZS12 Pro X](/avaliacoes/kz_zs12_pro_x.md) | **2,8** | 59 | Neutra-brilhante |
 | **8º** | [JBL Tune 110](/avaliacoes/jbl_tune_110.md) | **2,0** | 15 | Em V |
 
