@@ -46,7 +46,7 @@ def interp(f, a):
 
 
 curva = np.mean([interp(*carregar(f)) for f in arquivos], axis=0)
-harman = interp(*carregar("Harman IE 2019 Target.txt"))
+harman = interp(*carregar("HarmanIE2019.txt"))
 
 # normaliza em 1 kHz (mesmo valor do alvo nesse ponto)
 ref = np.argmin(np.abs(freq - 1000))
