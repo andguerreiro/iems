@@ -58,7 +58,7 @@ Nos textos, uma banda é descrita como "irregular" quando a curva fica acima do 
 | Agudos | Agudos | 8–10 kHz | Farpado | Abafado | Sim |
 | Agudos | Ar | 10–20 kHz | Estrondoso | Fechado | Não |
 
-A região do Ar (10–20 kHz) não entra na nota, porque as medições variam muito entre sistemas nessa faixa. Se houver algo relevante ali, aparece só no texto da avaliação.
+A região do Ar (10–20 kHz) não entra na nota, porque as medições variam muito entre sistemas nessa faixa.
 
 ## Como o desvio médio é calculado
 
