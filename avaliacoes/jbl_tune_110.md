@@ -26,19 +26,19 @@ Medições realizadas com balança e paquímetro digitais.
 **Assinatura:** em V
 
 ## Avaliação
-- **Graves:** Muito acima do alvo em toda a faixa (cerca de +9 dB em 20–250 Hz), desvio médio de 9,29 dB (1)
-- **Médios:** Irregulares: elevados em 250–500 Hz (até +8 dB), recuados em 2–3 kHz e elevados em 4 kHz, desvio médio de 2,77 dB (3)
-- **Agudos:** Excesso em 4–5 kHz (até +5 dB) e pico de ~+6 dB em 8 kHz, desvio médio de 3,51 dB (2)
+- **Graves:** Muito acima do alvo em toda a faixa (de +6 dB em 20 Hz a cerca de +8 dB em 100–200 Hz), desvio médio de 7,52 dB (1)
+- **Médios:** Irregulares: elevados em 250–500 Hz (até +7 dB), levemente recuados em 1,5–3 kHz (até −2,5 dB) e acima do alvo perto de 4 kHz, desvio médio de 2,16 dB (4)
+- **Agudos:** Excesso em 4–6 kHz (até +5 dB) e pico de ~+9 dB em 9 kHz, desvio médio de 4,77 dB (2)
 - **Físico:** Confortável, pequeno, todo de plástico e leve, mas o cabo fica pra baixo e não em volta da orelha (2)
 - **Acessórios:** Cabo horrível com uma microfonia absurda e não removível; ponteiras de silicone mas de baixa qualidade; embalagem extremamente simples (1)
 
-### 📋 Nota geral: 1,8 / 5
+### 📋 Nota geral: 2,0 / 5
 
 ## Resumo
 
-**Prós:** Leve.
+**Prós:** Leve e médios razoavelmente próximos do alvo.
 
-**Contras:** Graves muito exagerados, cabo ruim, baixa qualidade de construção/acessórios e microfonia excessiva.
+**Contras:** Graves muito exagerados, pico forte em 9 kHz, cabo ruim, baixa qualidade de construção/acessórios e microfonia excessiva.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
