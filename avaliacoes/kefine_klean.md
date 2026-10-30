@@ -26,19 +26,19 @@ Medições realizadas com balança e paquímetro digitais.
 **Assinatura:** Harman-quente (filtro prata)
 
 ## Avaliação
-- **Graves:** Avançados em 60–250 Hz (de ~+1,5 a +2,7 dB, mais em 100–250 Hz), desvio médio de 1,72 dB (4)
-- **Médios:** Praticamente no alvo, com leve excesso em 250–300 Hz (até ~+2 dB) e recuo de 2–4 dB em 3–4 kHz, desvio médio de 1,06 dB (5)
-- **Agudos:** Irregulares: recuo de 3–5 dB em 4–7 kHz e pico de ~+3,5 dB em 8,7 kHz, desvio médio de 3,29 dB (3)
+- **Graves:** Avançados em toda a faixa (de ~+1,3 dB em 20 Hz a ~+2,7 dB em 100–250 Hz), desvio médio de 1,92 dB (4)
+- **Médios:** Praticamente no alvo, com leve excesso em 250–300 Hz (até ~+2 dB) e recuo de ~1,5 a 2 dB em 3–4 kHz, desvio médio de 0,90 dB (5)
+- **Agudos:** Irregulares: recuo de ~2 a 2,5 dB em 6–7 kHz, leve pico de ~+1 dB em 8 kHz e vale de ~4 dB em 9,5–10 kHz, desvio médio de 1,70 dB (4)
 - **Físico:** Leve incômodo no canal auditivo devido ao diâmetro do bocal; carcaça muito pequena e com encaixe perfeito; construção em liga de alumínio com usinagem CNC, qualidade excelente (4)
 - **Acessórios:** Cabo trançado, fino, forte, leve, flexível e com baixíssima microfonia; ponteiras de silicone macio e ótima qualidade; embalagem muito bem feita, com case e dois filtros pra mudar a afinação (5)
 
-### 📋 Nota geral: 4,2 / 5
+### 📋 Nota geral: 4,4 / 5
 
 ## Resumo
 
-**Prós:** Afinação ótima em graves e médios, construção robusta em alumínio e acessórios completos.
+**Prós:** Afinação ótima em graves e agudos e excelente nos médios, construção robusta em alumínio e acessórios completos.
 
-**Contras:** Agudos recuados na região de presença e leve incômodo no canal auditivo após várias horas devido ao bocal grosso.
+**Contras:** Graves um pouco acima do alvo, agudos com recuo em 6–7 kHz e vale em ~9,5 kHz, e leve incômodo no canal auditivo após várias horas devido ao bocal grosso.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
