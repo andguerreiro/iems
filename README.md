@@ -21,7 +21,7 @@ A **nota geral** é a média simples dos cinco itens, mostrada com uma casa deci
 
 ### Graves, Médios e Agudos
 
-A nota mede o quanto a curva de resposta em frequência do IEM se afasta da **Harman IE 2019**, a curva-alvo de referência para fones intra-auriculares, construída a partir de pesquisas de preferência de ouvintes. Ela mede proximidade com esse alvo, não qualidade sonora em si, e o gosto de cada pessoa pode ser diferente.
+A nota mede o quanto a curva de resposta em frequência do IEM se afasta da [**Harman IE 2019**](/target/HarmanIE2019.txt), a curva-alvo de referência para fones intra-auriculares, construída a partir de pesquisas de preferência de ouvintes. Ela mede proximidade com esse alvo, não qualidade sonora em si, e o gosto de cada pessoa pode ser diferente.
 
 A distância é a média, em dB, dos desvios para cima e para baixo na banda:
 
@@ -65,7 +65,7 @@ A região do Ar (10–20 kHz) não entra na nota, porque as medições variam mu
 O desvio médio de cada banda é calculado por [script](/script/gerar_grafico.py), nestes passos:
 
 1. **Curva do IEM:** se há mais de uma medição do mesmo modelo, usa-se a média entre elas.
-2. **Mesma base de comparação:** a curva do IEM e a [Harman IE 2019](/target/HarmanIE2019.txt) são colocadas na mesma grade de frequências, em escala logarítmica, de 20 Hz a 20 kHz.
+2. **Mesma base de comparação:** a curva do IEM e a Harman IE 2019 são colocadas na mesma grade de frequências, em escala logarítmica, de 20 Hz a 20 kHz.
 3. **Alinhamento em 1 kHz:** a curva do IEM é deslocada para ter o mesmo nível da Harman em 1 kHz. Só o nível muda, o formato da curva não.
 4. **Distância em cada ponto:** calcula-se a diferença absoluta, em dB, entre o IEM e a Harman. Desvios para cima e para baixo contam igual e não se cancelam.
 5. **Média por banda:** é a média dessas distâncias dentro de cada banda (Graves: 20–250 Hz, Médios: 250 Hz–4 kHz, Agudos: 4–10 kHz). O limite inferior entra e o superior não.
