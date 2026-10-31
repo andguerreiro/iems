@@ -3,7 +3,7 @@
 **Preço:** USD 10
 
 ## Especificações
-- **Tamanho do Driver:** 10 mm (não disponível pelo fabricante em exatidão milimétrica detalhada, padrão da linha)
+- **Tamanho do Driver:** 10 mm (valor padrão da linha; o fabricante não informa o diâmetro exato)
 - **Quantidade de Drivers:** 1 driver por lado
 - **Tecnologia:** Driver Dinâmico único de alta performance
 - **Material da Carcaça:** Resina translúcida com detalhes decorativos
