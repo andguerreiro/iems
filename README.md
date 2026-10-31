@@ -73,7 +73,7 @@ O desvio médio de cada banda é calculado por [script](/script/gerar_grafico.py
 
 Como a grade é logarítmica, cada oitava pesa igual, e não cada Hz. Por isso Graves (cerca de 3,6 oitavas) e Agudos (cerca de 1,3 oitava) são médias sobre faixas de larguras bem diferentes.
 
-## Planilha de comparação e desvios
+## Comparativo e desvios
 
 O [comparativo.csv](comparativo.csv) reúne os dados de todos os IEMs. Nele, "Nota Som" é a média simples das notas de Graves, Médios e Agudos.
 
