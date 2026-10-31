@@ -77,4 +77,4 @@ Como a grade é logarítmica, cada oitava pesa igual, e não cada Hz. Por isso G
 
 O [comparativo.csv](comparativo.csv) reúne os dados de todos os IEMs. Nele, "Nota Som" é a média simples das notas de graves, nédios e agudos.
 
-O [desvios.csv](desvios.csv) compara o quanto a curva de resposta em frequência de cada IEM se afasta do alvo Harman 2019, mostrando o desvio médio por banda (graves, médios e agudos), a soma desses desvios e o ranking do mais ao menos fiel ao alvo.
+O [desvios.csv](desvios.csv) compara o quanto a curva de resposta em frequência de cada IEM se afasta do alvo Harman 2019, mostrando o desvio médio por banda, a soma desses desvios e o ranking do mais ao menos fiel ao alvo.
