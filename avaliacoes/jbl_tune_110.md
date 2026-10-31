@@ -36,7 +36,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Resumo
 
-**Prós:** Leve e médios razoavelmente próximos do alvo.
+**Prós:** Bem leve no ouvido e médios razoavelmente próximos do alvo.
 
 **Contras:** Graves muito exagerados, pico forte em 9 kHz, cabo ruim, baixa qualidade de construção/acessórios e microfonia excessiva.
 
