@@ -1,4 +1,4 @@
-Posição,IEM,Preço (USD),Assinatura,Graves (dB),Médios (dB),Agudos (dB),Desvio total - soma (dB)
+Posição,IEM,Preço (USD),Assinatura,Graves (dB),Médios (dB),Agudos (dB),Soma Desvios (dB)
 1,KZ Castor,15,Harman,0.65,1.12,1.73,3.50
 2,Kiwi Ears Cadenza 2,50,Harman-suave,0.57,0.74,2.64,3.95
 3,Kefine Klean,49,Harman-quente,1.92,0.90,1.70,4.52
