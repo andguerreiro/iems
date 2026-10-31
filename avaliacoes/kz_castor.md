@@ -36,7 +36,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Resumo
 
-**Prós:** Afinação acima da média em todas as frequências, barato e com construção bem feita (resina e metal).
+**Prós:** Afinação acima da média em todas as frequências, com desvio máximo de apenas 2,65 dB entre 20 Hz e 10 kHz, barato e com construção bem feita (resina e metal).
 
 **Contras:** Carcaça e bocal grandes, o que pode incomodar depois de algumas horas de uso, e acessórios simples demais.
 
