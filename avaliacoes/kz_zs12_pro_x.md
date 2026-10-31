@@ -28,7 +28,7 @@ Medições realizadas com balança e paquímetro digitais.
 ## Avaliação
 - **Graves:** Recuados em 20–100 Hz (de 4 a 5 dB abaixo do alvo em 20–60 Hz) e no alvo a partir de 150 Hz, desvio médio de 3,10 dB (3)
 - **Médios:** Aderência excelente ao alvo, desvio médio de 0,95 dB (5)
-- **Agudos:** Irregulares: recuo de 3–5 dB em 4–7 kHz e pico de ~+6 dB em 8,5 kHz, com excesso até 10 kHz, desvio médio de 4,33 dB (2)
+- **Agudos:** Irregulares: recuo de 3–5 dB em 4–7 kHz e pico de ~+7 dB em 8,5 kHz, com excesso até 10 kHz, desvio médio de 4,33 dB (2)
 - **Físico:** Um pouco pesado, mas com encaixe perfeito; metal muito bem acabado, mas apresentou problema no volume de um dos lados com poucos dias de uso (2)
 - **Acessórios:** Cabo revestido de prata, melhor que o de cobre puro padrão da KZ; ponteiras simples demais; embalagem simples demais (2)
 
