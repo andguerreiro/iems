@@ -73,6 +73,8 @@ O desvio médio de cada banda é calculado por [script](/script/gerar_grafico.py
 
 Como a grade é logarítmica, cada oitava pesa igual, e não cada Hz. Por isso Graves (cerca de 3,6 oitavas) e Agudos (cerca de 1,3 oitava) são médias sobre faixas de larguras bem diferentes.
 
-## Planilha de comparação
+## Planilha de comparação e desvios
 
 O arquivo [comparativo.csv](comparativo.csv) reúne os dados de todos os IEMs. Nele, "Nota Som" é a média simples das notas de Graves, Médios e Agudos.
+
+O arquivos [desvios.csv](desvios.csv) compara o quanto a curva de resposta em frequência de cada IEM se afasta do alvo Harman 2019, mostrando o desvio médio por banda (graves, médios e agudos), a soma desses desvios e o ranking do mais ao menos fiel ao alvo.
