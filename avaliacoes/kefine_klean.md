@@ -26,7 +26,7 @@ Medições realizadas com balança e paquímetro digitais.
 **Assinatura:** Harman-quente (filtro prata)
 
 ## Avaliação
-- **Graves:** Avançados em toda a faixa (de ~+1,3 dB em 20 Hz a ~+2,7 dB em 100–250 Hz), desvio médio de 1,92 dB (4)
+- **Graves:** Acima do alvo em toda a faixa (de ~+1,3 dB em 20 Hz a ~+2,7 dB em 100–250 Hz), desvio médio de 1,92 dB (4)
 - **Médios:** Praticamente no alvo, com leve excesso em 250–300 Hz (até ~+2 dB) e recuo de ~1,5 a 2 dB em 3–4 kHz, desvio médio de 0,90 dB (5)
 - **Agudos:** Irregulares: recuo de ~2 a 2,5 dB em 6–7 kHz, leve pico de ~+1 dB em 8 kHz e vale de ~4 dB em 9,5–10 kHz, desvio médio de 1,70 dB (4)
 - **Físico:** Leve incômodo no canal auditivo devido ao diâmetro do bocal; carcaça muito pequena e com encaixe perfeito; construção em liga de alumínio com usinagem CNC, qualidade excelente (4)
