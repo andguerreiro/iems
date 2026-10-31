@@ -23,7 +23,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ![Grafico](/graficos/kz_zs12_pro_x.png)
 
-**Assinatura:** Neutra-brilhante (com chaves em UDDD)
+**Assinatura:** Neutra-brilhante (com chaves em 1000)
 
 ## Avaliação
 - **Graves:** Recuados em 20–100 Hz (de 4 a 5 dB abaixo do alvo em 20–60 Hz) e no alvo a partir de 150 Hz, desvio médio de 3,10 dB (3)
