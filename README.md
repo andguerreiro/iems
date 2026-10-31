@@ -5,7 +5,7 @@
 | **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **4,4** | 49 | Harman-quente |
 | **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **4,2** | 50 | Harman-suave |
 | **3º** | [KZ Castor](/avaliacoes/kz_castor.md) | **4,0** | 15 | Harman |
-| **4º** | [Sennheiser IE100 Pro](/avaliacoes/sennheiser_ie_100_pro.md) | **4,0** | 109 | Neutra-leve |
+| **4º** | [Sennheiser IE 100 Pro](/avaliacoes/sennheiser_ie_100_pro.md) | **4,0** | 109 | Neutra-leve |
 | **5º** | [KZ EDX Pro X](/avaliacoes/kz_edx_pro_x.md) | **3,4** | 10 | Quente-brilhante |
 | **6º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **3,4** | 55 | Neutra |
 | **7º** | [KZ ZS12 Pro X](/avaliacoes/kz_zs12_pro_x.md) | **2,8** | 59 | Neutra-brilhante |
@@ -62,19 +62,20 @@ A região do Ar (10–20 kHz) não entra na nota, porque as medições variam mu
 
 ## Como o desvio médio é calculado
 
-O desvio médio de cada banda é calculado por [script](/script/gerar_grafico.py), nestes passos:
+Os desvios são calculados por [script](/script/gerar_grafico.py), que lê todas as medições da pasta, agrupa os arquivos do mesmo modelo (ex.: `Nome [1].txt` e `Nome [2].txt`), processa cada IEM, gera um gráfico por modelo e salva o `desvios.csv`. O arquivo `HarmanIE2019.txt` precisa estar na mesma pasta das medições. Para cada IEM, os passos são:
 
 1. **Curva do IEM:** se há mais de uma medição do mesmo modelo, usa-se a média entre elas.
 2. **Mesma base de comparação:** a curva do IEM e a Harman IE 2019 são colocadas na mesma grade de frequências, em escala logarítmica, de 20 Hz a 20 kHz.
 3. **Alinhamento em 1 kHz:** a curva do IEM é deslocada para ter o mesmo nível da Harman em 1 kHz. Só o nível muda, o formato da curva não.
 4. **Distância em cada ponto:** calcula-se a diferença absoluta, em dB, entre o IEM e a Harman. Desvios para cima e para baixo contam igual e não se cancelam.
 5. **Média por banda:** é a média dessas distâncias dentro de cada banda (Graves: 20–250 Hz, Médios: 250 Hz–4 kHz, Agudos: 4–10 kHz). O limite inferior entra e o superior não.
-6. **Nota:** o valor é comparado com a escala acima sem arredondar. Nos textos, ele aparece com duas casas decimais.
+6. **Desvio total:** é a média das distâncias em todos os pontos de 20 Hz a 10 kHz, e não a média das três bandas. A região do Ar (10–20 kHz) fica de fora, como na nota.
+7. **Nota:** o desvio de cada banda é comparado com a escala acima sem arredondar. Nos textos, ele aparece com duas casas decimais. O desvio total não entra na nota geral.
 
-Como a grade é logarítmica, cada oitava pesa igual, e não cada Hz. Por isso Graves (cerca de 3,6 oitavas) e Agudos (cerca de 1,3 oitava) são médias sobre faixas de larguras bem diferentes.
+Como a grade é logarítmica, cada oitava pesa igual, e não cada Hz. Por isso Graves (cerca de 3,6 oitavas) e Agudos (cerca de 1,3 oitava) são médias sobre faixas de larguras bem diferentes. Pelo mesmo motivo, o desvio total pesa cada banda pela sua largura em oitavas, e os Agudos influenciam menos do que influenciariam numa média simples das três bandas.
 
 ## Comparativo e desvios
 
-O [comparativo.csv](comparativo.csv) reúne os dados de todos os IEMs. Nele, "Nota Som" é a média simples das notas de graves, nédios e agudos.
+O [comparativo.csv](comparativo.csv) reúne os dados de todos os IEMs. Nele, "Nota Som" é a média simples das notas de graves, médios e agudos.
 
-O [desvios.csv](desvios.csv) compara o quanto a curva de resposta em frequência de cada IEM se afasta do alvo Harman IE 2019, mostrando o desvio médio por banda, o total desses desvios e o ranking do mais ao menos fiel ao alvo.
+O [desvios.csv](desvios.csv) mostra, para cada IEM, o desvio médio por banda (graves, médios e agudos) e o desvio total, ou seja, a média da distância ao alvo Harman IE 2019 em toda a curva de 20 Hz a 10 kHz. As linhas são ordenadas pelo desvio total, do mais ao menos próximo do alvo. Esse ranking mede só a fidelidade da curva e pode diferir do ranking por nota geral, que também considera Físico e Acessórios.
