@@ -23,7 +23,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ![Grafico](/graficos/jbl_tune_110.png)
 
-**Assinatura:** em V
+**Assinatura:** Em V
 
 ## Avaliação
 - **Graves:** Muito acima do alvo em toda a faixa (de +6 dB em 20 Hz a cerca de +8 dB em 100–200 Hz), desvio médio de 7,52 dB (1)
