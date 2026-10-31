@@ -28,7 +28,7 @@ Medições realizadas com balança e paquímetro digitais.
 ## Avaliação
 - **Graves:** Levemente recuados: ~2 dB abaixo do alvo em 20–60 Hz, diferença que diminui para menos de 1 dB em 100–250 Hz, desvio médio de 1,33 dB (5)
 - **Médios:** Excelente acompanhamento da curva Harman, com leve recuo de ~1,5 dB em 3–4 kHz, desvio médio de 0,76 dB (5)
-- **Agudos:** Irregulares: recuo de ~3 a 4 dB em 5–6,5 kHz, pico de ~+2,5 dB em 8 kHz e queda em 10 kHz, desvio médio de 2,75 dB (3)
+* **Agudos:** Irregulares: recuo de ~3 a 4 dB em 5–6,5 kHz, pico de ~+2,5 dB em 8 kHz e queda de ~4,6 dB perto de 10 kHz, desvio médio de 2,75 dB (3)
 - **Físico:** Diâmetro e comprimento do bocal excessivamente grandes; carcaça grande demais por causa dos dois drivers dinâmicos (1)
 - **Acessórios:** Cabo trançado, mas básico; ponteiras com boa variedade, mas a qualidade e a maciez do silicone podiam ser melhores; embalagem excelente (3)
 
@@ -38,7 +38,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 **Prós:** Afinação excelente em graves e médios e qualidade da embalagem acima da média.
 
-**Contras:** Bocal excessivamente grosso e longo, causando considerável desconforto no canal auditivo, e agudos irregulares, com recuo em 5–6,5 kHz e pico em 8 kHz.
+**Contras:** Bocal excessivamente grosso e longo, causando considerável desconforto no canal auditivo, e agudos irregulares, com recuo em 5–6,5 kHz, pico em 8 kHz e queda perto de 10 kHz.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
