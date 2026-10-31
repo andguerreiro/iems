@@ -38,7 +38,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 **Prós:** Afinação excelente em graves e médios, além de leve e bem acabado.
 
-**Contras:** Agudos recuados em 5,5–7,5 kHz e em queda acentuada acima de 8,5 kHz, carcaça um pouco grande e cabo levemente grosso.
+**Contras:** Agudos recuados em 5,5–7,5 kHz e em queda acentuada acima de 8,5 kHz, carcaça um pouco grande e cabo bem grosso.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
