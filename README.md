@@ -17,7 +17,7 @@ Cada IEM recebe nota inteira de 1 a 5 em cinco itens: Graves, Médios, Agudos, F
 
 (1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente
 
-A **nota geral** é a média simples dos cinco itens, mostrada com uma casa decimal. Como cada item tem o mesmo peso, o som (Graves, Médios e Agudos) vale 3/5 da nota, e Físico e Acessórios valem 2/5. Esses dois últimos são avaliações subjetivas, sem medição. Empates na nota geral são desempatados pelo menor preço. O preço não entra na nota. Também não calculo custo-benefício: ao comparar vários produtos da mesma categoria, uma razão entre nota e preço favorece os mais baratos mesmo quando são claramente menos refinados. A nota e o preço estão lado a lado na tabela para quem quiser fazer essa conta.
+A **nota geral** é a média simples dos cinco itens, mostrada com uma casa decimal. Como cada item tem o mesmo peso, o som (Graves, Médios e Agudos) vale 3/5 da nota, e Físico e Acessórios valem 2/5. Esses dois últimos são avaliações subjetivas, sem medição. Empates na nota geral são desempatados pelo menor preço. O preço não entra na nota. Também não calculo custo-benefício: ao comparar vários produtos da mesma categoria, uma razão entre nota e preço favorece os mais baratos mesmo quando são claramente menos refinados. A nota e o preço estão lado a lado na tabela para quem quiser fazer essa conta. A tecnologia do driver (material do diafragma, número de drivers, etc.) não recebe nota. O que ela entrega em som já aparece nas notas de Graves, Médios e Agudos, e não há uma régua objetiva para pontuar a tecnologia em si.
 
 ### Graves, Médios e Agudos
 
