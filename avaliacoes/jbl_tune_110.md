@@ -28,7 +28,7 @@ Medições realizadas com balança e paquímetro digitais.
 ## Avaliação
 - **Graves:** Muito acima do alvo em toda a faixa (de +6 dB em 20 Hz a cerca de +8 dB em 100–200 Hz), desvio médio de 7,52 dB (1)
 - **Médios:** Irregulares: elevados em 250–500 Hz (até +7 dB), levemente recuados em 1,5–3 kHz (até −2,5 dB) e acima do alvo perto de 4 kHz, desvio médio de 2,16 dB (4)
-- **Agudos:** Excesso em 4–6 kHz (até +5 dB) e pico de ~+9 dB em 9 kHz, desvio médio de 4,77 dB (2)
+- **Agudos:** Excesso em 4–6 kHz (até +5 dB) e pico de ~+9,6 dB em 9 kHz, desvio médio de 4,77 dB (2)
 - **Físico:** Confortável, pequeno, todo de plástico e leve, mas o cabo fica pra baixo e não em volta da orelha (2)
 - **Acessórios:** Cabo horrível com uma microfonia absurda e não removível; ponteiras de silicone mas de baixa qualidade; embalagem extremamente simples (1)
 
