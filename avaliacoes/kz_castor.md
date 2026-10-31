@@ -27,12 +27,12 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Avaliação
 - **Graves:** Levemente recuados abaixo de 80 Hz (até ~1,5 dB em 30–50 Hz) e no alvo de 100 a 250 Hz, desvio médio de 0,65 dB (5)
-- **Médios:** Levemente recuados: de 1 a 2 dB abaixo do alvo em 250–900 Hz (mais em 500–600 Hz) e de 1 a 1,5 dB em 2–4 kHz, praticamente no alvo no restante, desvio médio de 1,12 dB (5)
+- **Médios:** Levemente recuados: de 1 a 2 dB abaixo do alvo em 250–900 Hz (mais em 500–600 Hz) e de 1 a 1,5 dB em 2–4 kHz, praticamente no alvo no restante, desvio médio de 1,12 dB (4)
 - **Agudos:** Recuo de 2 a ~2,6 dB em 4–7 kHz, no alvo em 8–8,5 kHz e vale de ~2 dB em 9–10 kHz, desvio médio de 1,73 dB (4)
 - **Físico:** Bocal um pouco grande, pode incomodar após muito tempo de uso; carcaça grande por causa dos dois drivers dinâmicos; a combinação de resina e metal ficou ótima (4)
 - **Acessórios:** Cabo simples demais; ponteiras médias; embalagem simples demais (2)
 
-### 📋 Nota geral: 4,0 / 5
+### 📋 Nota geral: 3,8 / 5
 
 ## Resumo
 
@@ -42,7 +42,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
-- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1,5 dB = (5), Acima de 1,5 até 2,5 dB = (4), Acima de 2,5 até 3,5 dB = (3), Acima de 3,5 até 5 dB = (2), Acima de 5 dB = (1)
+- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1,0 dB = (5), Acima de 1,0 até 2,0 dB = (4), Acima de 2,0 até 3,0 dB = (3), Acima de 3,0 até 4,5 dB = (2), Acima de 4,5 dB = (1). Se o maior desvio em um ponto da banda passar de 6 dB, a nota da banda perde 1 ponto (mínimo 1).
 - **Bandas:** Graves (20–250 Hz), Médios (250 Hz–4 kHz), Agudos (4–10 kHz).
 - **Físico:** Conforto, ergonomia e construção.
 - **Acessórios:** Cabo, ponteiras e embalagem.

@@ -26,23 +26,23 @@ Medições realizadas com balança e paquímetro digitais.
 **Assinatura:** Neutra-leve
 
 ## Avaliação
-- **Graves:** Sub-graves recuados (de 3 a 7 dB abaixo do alvo em 20–60 Hz, ~1 dB em 100 Hz) e no alvo a partir de 150 Hz, desvio médio de 2,81 dB (3)
-- **Médios:** Recuados em 2–4 kHz (de 3 a 6 dB abaixo do alvo, mais forte em 2,5–3,5 kHz) e levemente em 400–700 Hz (até ~1,5 dB), desvio médio de 1,95 dB (4)
+- **Graves:** Sub-graves recuados (de 3 a 7 dB abaixo do alvo em 20–60 Hz, ~1 dB em 100 Hz; desvio máximo de 6,68 dB em 20 Hz) e no alvo a partir de 150 Hz, desvio médio de 2,81 dB (3 − 1 = 2, por vale acima de 6 dB)
+- **Médios:** Recuados em 2–4 kHz (de 3 a 6 dB abaixo do alvo, mais forte em 2,5–3,5 kHz; desvio máximo de 6,06 dB em 3 kHz) e levemente em 400–700 Hz (até ~1,5 dB), desvio médio de 1,95 dB (4 − 1 = 3, por vale acima de 6 dB)
 - **Agudos:** Recuo de ~5 dB em 4 kHz, diminuindo para ~1,5 dB em 5 kHz, pico em ~5,5–6 kHz levemente acima do alvo (até ~+1 dB) e pico em 8 kHz cerca de +4 dB acima do alvo, desvio médio de 1,61 dB (4)
 - **Físico:** De referência em conforto e ergonomia; construção leve e muito bem acabada (5)
 - **Acessórios:** Cabo muito resistente, mas não trançado e difícil de trocar por ser exclusivo da Sennheiser; ponteiras de silicone de excelente qualidade, e uma de espuma de memória; embalagem com case e limpador de sujeira para bocal/ponteiras (4)
 
-### 📋 Nota geral: 4,0 / 5
+### 📋 Nota geral: 3,6 / 5
 
 ## Resumo
 
 **Prós:** Conforto e ergonomia de referência, excelente qualidade, ótima garantia e acessórios úteis.
 
-**Contras:** Preço alto, sub-graves recuados e cabo proprietário de difícil troca.
+**Contras:** Preço alto, sub-graves recuados (vale de ~6,7 dB em 20 Hz), vale de ~6 dB em 2,5–3,5 kHz e cabo proprietário de difícil troca.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
-- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1,5 dB = (5), Acima de 1,5 até 2,5 dB = (4), Acima de 2,5 até 3,5 dB = (3), Acima de 3,5 até 5 dB = (2), Acima de 5 dB = (1)
+- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1,0 dB = (5), Acima de 1,0 até 2,0 dB = (4), Acima de 2,0 até 3,0 dB = (3), Acima de 3,0 até 4,5 dB = (2), Acima de 4,5 dB = (1). Se o maior desvio em um ponto da banda passar de 6 dB, a nota da banda perde 1 ponto (mínimo 1).
 - **Bandas:** Graves (20–250 Hz), Médios (250 Hz–4 kHz), Agudos (4–10 kHz).
 - **Físico:** Conforto, ergonomia e construção.
 - **Acessórios:** Cabo, ponteiras e embalagem.
