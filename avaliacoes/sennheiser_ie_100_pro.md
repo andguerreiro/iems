@@ -30,7 +30,7 @@ Medições realizadas com balança e paquímetro digitais.
 - **Médios:** Recuados em 2–4 kHz (de 3 a 6 dB abaixo do alvo, mais forte em 2,5–3,5 kHz) e levemente em 400–700 Hz (até ~1,5 dB), desvio médio de 1,95 dB (4)
 - **Agudos:** Recuo de ~5 dB em 4 kHz, diminuindo para ~1,5 dB em 5 kHz, pico em ~5,5–6 kHz levemente acima do alvo (até ~+1 dB) e pico em 8 kHz cerca de +4 dB acima do alvo, desvio médio de 1,61 dB (4)
 - **Físico:** De referência em conforto e ergonomia; construção leve e muito bem acabada (5)
-- **Acessórios:** Cabo muito resistente, mas não trançado e difícil de trocar por ser exclusivo da Sennheiser; ponteiras de silicone de excelente qualidade, e uma de espuma de memória; embalagem com case e limpador de sujeira para bocal/ponteras (4)
+- **Acessórios:** Cabo muito resistente, mas não trançado e difícil de trocar por ser exclusivo da Sennheiser; ponteiras de silicone de excelente qualidade, e uma de espuma de memória; embalagem com case e limpador de sujeira para bocal/ponteiras (4)
 
 ### 📋 Nota geral: 4,0 / 5
 
