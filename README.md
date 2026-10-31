@@ -80,6 +80,6 @@ Como a grade é logarítmica, cada oitava pesa igual, e não cada Hz. Por isso G
 
 ## Comparativo e desvios
 
-O [comparativo.csv](comparativo.csv) reúne os dados de todos os IEMs. Nele, "Nota Som" é a média simples das notas de graves, médios e agudos, e "Custo-benefício" é a nota geral dividida pelo preço, multiplicada por 100 (pontos de nota por 100 USD). Como a nota mínima é 1, um IEM muito barato e ruim pode ter custo-benefício alto, então a coluna deve ser lida junto com a nota.
+O [comparativo.csv](comparativo.csv) reúne os dados de todos os IEMs. Nele, "Nota Som" é a média simples das notas de graves, médios e agudos.
 
 O [desvios.csv](desvios.csv) mostra, para cada IEM, o desvio médio por banda (graves, médios e agudos), o desvio total, ou seja, a média da distância ao alvo Harman IE 2019 em toda a curva de 20 Hz a 10 kHz, e o desvio máximo com a frequência em que ocorre. As linhas são ordenadas pelo desvio total, do mais ao menos próximo do alvo. Esse ranking mede só a fidelidade da curva e pode diferir do ranking por nota geral, que também considera Físico e Acessórios.
