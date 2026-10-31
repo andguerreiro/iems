@@ -3,13 +3,13 @@
 | Posição | IEM | Nota (1 a 5) | Preço (USD) | Assinatura |
 | :---: | :--- | :---: | :---: | :--- |
 | **1º** | [Kefine Klean](/avaliacoes/kefine_klean.md) | **4,4** | 49 | Harman-quente |
-| **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **4,0** | 50 | Harman-suave |
-| **3º** | [KZ Castor](/avaliacoes/kz_castor.md) | **3,8** | 15 | Harman |
-| **4º** | [Sennheiser IE 100 Pro](/avaliacoes/sennheiser_ie_100_pro.md) | **3,6** | 109 | Neutra-leve |
-| **5º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **3,2** | 55 | Neutra |
-| **6º** | [KZ EDX Pro X](/avaliacoes/kz_edx_pro_x.md) | **3,0** | 10 | Quente-brilhante |
-| **7º** | [KZ ZS12 Pro X](/avaliacoes/kz_zs12_pro_x.md) | **2,4** | 59 | Neutra-brilhante |
-| **8º** | [JBL Tune 110](/avaliacoes/jbl_tune_110.md) | **1,4** | 15 | Em V |
+| **2º** | [Kiwi Ears Cadenza 2](/avaliacoes/kiwi_ears_cadenza_2.md) | **4,2** | 50 | Harman-suave |
+| **3º** | [Sennheiser IE 100 Pro](/avaliacoes/sennheiser_ie_100_pro.md) | **4,0** | 109 | Neutra-leve |
+| **4º** | [KZ Castor](/avaliacoes/kz_castor.md) | **3,8** | 15 | Harman |
+| **5º** | [KZ EDX Pro X](/avaliacoes/kz_edx_pro_x.md) | **3,2** | 10 | Quente-brilhante |
+| **6º** | [Truthear Zero Red](/avaliacoes/truthear_zero_red.md) | **3,2** | 55 | Neutra |
+| **7º** | [KZ ZS12 Pro X](/avaliacoes/kz_zs12_pro_x.md) | **2,6** | 59 | Neutra-brilhante |
+| **8º** | [JBL Tune 110](/avaliacoes/jbl_tune_110.md) | **1,6** | 15 | Em V |
 
 ## Como avalio
 
@@ -30,8 +30,6 @@ A distância é a média, em dB, dos desvios para cima e para baixo na banda:
 - Acima de 2,0 até 3,0 dB: OK (3)
 - Acima de 3,0 até 4,5 dB: Ruim (2)
 - Acima de 4,5 dB: Péssimo (1)
-
-**Penalização por picos e vales:** a média suaviza desvios estreitos, mas um pico ou vale grande é audível (estridência, buraco no timbre). Por isso, se o maior desvio em um único ponto da banda passar de 6 dB, a nota da banda perde 1 ponto, com mínimo de 1. A penalização vale para cada banda separadamente e é aplicada depois da escala acima. Nos textos, ela aparece como "(4 − 1 = 3)".
 
 Como a nota é dada por faixas, notas vizinhas podem representar diferenças pequenas: um desvio de 1,99 dB recebe nota 4 e um de 2,01 dB recebe nota 3. O desvio em dB é a informação mais precisa.
 
@@ -75,8 +73,8 @@ Os desvios são calculados por [script](/script/gerar_grafico.py). Ele lê as me
 4. **Distância em cada ponto:** calcula-se a diferença absoluta, em dB, entre o IEM e a Harman. Desvios para cima e para baixo contam igual e não se cancelam.
 5. **Média por banda:** é a média dessas distâncias dentro de cada banda (Graves: 20–250 Hz, Médios: 250 Hz–4 kHz, Agudos: 4–10 kHz). O limite inferior entra e o superior não.
 6. **Desvio total:** é a média das distâncias em todos os pontos de 20 Hz a 10 kHz, e não a média das três bandas. A região do Ar (10–20 kHz) fica de fora, como na nota.
-7. **Desvio máximo:** é a maior distância em um único ponto entre 20 Hz e 10 kHz, junto com a frequência em que ocorre. Essa coluna do `desvios.csv` é informativa e mostra picos e vales estreitos que a média suaviza.
-8. **Nota:** o desvio médio de cada banda é comparado com a escala acima sem arredondar. Em seguida, o script calcula o maior desvio dentro de cada banda e, se passar de 6 dB, tira 1 ponto da nota daquela banda (mínimo 1). Nos textos, o desvio médio aparece com duas casas decimais. O desvio total não entra na nota geral.
+7. **Desvio máximo:** é a maior distância em um único ponto entre 20 Hz e 10 kHz, junto com a frequência em que ocorre. É só informativo e não entra na nota: serve para mostrar picos e vales estreitos que a média suaviza.
+8. **Nota:** o desvio de cada banda é comparado com a escala acima sem arredondar. Nos textos, ele aparece com duas casas decimais. Nem o desvio total nem o desvio máximo entram na nota geral.
 
 Como a grade é logarítmica, cada oitava pesa igual, e não cada Hz. Por isso Graves (cerca de 3,6 oitavas) e Agudos (cerca de 1,3 oitava) são médias sobre faixas de larguras bem diferentes. Pelo mesmo motivo, o desvio total pesa cada banda pela sua largura em oitavas, e os Agudos influenciam menos do que influenciariam numa média simples das três bandas.
 
@@ -84,4 +82,4 @@ Como a grade é logarítmica, cada oitava pesa igual, e não cada Hz. Por isso G
 
 O [comparativo.csv](comparativo.csv) reúne os dados de todos os IEMs. Nele, "Nota Som" é a média simples das notas de graves, médios e agudos.
 
-O [desvios.csv](desvios.csv) mostra, para cada IEM, o desvio médio por banda (graves, médios e agudos), o desvio total, ou seja, a média da distância ao alvo Harman IE 2019 em toda a curva de 20 Hz a 10 kHz, e o desvio máximo com a frequência em que ocorre. As linhas são ordenadas pelo desvio total, do mais ao menos próximo do alvo. Esse ranking mede só a fidelidade da curva e pode diferir do ranking por nota geral, que também considera Físico e Acessórios e a penalização por picos.
+O [desvios.csv](desvios.csv) mostra, para cada IEM, o desvio médio por banda (graves, médios e agudos), o desvio total, ou seja, a média da distância ao alvo Harman IE 2019 em toda a curva de 20 Hz a 10 kHz, e o desvio máximo com a frequência em que ocorre. As linhas são ordenadas pelo desvio total, do mais ao menos próximo do alvo. Esse ranking mede só a fidelidade da curva e pode diferir do ranking por nota geral, que também considera Físico e Acessórios.

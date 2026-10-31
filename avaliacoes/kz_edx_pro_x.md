@@ -28,21 +28,21 @@ Medições realizadas com balança e paquímetro digitais.
 ## Avaliação
 - **Graves:** Acima do alvo de 50 a 250 Hz (até ~+4 dB em 100–250 Hz), desvio médio de 2,76 dB (3)
 - **Médios:** Elevados ~3 dB em 250–300 Hz e ~1,5 dB em 2–2,5 kHz, no alvo no restante, desvio médio de 1,18 dB (4)
-- **Agudos:** Pico pronunciado de ~+9 dB em 8 kHz, desvio médio de 1,97 dB (4 − 1 = 3, por pico acima de 6 dB)
+- **Agudos:** Pico pronunciado de ~+9 dB em 8 kHz, desvio médio de 1,97 dB (4)
 - **Físico:** Leve e pequeno, com encaixe perfeito mas bem simples (3)
 - **Acessórios:** Cabo, ponteiras e embalagem simples demais (2)
 
-### 📋 Nota geral: 3,0 / 5
+### 📋 Nota geral: 3,2 / 5
 
 ## Resumo
 
 **Prós:** Muito barato, leve, ergonômico e com afinação eficiente pelo preço.
 
-**Contras:** Graves acima do alvo, pico de ~9 dB em 8 kHz e acessórios muito simples.
+**Contras:** Graves acima do alvo, pico em 8 kHz e acessórios muito simples.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
-- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1,0 dB = (5), Acima de 1,0 até 2,0 dB = (4), Acima de 2,0 até 3,0 dB = (3), Acima de 3,0 até 4,5 dB = (2), Acima de 4,5 dB = (1). Se o maior desvio em um ponto da banda passar de 6 dB, a nota da banda perde 1 ponto (mínimo 1).
+- **Graves, Médios e Agudos:** Distância média absoluta entre a curva e o alvo (Harman 2019) na banda, considerando desvios para cima e para baixo: Até 1,0 dB = (5), Acima de 1,0 até 2,0 dB = (4), Acima de 2,0 até 3,0 dB = (3), Acima de 3,0 até 4,5 dB = (2), Acima de 4,5 dB = (1)
 - **Bandas:** Graves (20–250 Hz), Médios (250 Hz–4 kHz), Agudos (4–10 kHz).
 - **Físico:** Conforto, ergonomia e construção.
 - **Acessórios:** Cabo, ponteiras e embalagem.

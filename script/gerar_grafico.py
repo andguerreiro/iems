@@ -19,9 +19,6 @@ bandas = {
     "Agudos": (4000, 10000),
 }
 
-# desvio (em dB) acima do qual um pico ou vale em uma banda tira 1 ponto da nota dela
-LIMITE_PICO = 6.0
-
 # 1000 pontos em escala logarítmica: cada oitava tem o mesmo número de pontos,
 # então a média sobre a curva já pondera cada região pela sua largura em oitavas
 freq = np.logspace(np.log10(20), np.log10(20000), 1000)
@@ -57,22 +54,17 @@ def interp(f, a):
     return np.interp(np.log10(freq), np.log10(f), a)
 
 
-def nota(desvio, pico=0.0):
-    """Nota de 1 a 5 pela régua do README, com penalização de 1 ponto
-    (mínimo 1) se o maior desvio na banda passar de LIMITE_PICO."""
+def nota(desvio):
+    """Nota de 1 a 5 pela régua do README."""
     if desvio <= 1.0:
-        n = 5
-    elif desvio <= 2.0:
-        n = 4
-    elif desvio <= 3.0:
-        n = 3
-    elif desvio <= 4.5:
-        n = 2
-    else:
-        n = 1
-    if pico > LIMITE_PICO:
-        n = max(1, n - 1)
-    return n
+        return 5
+    if desvio <= 2.0:
+        return 4
+    if desvio <= 3.0:
+        return 3
+    if desvio <= 4.5:
+        return 2
+    return 1
 
 
 def fmt(x):
@@ -123,22 +115,15 @@ def processar(iem, arquivos, harman):
     # normaliza em 1 kHz (mesmo valor do alvo nesse ponto)
     curva = curva - curva[ref] + harman[ref]
     erro = np.abs(curva - harman)
-    diff = curva - harman  # com sinal: positivo = acima do alvo, negativo = abaixo
 
     print(f"\n=== {iem} ({len(arquivos)} arquivo(s): {', '.join(arquivos)}) ===")
-    desvios, picos, freqs_pico, notas = {}, {}, {}, {}
+    desvios, notas = {}, {}
     for nome, (lo, hi) in bandas.items():
         m = (freq >= lo) & (freq < hi)
         d = np.mean(erro[m])
-        i_pico = np.argmax(erro[m])
-        pico = erro[m][i_pico]
-        f_pico = freq[m][i_pico]
-        sinal = "+" if diff[m][i_pico] >= 0 else "-"
-        n = nota(d, pico)
-        desvios[nome], picos[nome], freqs_pico[nome], notas[nome] = d, pico, f_pico, n
-        aviso = "  [-1 ponto por pico/vale > 6 dB]" if pico > LIMITE_PICO else ""
-        print(f"  {nome} ({lo}–{hi} Hz): média {fmt(d)} dB | "
-              f"pico {sinal}{fmt(pico)} dB em {f_pico:.0f} Hz -> nota {n}{aviso}")
+        desvios[nome] = d
+        notas[nome] = nota(d)
+        print(f"  {nome} ({lo}–{hi} Hz): {fmt(d)} dB de distância da Harman IE 2019 -> nota {notas[nome]}")
 
     # desvio total = média direta sobre toda a curva (20 Hz a 10 kHz)
     erro_faixa = erro[faixa_total]
@@ -157,8 +142,6 @@ def processar(iem, arquivos, harman):
     return {
         "iem": iem,
         **desvios,
-        "picos": picos,
-        "freqs_pico": freqs_pico,
         "notas": notas,
         "total": desvio_total,
         "max": desvio_max,
@@ -207,16 +190,12 @@ def main():
               f"{r['freq_max']:>8.0f}")
 
     print("\n" + "=" * 92)
-    print("NOTAS POR BANDA (com penalização) E PICO MÁXIMO DE CADA BANDA")
+    print("NOTAS POR BANDA")
     print("=" * 92)
-    print(f"{'IEM':<26} {'Nota G/M/A':>11}   {'Pico G (dB@Hz)':>16} "
-          f"{'Pico M (dB@Hz)':>16} {'Pico A (dB@Hz)':>16}")
+    print(f"{'IEM':<26} {'Graves':>8} {'Médios':>8} {'Agudos':>8}")
     for r in resultados:
         n = r["notas"]
-        notas_txt = f"{n['Graves']}/{n['Médios']}/{n['Agudos']}"
-        cols = [f"{fmt(r['picos'][b])}@{r['freqs_pico'][b]:.0f}"
-                for b in ("Graves", "Médios", "Agudos")]
-        print(f"{r['iem']:<26} {notas_txt:>11}   {cols[0]:>16} {cols[1]:>16} {cols[2]:>16}")
+        print(f"{r['iem']:<26} {n['Graves']:>8} {n['Médios']:>8} {n['Agudos']:>8}")
 
     # CSV (vírgula como separador, ponto como decimal)
     with open(ARQ_CSV, "w", encoding="utf-8-sig") as fh:
