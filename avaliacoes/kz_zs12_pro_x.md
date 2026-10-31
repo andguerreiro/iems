@@ -38,7 +38,7 @@ Medições realizadas com balança e paquímetro digitais.
 
 **Prós:** Afinação excelente nos médios e construção em liga de zinco robusta.
 
-**Contras:** Controle de qualidade ruim (devolvi por falha de volume), sub-graves recuados, agudos irregulares e acessórios simples.
+**Contras:** Graves um pouco acima do alvo, agudos com recuo em 6–7 kHz e vale de ~5 dB perto de 9,5 kHz, e leve incômodo no canal auditivo após várias horas devido ao bocal grosso.
 
 ## Como avalio
 - **(1) = Péssimo, (2) = Ruim, (3) = OK, (4) = Ótimo e (5) = Excelente**
