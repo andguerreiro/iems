@@ -1,9 +1,9 @@
-Posição,IEM,Preço (USD),Assinatura,Graves (dB),Médios (dB),Agudos (dB),Soma Desvios (dB)
-1,KZ Castor,15,Harman,0.65,1.12,1.73,3.50
-2,Kiwi Ears Cadenza 2,50,Harman-suave,0.57,0.74,2.64,3.95
-3,Kefine Klean,49,Harman-quente,1.92,0.90,1.70,4.52
-4,Truthear Zero Red,55,Neutra,1.33,0.76,2.75,4.84
-5,KZ EDX Pro X,10,Quente-brilhante,2.76,1.18,1.97,5.91
-6,Sennheiser IE 100 Pro,109,Neutra-leve,2.81,1.95,1.61,6.37
-7,KZ ZS12 Pro X,59,Neutra-brilhante,3.10,0.95,4.33,8.38
-8,JBL Tune 110,15,Em V,7.52,2.16,4.77,14.45
+Posição,IEM,Preço (USD),Assinatura,Graves (dB),Médios (dB),Agudos (dB),Desvio total (dB)
+1,KZ Castor,15,Harman (com chaves em 1100),0.65,1.12,1.73,1.17
+2,Kiwi Ears Cadenza 2,50,Harman-suave,0.57,0.74,2.64,1.32
+3,Kefine Klean,49,Harman-quente (filtro prata),1.92,0.90,1.70,1.51
+4,Truthear Zero Red,55,Neutra,1.33,0.76,2.75,1.61
+5,KZ EDX Pro X,10,Quente-brilhante,2.76,1.18,1.97,1.97
+6,Sennheiser IE 100 Pro,109,Neutra-leve,2.81,1.95,1.61,2.12
+7,KZ ZS12 Pro X,59,Neutra-brilhante (com chaves em UDDD),3.10,0.95,4.33,2.79
+8,JBL Tune 110,15,Em V,7.52,2.16,4.77,4.82
