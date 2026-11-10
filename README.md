@@ -157,6 +157,6 @@ python3 scripts/comparativo.py
 ## Adicionar um IEM
 
 1. Coloque a medição na pasta `medicoes/`.
-2. Execute `python3 scripts/graficos.py` para gerar os gráficos e a avaliação inicial, já com a assinatura calculada.
+2. Execute `python3 scripts/graficos.py` para gerar os gráficos e a avaliação inicial, já com os desvios calculados.
 3. Preencha os campos restantes (marcados com `X`) e os 5 critérios de uso no arquivo gerado em `avaliacoes/`.
 4. Execute `python3 scripts/comparativo.py` para conferir os dados e atualizar o ranking.
