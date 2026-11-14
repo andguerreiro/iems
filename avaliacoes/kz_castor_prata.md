@@ -2,13 +2,13 @@
 
 [← Voltar ao ranking](../README.md)
 
-| Preço | Assinatura | Configuração medida |
-| :---: | :---: | :--- |
-| USD 15 | Neutro | Chaves em 1100 |
+| Preço  | Assinatura | Configuração medida |
+| :----: | :--------: | :------------------ |
+| USD 15 |   Neutro   | Chaves em 1100      |
 
 ## Resposta em frequência
 
-![Gráfico do KZ Castor](../graficos/kz_castor.png)
+![Gráfico do KZ Castor](../graficos/kz_castor_prata.png)
 
 ## Avaliação do som
 
