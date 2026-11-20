@@ -1,0 +1,10 @@
+﻿Posicao,IEM,Assinatura,Massa (g),Bocal (mm),Carcaca (mm),Preco (USD),Desvio Graves (dB),Desvio Medios (dB),Desvio Agudos (dB),Desvio total (dB),Desvio maximo (dB),Freq. do desvio maximo (Hz),Nota Graves,Nota Medios,Nota Agudos,Nota Som,Uso Bocal,Uso Conforto,Uso Cabo,Uso Ponteiras,Uso Reparo,Nota Uso,Nota geral
+1,Kiwi Ears Cadenza II,Neutro,4,5.9,23.4,50,~0.60,~0.85,~3.60,~1.40,~7.00,~6.50 kHz,4.90,4.65,1.90,3.82,1,0,1,1,1,4.00,3.86
+2,KZ Castor Prata,Neutro brilhante,8,6.0,21.8,15,~0.85,~1.50,~2.10,~1.50,~3.00,~3.00 kHz,4.65,4.00,3.40,4.02,1,1,0,0,1,3.00,3.76
+3,Kefine Klean,Neutro quente,10,6.3,22.7,49,~2.10,~0.85,~2.10,~1.65,~4.50,~6.50 kHz,3.40,4.65,3.40,3.82,0,1,1,0,1,3.00,3.61
+4,Truthear x Crinacle Zero Red,Neutro,6,6.8,22.7,55,~0.75,~0.65,~2.70,~1.25,~6.00,~6.30 kHz,4.75,4.85,2.80,4.13,0,0,1,0,1,2.00,3.60
+5,Moondrop Chu II,Neutro quente,7,5.8,18.3,23,~2.15,~0.70,~2.30,~1.55,~4.50,~6.30 kHz,3.35,4.80,3.20,3.78,1,1,0,0,1,3.00,3.59
+6,KZ ZS12 Pro X,Neutro brilhante,12,6.0,22.6,50,~0.85,~1.25,~4.60,~1.65,~8.00,~8.50 kHz,4.65,4.25,1.00,3.30,1,1,0,0,1,3.00,3.23
+7,KZ EDX Pro X,Em V,3,5.2,22.5,10,~2.90,~1.05,~2.70,~2.10,~9.50,~8.00 kHz,2.60,4.45,2.80,3.28,1,1,0,0,1,3.00,3.21
+8,Sennheiser IE 100 Pro,Quente,2,5.3,20.1,100,~2.45,~2.25,~3.20,~2.45,~6.00,~10.00 kHz,3.05,3.25,2.30,2.87,1,1,1,1,0,4.00,3.15
+9,JBL Tune 110,Baixudo,2,5.7,12.0,15,~7.50,~2.20,~4.80,~4.70,~8.50,~8.00 kHz,1.00,3.30,1.00,1.77,1,1,0,1,0,3.00,2.08
