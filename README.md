@@ -1,4 +1,4 @@
-# Meus IEMs: avaliações pessoais
+# Ranking dos Meus IEMs
 
 Avalio apenas os IEMs que comprei e usei. As notas refletem minha experiência e meus critérios pessoais, não uma classificação definitiva.
 
